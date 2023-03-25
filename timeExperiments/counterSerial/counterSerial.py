@@ -23,5 +23,5 @@ while True:
 
 		with open(outputLocation + '/output.txt', 'a') as outputFile:
 			cleanedData = str((readValue)).replace('FA', '')
-			outputFile.write(str((readValue)).replace('FA', ''))
+			outputFile.write(cleanedData)
 			print(cleanedData)
