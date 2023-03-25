@@ -17,7 +17,7 @@ with open(outputLocation + '/output.txt', 'w'):
 while True:
 
 	if counter.in_waiting == 0:
-		pass
+		time.sleep(0.01)
 	else:
 		readValue = counter.readline().decode()
 
