@@ -1,0 +1,1501 @@
+Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency,Dup,Offset,Mode,TONE,Repeater Tone,RPT1USE,Position,Latitude,Longitude,UTC Offset
+2,Asia,Shenyang,China,BR2RH  B,BR2RH  G,439.3750,DUP-,7.6,DV,OFF,82.5Hz,Yes,Approximate,123.51,41.78,+08:00
+4,Canada,Calgary,Alberta,VA6ACW C,VA6ACW G,145.6500,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.13,-114.25,-07:00
+4,Canada,Calgary,Alberta,VA6ACW B,VA6ACW G,445.8500,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.13,-114.25,-07:00
+4,Canada,Calgary,Alberta,VE6GHZ B,VE6GHZ G,444.9500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,51.14,-114.16,-07:00
+4,Canada,Calgary,Alberta,VE6GHZ C,VE6GHZ G,147.0900,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,51.14,-114.16,-07:00
+4,Canada,Calgary,Alberta,VE6IPG B,VE6IPG G,444.9625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,50.97,-114.07,-07:00
+4,Canada,Calgary,Alberta,VE6IPG C,VE6IPG G,147.2850,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,50.97,-114.07,-07:00
+4,Canada,Claresholm,Alberta,VE6AAH C,VE6AAH G,145.2100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,49.89,-114,-07:00
+4,Canada,Edmonton,Alberta,VE6BHX B,VE6BHX G,440.7500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,53.47,-113.41,-07:00
+4,Canada,Edmonton,Alberta,VE6KM  C,VE6KM  G,145.4700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,53.53,-113.34,-07:00
+4,Canada,Edmonton,Alberta,VE6KM  B,VE6KM  G,444.9000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,53.53,-113.34,-07:00
+4,Canada,Medicine Hat,Alberta,VA6SRG B,VA6SRG G,444.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,49.97,-110.58,-07:00
+4,Canada,Medicine Hat,Alberta,VE6MHD B,VE6MHD G,445.9000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,50.01,-110.63,-07:00
+4,Canada,St.Albert,Alberta,VE6JKB B,VE6JKB G,444.2500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,53.64,-113.67,-07:00
+4,Canada,Chilliwack,British Columbia,VE7RCK B,VE7RCK G,444.6250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,49.11,-121.9,-08:00
+4,Canada,Chilliwack,British Columbia,VE7RCK C,VE7RCK G,145.0600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,49.11,-121.9,-08:00
+4,Canada,Kelowna,British Columbia,VA7DIG C,VA7DIG G,145.0300,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,49.88,-119.46,-08:00
+4,Canada,Kelowna,British Columbia,VA7DIG B,VA7DIG G,440.9500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,49.88,-119.46,-08:00
+4,Canada,Maple Ridge,British Columbia,VE7RMR B,VE7RMR G,440.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,49.21,-122.51,-08:00
+4,Canada,Mt Seymour,British Columbia,VE7RAG B,VE7RAG G,443.4000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,49.37,-122.95,-08:00
+4,Canada,Mt Seymour,British Columbia,VE7RAG C,VE7RAG G,147.0200,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,49.37,-122.95,-08:00
+4,Canada,Prince George,British Columbia,VE7RES C,VE7RES G,147.0200,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,53.9,-122.76,-08:00
+4,Canada,Prince George,British Columbia,VE7RES B,VE7RES G,442.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,53.9,-122.76,-08:00
+4,Canada,Sooke,British Columbia,VA7PRR C,VA7PRR G,146.1200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,48.38,-123.73,-08:00
+4,Canada,Vancouver,British Columbia,VA7ICM B,VA7ICM G,442.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,49.19,-122.83,-08:00
+4,Canada,Vancouver,British Columbia,VA7ICM C,VA7ICM G,145.0400,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,49.19,-122.83,-08:00
+4,Canada,Victoria,British Columbia,VE7VIC C,VE7VIC G,145.0800,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,48.5,-123.5,-08:00
+4,Canada,Winnipeg,Manitoba,VE4UMR B,VE4UMR G,443.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,49,-96.44,-06:00
+4,Canada,Winnipeg,Manitoba,VE4WDR B,VE4WDR G,444.5750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,49.88,-97.15,-06:00
+4,Canada,Winnipeg,Manitoba,VE4WDR C,VE4WDR G,145.4900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,49.88,-97.15,-06:00
+4,Canada,Saint John,New Brunswick,VE9SJN C,VE9SJN G,145.2900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.32,-66.06,-04:00
+4,Canada,St Johns,Newfoundland,VO1TZ  C,VO1TZ  G,145.0900,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,47.53,-52.84,-03:30
+4,Canada,St Johns,Newfoundland,VO1TZ  B,VO1TZ  G,443.4000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.53,-52.84,-03:30
+4,Canada,Antigonish,Nova Scotia,VE1JSR B,VE1JSR G,441.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.62,-61.97,-02:00
+4,Canada,Almonte,Ontario,VA3AAR C,VA3AAR G,145.5500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.17,-76.29,-05:00
+4,Canada,Almonte,Ontario,VA3AAR B,VA3AAR G,444.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.17,-76.29,-05:00
+4,Canada,Blenheim,Ontario,VA3IBA C,VA3IBA G,145.7900,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,42.34,-81.98,-05:00
+4,Canada,Burlington,Ontario,VE3RSB B,VE3RSB G,442.0375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.36,-79.86,-05:00
+4,Canada,Chatham,Ontario,VA3ODC C,VA3ODC G,145.1000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.43,-82.2,-05:00
+4,Canada,Cornwall,Ontario,VA3SDG C,VA3SDG G,145.5700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.04,-74.74,-05:00
+4,Canada,Cornwall,Ontario,VA3SDG B,VA3SDG G,444.4500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.04,-74.74,-05:00
+4,Canada,Fonthill- ON,Ontario,VE3PLF B,VE3PLF G,444.7250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.05,-79.3,-05:00
+4,Canada,Hamilton,Ontario,VE3WIK B,VE3WIK G,443.6375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.39,-79.97,-05:00
+4,Canada,Hamilton,Ontario,VE3WIK C,VE3WIK G,145.3300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.39,-79.97,-05:00
+4,Canada,Leamington,Ontario,VE3LNK C,VE3LNK G,145.6900,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,42.06,-82.6,-05:00
+4,Canada,Little Current,Ontario,VE3RXR C,VE3RXR G,145.3100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.96,-81.93,-05:00
+4,Canada,Little Current,Ontario,VE3RXR B,VE3RXR G,442.0500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.96,-81.93,-05:00
+4,Canada,London,Ontario,VE3TTT B,VE3TTT G,442.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.99,-81.24,-05:00
+4,Canada,Maple,Ontario,VA3ITL B,VA3ITL G,442.2125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.11,-79.19,-05:00
+4,Canada,Maple,Ontario,VE3LEO C,VE3LEO G,144.3000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,44.19,-79.32,-05:00
+4,Canada,Maple,Ontario,VE3LEO B,VE3LEO G,446.0000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,44.19,-79.32,-05:00
+4,Canada,Milverton,Ontario,VE3NMN C,VE3NMN G,147.4150,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.57,-80.91,-05:00
+4,Canada,Milverton,Ontario,VE3NMN B,VE3NMN G,438.1000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.57,-80.91,-05:00
+4,Canada,Mississauga,Ontario,VA3PMO B,VA3PMO G,444.2500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.59,-79.64,-05:00
+4,Canada,Mississauga,Ontario,VE3RSD C,VE3RSD G,147.5400,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.6,-79.78,-05:00
+4,Canada,Mississauga,Ontario,VE3RSD B,VE3RSD G,443.8125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.6,-79.78,-05:00
+4,Canada,Mt.St. Patrick,Ontario,VE3STP C,VE3STP G,147.5400,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,45.31,-76.9,-05:00
+4,Canada,Mt.St. Patrick,Ontario,VE3STP B,VE3STP G,443.8125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.31,-76.9,-05:00
+4,Canada,Niagara on the L,Ontario,VA3YYZ C,VA3YYZ G,144.9300,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.22,-79.13,-05:00
+4,Canada,Niagara on the L,Ontario,VA3YYZ B,VA3YYZ G,442.6875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.22,-79.13,-05:00
+4,Canada,Norfolk,Ontario,VE3HJ  B,VE3HJ  G,444.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.93,-80.28,-05:00
+4,Canada,Ottawa,Ontario,VA3ODG B,VA3ODG G,444.8500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.42,-75.68,-05:00
+4,Canada,Ottawa,Ontario,VA3ODG C,VA3ODG G,145.5300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.42,-75.68,-05:00
+4,Canada,Perth,Ontario,VA3RDD C,VA3RDD G,147.2400,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.84,-76.18,-05:00
+4,Canada,Perth,Ontario,VA3RDD B,VA3RDD G,444.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.84,-76.18,-05:00
+4,Canada,Phelpston,Ontario,VE3RIG B,VE3RIG G, 442.0500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.52,-79.84,-05:00
+4,Canada,Sault Ste. Marie,Ontario,VA3OTL B,VA3OTL G,443.0500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,46.53,-84.31,-05:00
+4,Canada,Sault Ste. Marie,Ontario,VA3OTL C,VA3OTL G,145.1300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,46.53,-84.31,-05:00
+4,Canada,Sault Ste. Marie,Ontario,VA3SNR C,VA3SNR G,145.2100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,46.55,-84.32,-05:00
+4,Canada,Simcoe County,Ontario,VE3LSR C,VE3LSR G,145.1900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.54,-79.66,-05:00
+4,Canada,Simcoe County,Ontario,VE3LSR B,VE3LSR G,444.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.54,-79.66,-05:00
+4,Canada,St Catharines,Ontario,VE3NUU B,VE3NUU G,443.8375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.24,-79.21,-05:00
+4,Canada,Sudbury,Ontario,VA3SRG C,VA3SRG G,147.0900,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,46.5,-81,-05:00
+4,Canada,Thornhill,Ontario,VE3EBX B,VE3EBX G,444.0000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.8,-79.55,-05:00
+4,Canada,Toronto,Ontario,VA3DVN B,VA3DVN G,444.7375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.7,-79.43,-05:00
+4,Canada,Toronto,Ontario,VA3SLU B,VA3SLU G,442.4125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.7,-79.43,-05:00
+4,Canada,Toronto,Ontario,VE3YYZ B,VE3YYZ G,442.7000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.65,-79.38,-05:00
+4,Canada,Toronto,Ontario,VE3YYZ C,VE3YYZ G,144.9400,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.65,-79.38,-05:00
+4,Canada,Whitechurch,Ontario,VE3WWD C,VE3WWD G,147.1950,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.91,-81.43,-05:00
+4,Canada,Windsor,Ontario,VA3WDG B,VA3WDG G,445.8250,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,42.25,-82.96,-05:00
+4,Canada,Windsor,Ontario,VE3ZIN B,VE3ZIN G,434.7750,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,42.32,-82.97,-05:00
+4,Canada,Charlottetown,Prince Edward Island,VE1UHF B,VE1UHF G,443.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,46.21,-63.22,-04:00
+4,Canada,Charlottetown,Prince Edward Island,VE1UHF C,VE1UHF G,146.7150,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,46.21,-63.22,-04:00
+4,Canada,Kensington,Prince Edward Island,VY2DSR C,VY2DSR G,147.3150,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,46.43,-63.63,-05:00
+4,Canada,Alma,Quebec,VE2RVI B,VE2RVI G,442.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,48.6,-71.59,-05:00
+4,Canada,Covey Hill,Quebec,VA2REX B,VA2REX G,448.3250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,45.02,-73.84,-05:00
+4,Canada,Covey Hill,Quebec,VE2REX C,VE2REX G,145.5900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.02,-73.79,-05:00
+4,Canada,Drummondville,Quebec,VA2XNY C,VA2XNY G,145.5500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.89,-73.52,-05:00
+4,Canada,Gatineau,Quebec,VE2REG C,VE2REG G,147.1800,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.56,-75.5,-05:00
+4,Canada,Gatineau,Quebec,VE2REG B,VE2REG G,442.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.56,-75.5,-05:00
+4,Canada,Gatineau ,Quebec,VE2REH C,VE2REH G,147.5400,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.6,-79.78,-05:00
+4,Canada,Gatineau ,Quebec,VE2REH B,VE2REH G,446.2500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,43.6,-79.78,-05:00
+4,Canada,Gatineau ,Quebec,VE2REH B,VE2REH G,442.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.6,-79.78,-05:00
+4,Canada,île St Ignace,Quebec,VE2SEW A,VE2SEW G,434.0000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,46.11,-73.1,-05:00
+4,Canada,Maskinonge,Quebec,VA2RPK B,VA2RPK G,442.2000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,46.23,-73.01,-05:00
+4,Canada,Maskinonge,Quebec,VE2RRJ B,VE2RRJ G,442.2000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,46.23,-73.01,-05:00
+4,Canada,Mont St-Gregoire,Quebec,VA2RKA B,VA2RKA G,446.1500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,45.36,-73.14,-05:00
+4,Canada,Mont-Orford,Quebec,VE2RTO B,VE2RTO G,442.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.32,-72.24,-05:00
+4,Canada,Montreal,Quebec,VE2RHH C,VE2RHH G,147.5400,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,45,-73,-05:00
+4,Canada,Montreal,Quebec,VE2RHH B,VE2RHH G,443.8125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45,-73,-05:00
+4,Canada,Mont-Saint-Grego,Quebec,VE2RVR B,VE2RVR G,444.2000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.36,-73.14,-05:00
+4,Canada,Quebec City,Quebec,VE2RQT B,VE2RQT G,449.9250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,46.78,-71.27,-05:00
+4,Canada,Quebec City,Quebec,VE2RQT C,VE2RQT G,144.9500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,46.78,-71.27,-05:00
+4,Canada,Rigaud,Quebec,VE2RM  B,VE2RM  G,442.2500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.46,-74.29,-05:00
+4,Canada,Rougemont,Quebec,VE2RIO B,VE2RIO G,449.9250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,45.48,-73.07,-05:00
+4,Canada,Rougemont,Quebec,VE2RIO C,VE2RIO G,145.5300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.48,-73.07,-05:00
+4,Canada,Saint-Calixte,Quebec,VA2RKB C,VA2RKB G,145.5100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.98,-73.92,-05:00
+4,Canada,Sherbrooke,Quebec,VA2RNJ B,VA2RNJ G,447.2750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,45.41,-71.88,-05:00
+4,Canada,Sherbrooke,Quebec,VE2RQF C,VE2RQF G,147.0600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.42,-71.86,-05:00
+4,Canada,Sorel,Quebec,VE2CST C,VE2CST G,146.9850,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,46.05,-73.09,-05:00
+4,Canada,Sorel,Quebec,VE2FCT B,VE2FCT G,446.2500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,46.05,-73.11,-05:00
+4,Canada,St-Felix-de-Valo,Quebec,VA2RVB B,VA2RVB G,442.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,46.16,-73.44,-05:00
+4,Canada,Trois-Rivieres,Quebec,VA2LX  B,VA2LX  G,448.6750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,46.36,-72.58,-05:00
+4,Canada,Victoriarille,Quebec,VA2RVO C,VA2RVO G,145.5700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,46.06,-71.88,-05:00
+4,Canada,Martensville,Saskatchewan,VE5MBX B,VE5MBX G,449.5000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,52.29,-106.66,-06:00
+4,Canada,Saskatoon,Saskatchewan,VA5DR  B,VA5DR  G,448.1250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,52.14,-106.64,-06:00
+4,Canada,Whitehorse,Yukon Territory,VY1RDS C,VY1RDS G,146.8400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,60.76,-135.23,-08:00
+4,Canada,Whitehorse,Yukon Territory,VY1RDS B,VY1RDS G,443.9750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,60.76,-135.23,-08:00
+6,Europe - Northern,Aarhus S,Denmark,OZ2REL B,OZ2REL G,434.5750,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,56.06,10.21,+01:00
+6,Europe - Northern,Broenderslev,Denmark,OZ2DST B,OZ2DST G,434.5875,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,57.28,9.96,+01:00
+6,Europe - Northern,Esbjerg,Denmark,OZ4RED C,OZ4RED G,145.7625,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,55.51,8.46,+01:00
+6,Europe - Northern,Esbjerg,Denmark,OZ4RED B,OZ4RED G,434.9625,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,55.51,8.46,+01:00
+6,Europe - Northern,Hjallerup,Denmark,OZ1REC B,OZ1REC G,434.5500,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,57.17,10.16,+01:00
+6,Europe - Northern,Hurup Thy,Denmark,OZ9RET C,OZ9RET G,145.6625,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,56.76,8.39,+01:00
+6,Europe - Northern,Hurup Thy,Denmark,OZ9RET B,OZ9RET G,434.9875,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,56.76,8.39,+01:00
+6,Europe - Northern,Nyborg,Denmark,OZ5DS  C,OZ5DS  G,145.7625,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,55.34,10.8,+01:00
+6,Europe - Northern,Nyborg,Denmark,OZ5DS  B,OZ5DS  G,434.5500,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,55.34,10.8,+01:00
+6,Europe - Northern,Randers,Denmark,OZ9REZ B,OZ9REZ G,434.5625,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,56.47,10.02,+01:00
+6,Europe - Northern,Stoevring,Denmark,OZ4REN B,OZ4REN G,434.5250,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,56.89,9.82,+01:00
+6,Europe - Northern,Trekanten,Denmark,OZ2REG C,OZ2REG G,434.5375,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,55.52,9.62,+01:00
+6,Europe - Northern,Trekanten,Denmark,OZ2REG B,OZ2REG G,434.5750,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,55.52,9.62,+01:00
+6,Europe - Northern,Trekanten,Denmark,OZ2REG A,OZ2REG G,434.4250,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,55.52,9.62,+01:00
+6,Europe - Northern,Vivild,Denmark,OZ9DSD B,OZ9DSD G,434.4500,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,56.49,10.45,+01:00
+6,Europe - Northern,Vissenbjerg,Syddanmark,OZ0REV B,OZ0REV G,434.5625,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,55.39,10.14,+01:00
+6,Europe - Northern,Reykjavik,Iceland,TF3RPI B,TF3RPI G,439.9500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,63.98,-21.63,+00:00
+6,Europe - Northern,Bronnoysund,Norway,LD8BS  B,LD8BS  G,433.6375,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,65.5,12.25,+01:00
+6,Europe - Northern,Drammen,Norway,LD3DV  B,LD3DV  G,434.5250,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,59.76,10.21,+01:00
+6,Europe - Northern,Grimstad,Norway,LD4FH  B,LD4FH  G,434.7000,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,58.39,8.59,+01:00
+6,Europe - Northern,Mo i Rana,Norway,LD8MR  B,LD8MR  G,434.8500,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,66.32,14.15,+01:00
+6,Europe - Northern,Mosjoen,Norway,LD8MK  B,LD8MK  G,434.8250,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,65.88,13.2,+01:00
+6,Europe - Northern,Narvik,Norway,LD8NA  B,LD8NA  G,434.7750,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,68.42,17.4,+01:00
+6,Europe - Northern,Nesna,Norway,LD8NN  B,LD8NN  G,433.2750,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,66.22,13.06,+01:00
+6,Europe - Northern,Ornes,Norway,LD8MM  B,LD8MM  G,433.6875,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,66.88,13.72,+01:00
+6,Europe - Northern,Oslo,Norway,LD1OT  B,LD1OT  G,434.8625,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,59.99,10.67,+01:00
+6,Europe - Northern,Risoer,Norway,LD4RH  B,LD4RH  G,434.5375,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,58.77,9.11,+01:00
+6,Europe - Northern,Sandnessjoen,Norway,LD8SA  B,LD8SA  G,434.8000,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,66.01,12.62,+01:00
+6,Europe - Northern,Skien,Norway,LD3GL  B,LD3GL  G,434.5125,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,59.24,9.7,+01:00
+6,Europe - Northern,Stavanger,Norway,LD4VF  C,LD4VF  G,145.6375,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,58.93,5.8,+01:00
+8,Europe - Western,Cherbourg,France,F1ZJE  B,F1ZJE  G,430.4375,DUP+,9.4,DV,OFF,82.5Hz,Yes,Approximate,49.65,-1.65,+01:00
+8,Europe - Western,Den Helder,Netherlands,PI1DHR B,PI1DHR G,438.2625,DUP-,7.6,DV,OFF,82.5Hz,Yes,Approximate,52.96,4.77,+01:00
+8,Europe - Western,Drachten,Netherlands,PI1DRA B,PI1DRA G,438.4000,DUP-,7.6,DV,OFF,82.5Hz,Yes,Approximate,53.11,6.11,+01:00
+8,Europe - Western,IJmuiden,Netherlands,PI1YMD C,PI1YMD G,144.9750,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,52.47,4.6,+01:00
+8,Europe - Western,IJmuiden,Netherlands,PI1YMD B,PI1YMD G,438.0750,DUP-,7.6,DV,OFF,82.5Hz,Yes,Approximate,52.47,4.6,+01:00
+8,Europe - Western,IJmuiden,Netherlands,PI1YMD A,PI1YMD G,145.6000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,52.47,4.6,+01:00
+8,Europe - Western,SNEEK,Netherlands,PI1SNK B,PI1SNK G,438.3250,DUP-,7.6,DV,OFF,82.5Hz,Yes,Approximate,53.03,5.65,+01:00
+8,Europe - Western,SNEEK,Netherlands,PI1SNK C,PI1SNK G,438.4375,DUP-,7.6,DV,OFF,82.5Hz,Yes,Approximate,53.03,5.65,+01:00
+9,Germany,Norderney,Lower Saxony,DB0NEY B,DB0NEY G,439.8000,DUP-,9.4,DV,OFF,82.5Hz,Yes,Approximate,53.71,7.15,+01:00
+11,Islands,Santa Cruz,Aruba,P43L   B,P43L   G,440.5000,DUP-,7.6,DV,OFF,82.5Hz,Yes,Approximate,12.52,-69.99,-04:00
+11,Islands,Willemstad,Curacao,PJ2A   B,PJ2A   G,433.9000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,12.1,-68.9,-04:00
+11,Islands,Cayey,Puerto Rico,WP4OPM C,WP4OPM G,145.1300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,18.12,-66.15,-05:00
+11,Islands,Cayey,Puerto Rico,WP4OPM B,WP4OPM G,447.3750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,18.12,-66.15,-05:00
+13,Japan,Asahikawa,Hokkaido,JP8YEE A,JP8YEE G,439.4300,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,43.78,142.39,+09:00
+13,Japan,Chitose,Hokkaido,JP8YEB A,JP8YEB G,439.4700,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.82,141.53,+09:00
+13,Japan,Hakodate,Hokkaido,JP8YEA A,JP8YEA G,439.0300,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.86,140.94,+09:00
+13,Japan,Kitami,Hokkaido,JP8YEF A,JP8YEF G,439.4100,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,43.83,143.92,+09:00
+13,Japan,Obihiro,Hokkaido,JP8YEC A,JP8YEC G,439.4500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.79,143.13,+09:00
+13,Japan,Sapporo,Hokkaido,JP8YDZ A,JP8YDZ G,439.4900,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,43.47,142.8,+09:00
+14,Latin America,Cali,Colombia,HK6FRC C,HK6FRC G,147.1800,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,3.42,-76.54,-06:00
+14,Latin America,San Salvador,El Salvador,YS1RM  C,YS1RM  G,145.430,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,13.75,-89.25,-06:00
+14,Latin America,Guatemala,Guatemala,TG0AA  C,TG0AA  G,146.9900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,14.39,-90.38,-06:00
+11,Latin America,San Pedro Sula,Honduras,HR2RCH C,HR2RCH G,146.9400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,15.52,-88.02,-06:00
+14,Latin America,Chihuahua,Chihuahua,XE2ITZ C,XE2ITZ G,147.6850,DUP-,3,DV,OFF,82.5Hz,Yes,Approximate,28.38,-106.05,-07:00
+14,Latin America,Monterrey,Nuevo Leon,XE2NL  C,XE2NL  G,145.2100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,25.67,-100.24,-06:00
+14,Latin America,Monterrey,Nuevo Leon,XE2NL  B,XE2NL  G,438.2250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,25.67,-100.24,-06:00
+14,Latin America,Cancun,Quintana Roo,XE3RCC C,XE3RCC G,145.3000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,21.15,-86.89,-06:00
+18,Sweden,Borlange,Dalarna,SK4BW  C,SK4BW  G,145.5750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,60.41,15.47,+01:00
+18,Sweden,Borlange,Dalarna,SK4BW  B,SK4BW  G,434.9000,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,60.41,15.47,+01:00
+18,Sweden,Mora / Orsa,Dalarna,SM4JDP C,SM4JDP G,145.6625,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,61.22,14.56,+01:00
+18,Sweden,Glanshammar,Orebro,SG4UOF C,SG4UOF G,145.3375,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,59.38,15.44,+01:00
+18,Sweden,Norrkoping,Ostergotland,SK5BN  C,SK5BN  G,145.5750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,58.59,16.19,+01:00
+18,Sweden,Glumslov,Skane,SK7MQ  B,SK7MQ  G,434.6250,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,55.94,12.82,+01:00
+18,Sweden,Lonsboda,Skane,SG7IKJ C,SG7IKJ G,144.8125,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,56.4,14.32,+01:00
+18,Sweden,Lonsboda,Skane,SG7IKJ B,SG7IKJ G,433.4750,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,56.4,14.32,+01:00
+18,Sweden,Lonsboda,Skane,SG7IKJ A,SG7IKJ G,439.2700,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,56.4,14.32,+01:00
+18,Sweden,Skane,Skane,SK6BA  C,SK6BA  G,145.5750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,57.5,12.66,+01:00
+18,Sweden,Skane,Skane,SK6BA  B,SK6BA  G,433.5625,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,57.5,12.66,+01:00
+18,Sweden,Eskilstuna,Sodermanland,SK5LW  B,SK5LW  G,434.8500,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,59.4,16.43,+01:00
+18,Sweden,Flen,Sodermanland,SK5UM  B,SK5UM  G,434.5500,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,59.06,16.61,+01:00
+18,Sweden,Bandhagen,Stockholm,SK0RVF C,SK0RVF G,145.3625,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,59.27,18.02,+01:00
+18,Sweden,Bandhagen,Stockholm,SK0RVF B,SK0RVF G,433.4875,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,59.27,18.02,+01:00
+18,Sweden,Bandhagen,Stockholm,SK0RVF A,SK0RVF G,434.3375,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,59.27,18.02,+01:00
+18,Sweden,Sigtuna,Stockholm,SK0RPF B,SK0RPF G,433.4375,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,59.63,17.74,+02:00
+18,Sweden,Stockholm,Stockholm,SK0RMT B,SK0RMT G,434.7375,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,59.45,18.08,+01:00
+18,Sweden,Taby,Stockholm,SB0K   B,SB0K   G,434.5375,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,59.46,18.07,+01:00
+18,Sweden,Tyreso,Stockholm,SE0E   C,SE0E   G,145.3375,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,59.25,18.21,+01:00
+18,Sweden,Tyreso,Stockholm,SK0QO  B,SK0QO  G,434.5750,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,59.24,18.25,+01:00
+18,Sweden,Karlskoga,Varmland,SK4RKD B,SK4RKD G,434.5750,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,59.32,14.49,+01:00
+18,Sweden,Umea,Vasterbotten,SK2AT  C,SK2AT  G,145.0000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,63.83,20.27,+01:00
+18,Sweden,Umea,Vasterbotten,SK2AT  B,SK2AT  G,434.0000,DUP-,2,DV,OFF,82.5Hz,Yes,Approximate,63.83,20.27,+01:00
+18,Sweden,Gothenborough ,Vastra Gotaland,SK6RKI C,SK6RKI G,145.7500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,57.69,11.99,+01:00
+18,Sweden,Gothenburg,Vastra Gotaland,SE6H   B,SE6H   G,433.5250,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,57.72,12.02,+01:00
+18,Sweden,Hjo,Vastra Gotaland,SK6MA  C,SK6MA  G,145.2125,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,58.31,14.27,+01:00
+18,Sweden,Hjo,Vastra Gotaland,SK6MA  B,SK6MA  G,433.4250,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,58.31,14.27,+01:00
+19,United Kingdom,Mt. Leinster,Ireland,EI7MLD B,EI7MLD G,430.3000,DUP+,9,DV,OFF,82.5Hz,Yes,Approximate,52.62,-6.77,+00:00
+19,United Kingdom,Waterford,Ireland,EI7CDD B,EI7CDD G,439.6500,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.04,-7.74,+00:00
+19,United Kingdom,Waterford,Ireland,EI7WCD B,EI7WCD G,439.6750,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.27,-7.15,+00:00
+19,United Kingdom,Barnsley,England,GB7NA  B,GB7NA  G,439.45000,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,53.34,-1.24,+00:00
+19,United Kingdom,Barnsley,England,GB7NA  C,GB7NA  G,145.6750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,53.34,-1.24,+00:00
+19,United Kingdom,Basildon,England,MB6ZZ  C,MB6ZZ  G,144.8625,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.58,0.47,+00:00
+19,United Kingdom,Bath- South West,England,MB6WW  C,MB6WW  G,144.8500,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.35,-2.14,+00:00
+19,United Kingdom,Bath- South West,England,GB7SW  C,GB7SW  G,145.6375,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,51.33,-2.2,+00:00
+19,United Kingdom,BECCLES,England,GB7BE  B,GB7BE  G,439.6625,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.45,1.6,+00:00
+19,United Kingdom,Bewdley,England,GB7WF  B,GB7WF  G,439.4875,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.38,-2.32,+00:00
+19,United Kingdom,Birmingham,England,GB7BM  B,GB7BM  G,439.4000,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.47,-1.88,+00:00
+19,United Kingdom,Blackpool LANCS,England,GB7BF  B,GB7BF  G,439.6750,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,53.8,-3.05,+00:00
+19,United Kingdom,Bletchley Park,England,GB7BP  B,GB7BP  G,439.4500,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52,-0.74,+00:00
+19,United Kingdom,Bourne,England,GB7KU  B,GB7KU  G,439.5250,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.84,-0.4,+00:00
+19,United Kingdom,Bowburn,England,GB7PB  C,GB7PB  G,145.6625,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,54.74,-1.52,+00:00
+19,United Kingdom,Cambridge,England,GB7PI  B,GB7PI  G,439.9125,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.01,0,+00:00
+19,United Kingdom,Cannock,England,GB7ZI  B,GB7ZI  G,439.6875,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.73,-2.03,+00:00
+19,United Kingdom,Carlisle- Cumbri,England,MB6CA  C,MB6CA  G,144.8125,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,54.92,-2.76,+00:00
+19,United Kingdom,Chandlers Ford,England,GB7IV  C,GB7IV  G,145.7750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,50.99,-1.39,+00:00
+19,United Kingdom,Chelmsford Essex,England,MB6CE  C,MB6CE  G,144.8625,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.75,0.52,+00:00
+19,United Kingdom,Clacton on Sea,England,MB6CL  B,MB6CL  G,430.1875,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.82,1.17,+00:00
+19,United Kingdom,Clacton-on-sea,England,GB7TE  C,GB7TE  G,145.7750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,51.81,1.22,+00:00
+19,United Kingdom,Clacton-on-Sea,England,MB6DS  C,MB6DS  G,144.8375,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.81,1.15,+00:00
+19,United Kingdom,Corsham- South W,England,MB6IUE B,MB6IUE G,431.1375,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.42,-2.19,+00:00
+19,United Kingdom,Croydon,England,MB6ISC B,MB6ISC G,434.0500,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.37,-0.08,+00:00
+19,United Kingdom,Derby,England,GB7DC  C,GB7DC  G,145.6875,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,52.94,-1.43,+00:00
+19,United Kingdom,Derby,England,GB7DC  B,GB7DC  G,439.4750,DUP+,9,DV,OFF,82.5Hz,Yes,Approximate,52.94,-1.43,+00:00
+19,United Kingdom,Derbyshire,England,GB3IN  C,GB3IN  G,145.6375,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,53.14,-1.47,+00:00
+19,United Kingdom,East Dereham,England,MB6DE  C,MB6DE  G,144.8250,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,52.68,0.93,+00:00
+19,United Kingdom,East Grinstead,England,MB6EG  C,MB6EG  G,144.8625,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.13,0.03,+00:00
+19,United Kingdom,Eastbourne,England,GB7ES  B,GB7ES  G,439.4375,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,50.82,0.3,+00:00
+19,United Kingdom,Eastbourne,England,MB6EB  C,MB6EB  G,144.8250,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,50.81,0.27,+00:00
+19,United Kingdom,Epsom,England,MB6EP  C,MB6EP  G,144.8250,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.36,-0.26,+00:00
+19,United Kingdom,exeter,England,GB7NL  B,GB7NL  G,439.4625,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,50.74,-3.5,+00:00
+19,United Kingdom,Fareham,England,GB7FH  B,GB7FH  G,439.6125,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,50.86,-1.19,+00:00
+19,United Kingdom,Folkestone,England,GB7CF  C,GB7CF  G,145.6375,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,51.08,1.17,+00:00
+19,United Kingdom,Folkestone,England,GB7CF  B,GB7CF  G,439.5125,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,51.08,1.17,+00:00
+19,United Kingdom,Folkestone,England,GB7FK  B,GB7FK  G,439.7375,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,51.11,1.22,+00:00
+19,United Kingdom,Folkestone,England,GB7FK  C,GB7FK  G,145.7875,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,51.11,1.22,+00:00
+19,United Kingdom,Gosport,England,GB7SO  B,GB7SO  G,439.5250,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,50.81,-1.14,+00:00
+19,United Kingdom,Grantham,England,GB7GR  B,GB7GR  G,439.4500,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.94,-0.65,+00:00
+19,United Kingdom,Grimsby,England,GB7GC  B,GB7GC  G,439.4375,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,53.56,-0.13,+00:00
+19,United Kingdom,Harefield,England,MB6IHF B,MB6IHF G,430.0500,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.61,-0.47,+00:00
+19,United Kingdom,Herne Bay,England,GB7IC  B,GB7IC  G,439.4500,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,51.37,1.15,+00:00
+19,United Kingdom,Herne Bay,England,GB7IC  C,GB7IC  G,145.6625,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,51.37,1.15,+00:00
+19,United Kingdom,Hexham,England,GB7TY  B,GB7TY  G,439.6125,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,55,-2.04,+00:00
+19,United Kingdom,Ilford,England,MB6INL B,MB6INL G,430.0250,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.61,0.04,+00:00
+19,United Kingdom,Leicester (Markf,England,GB3CF  C,GB3CF  G,145.6000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,52.7,-1.28,+00:00
+19,United Kingdom,Lincoln,England,MB6ILN B,MB6ILN G, 431.1125,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,53.21,-0.54,+00:00
+19,United Kingdom,Liverpool,England,MB6PF  C,MB6PF  G,144.8625,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,53.46,-2.99,+00:00
+19,United Kingdom,London,England,GB7OK  C,GB7OK  G,145.7125,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,51.36,0.15,+00:00
+19,United Kingdom,Luton,England,MB6ILT B,MB6ILT G,430.0375,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.89,-0.36,+00:00
+19,United Kingdom,Lynemouth,England,GB7NE  B,GB7NE  G,439.4500,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,55.21,-1.52,+00:00
+19,United Kingdom,Manchester,England,GB7MA  C,GB7MA  G,145.6000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,53.48,-2.08,+00:00
+19,United Kingdom,Mendlesham ,England,GB7PP  B,GB7PP  G,439.4375,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.52,1.08,+00:00
+19,United Kingdom,Norwich,England,GB7NB  B,GB7NB  G,439.6875,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.58,1.34,+00:00
+19,United Kingdom,Orpington,England,MB6IOK B,MB6IOK G,430.0375,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.4,0.13,+00:00
+19,United Kingdom,Plymouth,England,GB3IE  B,GB3IE  G,430.8500,DUP+,7.6,DV,OFF,82.5Hz,Yes,Approximate,50.39,-4.11,+00:00
+19,United Kingdom,Portsmouth,England,GB7RN  C,GB7RN  G,145.6375,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,50.84,1.19,+00:00
+19,United Kingdom,Ruislip,England,MB6RE  C,MB6RE  G,144.8375,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.57,-0.39,+00:00
+19,United Kingdom,Sandy,England,GB7SY  B,GB7SY  G,439.5875,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,52.66,-2.74,+00:00
+19,United Kingdom,Scarborough,England,GB7RW  C,GB7RW  G,145.6000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,54.11,0.44,+00:00
+19,United Kingdom,Sheffield,England,GB7SF  B,GB7SF  G,439.7375,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,53.42,-1.44,+00:00
+19,United Kingdom,Sheffield,England,GB7SF  C,GB7SF  G,145.7375,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,53.42,-1.44,+00:00
+19,United Kingdom,Stoke-on-Trent,England,GB3VT  C,GB3VT  G,145.7250,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,53.04,-2.09,+00:00
+19,United Kingdom,Wakefield,England,GB7WY  B,GB7WY  G,439.5125,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,53.72,-1.54,+00:00
+19,United Kingdom,Warrington,England,GB7WC  B,GB7WC  G,439.4875,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,53.35,-2.63,+00:00
+19,United Kingdom,Wirral,England,GB7RA  B,GB7RA  G,439.6500,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,53.31,-3.05,+00:00
+19,United Kingdom,Wirral,England,GB7WP  B,GB7WP  G,439.9125,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,53.35,-3.02,+00:00
+19,United Kingdom,Worthing,England,GB7CQ  B,GB7CQ  G,439.6125,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,50.81,-0.42,+00:00
+19,United Kingdom,Wythall,England,GB3WL  B,GB3WL  G,430.9500,DUP+,7.6,DV,OFF,82.5Hz,Yes,Approximate,52.39,-1.88,+00:00
+19,United Kingdom,Chelmsford,Northern Ireland,GB7ZP  B,GB7ZP  G,439.4875,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,51.71,0.51,+00:00
+19,United Kingdom,Dungiven,Northern Ireland,MB6DN  B,MB6DN  G,439.4125,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,54.93,-6.98,+00:00
+19,United Kingdom,Omagh,Northern Ireland,GB7WT  B,GB7WT  G,439.6000,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,54.69,-7.39,+00:00
+19,United Kingdom,Aberdeen,Scotland,GB7GD  C,GB7GD  G,145.6875,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,57.13,-2.14,+00:00
+19,United Kingdom,Airdrie,Scotland,GB7DA  C,GB7DA  G,145.7750,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,55.89,-3.99,+00:00
+19,United Kingdom,Dundee,Scotland,GB7DD  B,GB7DD  G,439.6625,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,56.5,-2.9,+00:00
+19,United Kingdom,Scottish Borders,Scotland,GB7JD  B,GB7JD  G,439.4125,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,55.48,-2.55,+00:00
+19,United Kingdom,Stranraer,Scotland,GB7DK  C,GB7DK  G,145.6875,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,54.88,-5.06,+00:00
+19,United Kingdom,Stranraer,Scotland,GB7DK  B,GB7DK  G,439.9125,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,54.88,-5.06,+00:00
+19,United Kingdom,Barry,Wales,MB6BA  C,MB6BA  G,144.8625,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.43,-3.27,+00:00
+19,United Kingdom,Brynmawr,Wales,MB6AC  C,MB6AC  G,144.8125,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.81,-2.17,+00:00
+19,United Kingdom,Brynmawr,Wales,MB6IAC B,MB6IAC G,431.1000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.81,-3.16,+00:00
+19,United Kingdom,Cardiff,Wales,GB7CD  B,GB7CD  G,439.7000,DUP-,9,DV,OFF,82.5Hz,Yes,Approximate,51.48,-3.17,+00:00
+19,United Kingdom,Cwmbran,Wales,MB6AB  C,MB6AB  G,144.8250,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,51.65,-3.03,+00:00
+19,United Kingdom,Goodwick,Wales,MB6FG  C,MB6FG  G,144.8125,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,52.01,-5,+00:00
+20,USA Midwest,Cabot,Arkansas,W5STR  B,W5STR  G,442.4750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.01,-92.13,-06:00
+20,USA Midwest,Clarksville,Arkansas,WU5PIG B,WU5PIG G,442.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.46,-93.48,-06:00
+20,USA Midwest,Finch,Arkansas,W1KLM  B,W1KLM  G,443.825,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36,-90.64,-06:00
+20,USA Midwest,Imboden,Arkansas,W5WRA  B,W5WRA  G,442.4000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.18,-91.22,-06:00
+20,USA Midwest,Little Rock,Arkansas,K5NSX  C,K5NSX  G,145.1700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.48,-92.29,+04:30
+20,USA Midwest,Little Rock,Arkansas,N5DSD  C,N5DSD  G,147.4800,DUP-,2.5,DV,OFF,82.5Hz,Yes,Approximate,34.75,-92.31,-06:00
+20,USA Midwest,Little Rock,Arkansas,N5DSD  B,N5DSD  G,444.0125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.75,-92.31,-06:00
+20,USA Midwest,Mountain View,Arkansas,KA0JTI B,KA0JTI G,443.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.95,-92.1,-06:00
+20,USA Midwest,Mountain View,Arkansas,KF5BZP B,KF5BZP G,442.6375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.87,-92.11,-06:00
+20,USA Midwest,Rogers,Arkansas,KG5JPJ B,KG5JPJ G,442.5250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.21,-94.1,-06:00
+20,USA Midwest,Summers,Arkansas,KI5DWB B,KI5DWB G,442.0250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.98,-94.49,-06:00
+20,USA Midwest,Texarkana,Arkansas,KD5RCA B,KD5RCA G,440.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.45,-94.04,-06:00
+20,USA Midwest,CADWELL,Illinois,W9BIL  B,W9BIL  G,440.64375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.41,-88.31,-06:00
+20,USA Midwest,CADWELL,Illinois,W9BIL  C,W9BIL  G,145.1950,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.41,-88.31,-06:00
+20,USA Midwest,Carbondale,Illinois,W9UIH  B,W9UIH  G,442.65625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.72,-89.22,-06:00
+20,USA Midwest,Champaign,Illinois,W9IPA  B,W9IPA  G,443.76875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.14,-88.29,-06:00
+20,USA Midwest,Champaign,Illinois,W9YR   B,W9YR   G,443.48125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.13,-88.29,-06:00
+20,USA Midwest,Chicago,Illinois,NS9RC  B,NS9RC  G,442.09375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.98,-87.65,-06:00
+20,USA Midwest,Chicago,Illinois,WA9ORC B,WA9ORC G,441.90625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.89,-87.62,-06:00
+20,USA Midwest,Decatur,Illinois,KC9YFX B,KC9YFX G,442.64375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.88,-89.01,-06:00
+20,USA Midwest,Decatur,Illinois,KC9YFX C,KC9YFX G,147.2400,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.88,-89.01,-06:00
+20,USA Midwest,DuPage County,Illinois,KC9PWC B,KC9PWC G,440.10625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.56,-88.05,-06:00
+20,USA Midwest,Lake  Zurich,Illinois,K9SA   B,K9SA   G,441.23125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.4,-88.14,-06:00
+20,USA Midwest,Peoria,Illinois,W9PIA  C,W9PIA  G,145.1050,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.74,-89.48,-06:00
+20,USA Midwest,Peoria,Illinois,W9PIA  B,W9PIA  G,443.46875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.74,-89.48,-06:00
+20,USA Midwest,Quincy,Illinois,W9AWE  B,W9AWE  G,441.89375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.98,-91.33,-06:00
+20,USA Midwest,Quincy,Illinois,W9AWE  C,W9AWE  G,147.1950,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.98,-91.33,-06:00
+20,USA Midwest,Rock Island,Illinois,W9QCR  B,W9QCR  G,440.83125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.5,-90.53,-06:00
+20,USA Midwest,Rolling Meadows,Illinois,KC9RBB B,KC9RBB G,442.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.06,-88.02,-06:00
+20,USA Midwest,Springfield,Illinois,W9DUA  B,W9DUA  G,443.78125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.81,-89.64,-06:00
+20,USA Midwest,Cedar Falls,Iowa,W0MG   B,W0MG   G,444.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.54,-92.47,-06:00
+20,USA Midwest,Davenport,Iowa,KD0JJG C,KD0JJG G,146.9550,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.53,-90.57,-06:00
+20,USA Midwest,Davenport,Iowa,KD0JJG B,KD0JJG G,440.83125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.53,-90.57,-06:00
+20,USA Midwest,Des Moines,Iowa,KD0IAN C,KD0IAN G,147.1050,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.64,-93.8,-06:00
+20,USA Midwest,Des Moines,Iowa,KD0IAN B,KD0IAN G,443.1750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.64,-93.8,-06:00
+20,USA Midwest,Mount Pleasant,Iowa,KD0NJC B,KD0NJC G,444.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.01,-91.61,-06:00
+20,USA Midwest,Reinbeck,Iowa,W0RBK  B,W0RBK  G,444.8750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.32,-92.59,-06:00
+20,USA Midwest,Olathe,Kansas,WA0RC  B,WA0RC  G,442.5250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.86,-94.8,-06:00
+20,USA Midwest,Alexandria,Louisiana,KF5PIE C,KF5PIE G,147.2100,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.24,-92.46,-06:00
+20,USA Midwest,Baton Rouge,Louisiana,KD5CQB C,KD5CQB G,146.8800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.45,-91.17,-06:00
+20,USA Midwest,Baton Rouge,Louisiana,KD5CQB B,KD5CQB G,442.9250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.45,-91.17,-06:00
+20,USA Midwest,Franklinton,Louisiana,KF5BSZ C,KF5BSZ G,147.4400,DUP-,2.5,DV,OFF,82.5Hz,Yes,Approximate,30.87,-89.99,-06:00
+20,USA Midwest,Franklinton,Louisiana,KF5BSZ B,KF5BSZ G,444.5875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.87,-89.99,-06:00
+20,USA Midwest,Haughton,Louisiana,W5SLY  C,W5SLY  G,147.2400,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.55,-93.52,-06:00
+20,USA Midwest,LaCombe,Louisiana,W5SLA  C,W5SLA  G,145.2900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.32,-89.91,-06:00
+20,USA Midwest,LaCombe,Louisiana,W5SLA  B,W5SLA  G,444.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.32,-89.91,-06:00
+20,USA Midwest,Lake Charles,Louisiana,KC5JMJ B,KC5JMJ G,444.2250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.16,-93.15,-06:00
+20,USA Midwest,lake charles,Louisiana,W5BII  B,W5BII  G,443.3250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.23,-93.22,-06:00
+20,USA Midwest,Leesville,Louisiana,KE5PFA C,KE5PFA G,147.3450,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.13,-93.27,-06:00
+20,USA Midwest,Leesville,Louisiana,KE5PFA B,KE5PFA G,442.0500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.13,-93.27,-06:00
+20,USA Midwest,Many,Louisiana,N5MNY  C,N5MNY  G,146.8050,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.59,-93.45,-06:00
+20,USA Midwest,Minden,Louisiana,N5MAD  C,N5MAD  G,144.9200,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,32.69,-93.25,-06:00
+20,USA Midwest,Minden,Louisiana,N5MAD  B,N5MAD  G,442.5125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.69,-93.25,-06:00
+20,USA Midwest,New Orleans,Louisiana,KF5SKU C,KF5SKU G,145.2500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.95,-90.06,-06:00
+20,USA Midwest,New Orleans,Louisiana,KF5SKU B,KF5SKU G,444.4750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.95,-90.06,-06:00
+20,USA Midwest,New Orleans,Louisiana,W5GAD  B,W5GAD  G,444.9250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.97,-90.14,-06:00
+20,USA Midwest,New Orleans,Louisiana,W5GAD  C,W5GAD  G,146.9250,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.97,-90.14,-06:00
+20,USA Midwest,Ruston,Louisiana,N5APB  C,N5APB  G,145.1400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.57,-92.7,-06:00
+20,USA Midwest,Shreveport,Louisiana,K5SAR  C,K5SAR  G,145.1100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.52,-93.75,-06:00
+20,USA Midwest,Shreveport,Louisiana,W5SHV  B,W5SHV  G,442.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.52,-93.74,-06:00
+20,USA Midwest,Shreveport,Louisiana,W5SHV  C,W5SHV  G,147.3600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.52,-93.74,-06:00
+20,USA Midwest,St. Martinville,Louisiana,KF5ZUZ C,KF5ZUZ G,147.0000,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.05,-91.81,-06:00
+20,USA Midwest,St. Martinville,Louisiana,KF5ZUZ B,KF5ZUZ G,443.8500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.05,-91.81,-06:00
+20,USA Midwest,West Monroe,Louisiana,KC5DR  B,KC5DR  G,443.8000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,3230.41,9211.4,-06:00
+20,USA Midwest,Chaska,Minnesota,KD0JOS C,KD0JOS G,147.2700,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.81,-93.6,-06:00
+20,USA Midwest,Chaska,Minnesota,KD0JOS B,KD0JOS G,442.1250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.81,-93.6,-06:00
+20,USA Midwest,Cottage Grove,Minnesota,KE0UAV C,KE0UAV G,145.23000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.82,-92.95,-06:00
+20,USA Midwest,Faribault,Minnesota,KD0ZSA B,KD0ZSA G,444.6250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.3,-93.24,-06:00
+20,USA Midwest,Golden Valley,Minnesota,KD0JOV C,KD0JOV G,145.1500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45,-93.39,-06:00
+20,USA Midwest,Golden Valley,Minnesota,KD0JOV B,KD0JOV G,442.9000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45,-93.39,-06:00
+20,USA Midwest,Isanti,Minnesota,KE0KKN B,KE0KKN G,442.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.53,-93.17,-06:00
+20,USA Midwest,Little Falls,Minnesota,W0REA  B,W0REA  G,444.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.98,-94.36,-06:00
+20,USA Midwest,Minneapolis,Minnesota,W1AFV  B,W1AFV  G,442.9500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.98,-93.26,-06:00
+20,USA Midwest,Mounds View,Minnesota,W0ANA  C,W0ANA  G,145.4050,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.13,-93.19,-06:00
+20,USA Midwest,Mounds View,Minnesota,W0ANA  B,W0ANA  G,443.7750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.13,-93.19,-06:00
+20,USA Midwest,Ramsey,Minnesota,KE0MVE B,KE0MVE G,442.5250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.25,-93.4,+04:30
+20,USA Midwest,Rochester,Minnesota,W0MXW  B,W0MXW  G,443.8500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.03,-92.46,-06:00
+20,USA Midwest,Shoreview,Minnesota,W8WRR  B,W8WRR  G,444.32500 ,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.03,-93.07,-06:00
+20,USA Midwest,Wanda,Minnesota,KD0IAI B,KD0IAI G,444.0250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.32,-95.21,-06:00
+20,USA Midwest,Arnold,Missouri,KD0BQS B,KD0BQS G,442.4500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.43,-90.42,-06:00
+20,USA Midwest,Columbia,Missouri,WX0BC  B,WX0BC  G,442.3250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.97,-92.33,-06:00
+20,USA Midwest,Freistatt,Missouri,W0OAR  B,W0OAR  G,444.1500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.01,-93.87,-06:00
+20,USA Midwest,Jefferson City,Missouri,KB4VSP C,KB4VSP G,146.865,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.56,-92.21,-06:00
+20,USA Midwest,Kansas City,Missouri,W0CW   B,W0CW   G,443.4000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.08,-94.59,-06:00
+20,USA Midwest,Kansas City,Missouri,WB0YRG B,WB0YRG G,442.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.08,-94.59,-06:00
+20,USA Midwest,Nevada,Missouri,W0HL   B,W0HL   G,443.9750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.87,-94.37,-06:00
+20,USA Midwest,Pacific,Missouri,KD0ZEA C,KD0ZEA G,146.4500,DUP+,1,DV,OFF,82.5Hz,Yes,Approximate,38.41,-90.73,-06:00
+20,USA Midwest,Pacific,Missouri,KD0ZEA B,KD0ZEA G,442.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.41,-90.73,-06:00
+20,USA Midwest,Rolla,Missouri,W0CMD  B,W0CMD  G,444.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.96,-91.78,-06:00
+20,USA Midwest,St Joseph,Missouri,W0NH   B,W0NH   G,444.8250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.78,-94.77,-06:00
+20,USA Midwest,St Louis,Missouri,K0MDG  B,K0MDG  G,442.5750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.68,-90.39,-06:00
+20,USA Midwest,St Louis,Missouri,K0MDG  C,K0MDG  G,147.0150,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.68,-90.39,-06:00
+20,USA Midwest,Sullivan,Missouri,N0NOE  B,N0NOE  G,444.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.22,-91.16,-06:00
+20,USA Midwest,Washington,Missouri,K0FDG  B,K0FDG  G,444.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.52,-90.92,-06:00
+20,USA Midwest,Columbus,Nebraska,WA0COL C,WA0COL G,146.9550,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.31,-97.34,-07:00
+20,USA Midwest,Columbus,Nebraska,WA0COL B,WA0COL G,442.1750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.31,-97.34,-07:00
+20,USA Midwest,Grand Island,Nebraska,KD0PBV C,KD0PBV G,146.6550,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.93,-98.35,-06:00
+20,USA Midwest,Grand Island,Nebraska,N0LF   B,N0LF   G,443.9500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.95,-98.35,-06:00
+20,USA Midwest,Kearney,Nebraska,KD0PBW C,KD0PBW G,147.0300,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.71,-99.08,-06:00
+20,USA Midwest,Omaha,Nebraska,KD0CGR C,KD0CGR G,145.1750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.16,-95.56,-06:00
+20,USA Midwest,Omaha,Nebraska,KD0CGR B,KD0CGR G,442.1250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.16,-95.56,-06:00
+20,USA Midwest,Wood River,Nebraska,NI0P   B,NI0P   G,444.7000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.83,-98.6,-06:00
+20,USA Midwest,Christine,North Dakota,K0AKV  B,K0AKV  G,442.9000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,46.52,-96.81,-06:00
+20,USA Midwest,Fargo,North Dakota,KD0SWQ B,KD0SWQ G,444.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,46.9,-96.79,-06:00
+20,USA Midwest,Altus,Oklahoma,AJ5Q   B,AJ5Q   G,442.2250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.67,-99.33,-06:00
+20,USA Midwest,Blanchard,Oklahoma,KF5ZLE B,KF5ZLE G,442.9750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.15,-97.68,-06:00
+20,USA Midwest,Claremore,Oklahoma,AE5ME  B,AE5ME  G,444.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.32,-95.63,-06:00
+20,USA Midwest,Elk City,Oklahoma,K5ELK  C,K5ELK  G,146.6850,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,35.43,-99.5,-06:00
+20,USA Midwest,Elk City,Oklahoma,K5ELK  B,K5ELK  G,443.0250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.43,-99.5,-06:00
+20,USA Midwest,Lawton,Oklahoma,KG5ACV B,KG5ACV G,442.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.6,-98.45,-06:00
+20,USA Midwest,Norman,Oklahoma,W5TC   B,W5TC   G,444.7500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.19,-97.44,-06:00
+20,USA Midwest,Oklahoma City,Oklahoma,W5MEL  B,W5MEL  G,444.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.47,-97.51,-06:00
+20,USA Midwest,Oklahoma City,Oklahoma,W5PAA  B,W5PAA  G,444.9250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.43,-97.53,-06:00
+20,USA Midwest,Oklahoma City,Oklahoma,WD5AII B,WD5AII G,442.6250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.54,-97.49,-06:00
+20,USA Midwest,Oklahoma City,Oklahoma,WD5AII C,WD5AII G,147.3450,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,35.54,-97.49,-06:00
+20,USA Midwest,Tulsa,Oklahoma,W5DRZ  B,W5DRZ  G,442.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.07,-95.86,-06:00
+20,USA Midwest,Vinita,Oklahoma,NO5RA  C,NO5RA  G,147.1650,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,36.63,-95.16,-06:00
+20,USA Midwest,Vinita,Oklahoma,NO5RA  B,NO5RA  G,443.0750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.63,-95.16,-06:00
+20,USA Midwest,Walsh Mountain a,Oklahoma,WX5ASA C,WX5ASA G,147.3450,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.98,-99.41,-06:00
+20,USA Midwest,Walsh Mountain a,Oklahoma,WX5ASA B,WX5ASA G,442.1500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.98,-99.41,-06:00
+20,USA Midwest,Woodward,Oklahoma,WW5EM  C,WW5EM  G,147.3150,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,36.39,-99.47,-06:00
+20,USA Midwest,Woodward,Oklahoma,WW5EM  B,WW5EM  G,444.4750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.39,-99.47,-06:00
+20,USA Midwest,Box Elder,South Dakota,KF0OWN C,KF0OWN G,430.4500,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,44.12,-103.06,-07:00
+20,USA Midwest,Sioux Falls,South Dakota,W0ZWY  B,W0ZWY  G,442.7500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.55,-96.7,-06:00
+20,USA Midwest,Abilene,Texas,KC5OLO B,KC5OLO G,444.1750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.16,-99.35,-06:00
+20,USA Midwest,Abilene,Texas,KF5JJK B,KF5JJK G,444.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.46,-99.73,-06:00
+20,USA Midwest,Abilene,Texas,KG5MMT B,KG5MMT G,444.1750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.38,-99.74,-06:00
+20,USA Midwest,Alice,Texas,KF5UPC B,KF5UPC G,441.9750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,27.75,-98.07,-06:00
+20,USA Midwest,Allen,Texas,K5PRK  B,K5PRK  G,441.5750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.1,-96.67,-06:00
+20,USA Midwest,Austin,Texas,K5SOC  B,K5SOC  G,443.4000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.4,-97.93,-06:00
+20,USA Midwest,Austin,Texas,W5KA   C,W5KA   G,146.7800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.23,-97.77,-06:00
+20,USA Midwest,Austin,Texas,W5KA   B,W5KA   G,440.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.23,-97.77,-06:00
+20,USA Midwest,Bellville,Texas,W5SFA  C,W5SFA  G,146.9300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.96,-96.25,-06:00
+20,USA Midwest,Big Spring,Texas,W5AW   C,W5AW   G,147.2400,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.21,-101.44,-06:00
+20,USA Midwest,Big Spring,Texas,W5AW   B,W5AW   G,440.6875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.21,-101.44,-06:00
+20,USA Midwest,Brownsville,Texas,KG5EUU B,KG5EUU G,445.5000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,25.93,-97.48,-06:00
+20,USA Midwest,Bryan,Texas,KI5MMC B,KI5MMC G,443.4000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.65,-96.36,-06:00
+20,USA Midwest,Corsicana,Texas,K5NEM  C,K5NEM  G,147.3400,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.08,-96.49,-06:00
+20,USA Midwest,Dallas ,Texas,W5FC   C,W5FC   G,145.1300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.89,-96.76,-06:00
+20,USA Midwest,Dallas ,Texas,W5FC   B,W5FC   G,440.5750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.89,-96.76,-06:00
+20,USA Midwest,Denton,Texas,W5NGU  B,W5NGU  G,442.9250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.14,-97.1,-06:00
+20,USA Midwest,Denton,Texas,W5NGU  C,W5NGU  G,147.4500,DUP-,1,DV,OFF,82.5Hz,Yes,Approximate,33.14,-97.1,-06:00
+20,USA Midwest,El Paso,Texas,K5WPH  B,K5WPH  G,443.2250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.83,-106.44,-07:00
+20,USA Midwest,El Paso,Texas,K5WPH  B,K5WPH  G,443.2250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.83,-106.44,-07:00
+20,USA Midwest,El Paso,Texas,K5WPH  B,K5WPH  G,443.2250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.83,-106.44,-07:00
+20,USA Midwest,El Paso,Texas,W5ELP  C,W5ELP  G,146.6200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.79,-106.48,-07:00
+20,USA Midwest,EULESS,Texas,W1ZOT  B,W1ZOT  G,441.3750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.87,-97.08,-06:00
+20,USA Midwest,Fort Worth,Texas,KF5MMX B,KF5MMX G,444.0375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.64,-97.38,-06:00
+20,USA Midwest,Ft Stockton,Texas,KG5OXR C,KG5OXR G,147.6000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.88,-102.92,-06:00
+20,USA Midwest,Granbury,Texas,K1DRP  B,K1DRP  G,440.6500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,32.45,-97.79,-06:00
+20,USA Midwest,Granbury,Texas,W5HCT  B,W5HCT  G,441.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.44,-97.78,-06:00
+20,USA Midwest,Houston,Texas,AG5AA  B,AG5AA  G,440.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.92,-95.43,-06:00
+20,USA Midwest,Houston,Texas,N5BDJ  C,N5BDJ  G,145.2500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.01,-95.36,-06:00
+20,USA Midwest,Houston,Texas,N5BDJ  B,N5BDJ  G,440.0250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.01,-95.36,-06:00
+20,USA Midwest,Ingleside,Texas,W5ICC  B,W5ICC  G,444.9000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,27.9,-97.13,-06:00
+20,USA Midwest,La Vernia- TX,Texas,N5JFP  B,N5JFP  G,441.8750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.58,-98.28,-06:00
+20,USA Midwest,La Vernia- TX,Texas,N5JFP  C,N5JFP  G,145.2500,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,30.58,-98.28,-06:00
+20,USA Midwest,LIVE OAK,Texas,K5NKK  B,K5NKK  G,444.0250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.33,-98.2,-06:00
+20,USA Midwest,Longview,Texas,K5LET  C,K5LET  G,147.0600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.55,-94.67,-06:00
+20,USA Midwest,Longview,Texas,K5LET  B,K5LET  G,443.9750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.55,-94.67,-06:00
+20,USA Midwest,Lubbock,Texas,K5LIB  C,K5LIB  G,145.4300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.55,-101.91,-06:00
+20,USA Midwest,Lubbock,Texas,K5LIB  B,K5LIB  G,443.0500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.55,-101.91,-06:00
+20,USA Midwest,McAllen,Texas,ND5N   C,ND5N   G,147.6000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,26.12,-98.11,-06:00
+20,USA Midwest,Nederland,Texas,W5SSV  B,W5SSV  G,440.7250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.98,-93.98,-06:00
+20,USA Midwest,Nederland,Texas,W5SSV  C,W5SSV  G,146.6200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.98,-93.98,-06:00
+20,USA Midwest,Notrees,Texas,K5PSA  C,K5PSA  G,146.7000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.56,-102.45,-06:00
+20,USA Midwest,Notrees,Texas,K5PSA  B,K5PSA  G,442.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.56,-102.45,-06:00
+20,USA Midwest,Odessa,Texas,KI5DLN B,KI5DLN G,441.9000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.88,-102.35,-06:00
+20,USA Midwest,Odessa,Texas,WT5ARC C,WT5ARC G,147.3600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.82,-102.39,-06:00
+20,USA Midwest,Odessa,Texas,WT5ARC B,WT5ARC G,441.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.82,-102.39,-06:00
+20,USA Midwest,PARIS,Texas,K5SST  C,K5SST  G,147.0600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.41,-95.33,-06:00
+20,USA Midwest,PARIS,Texas,K5SST  B,K5SST  G,444.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.41,-95.33,-06:00
+20,USA Midwest,Rosston,Texas,KE5YAP C,KE5YAP G,147.4900,DUP-,1,DV,OFF,82.5Hz,Yes,Approximate,33.49,-97.41,-06:00
+20,USA Midwest,Rosston,Texas,KE5YAP B,KE5YAP G,440.7125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.49,-97.41,-06:00
+20,USA Midwest,San Antonio,Texas,AA5RO  C,AA5RO  G,147.3200,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.47,-98.69,-06:00
+20,USA Midwest,San Antonio,Texas,AA5RO  B,AA5RO  G,443.8750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.47,-98.69,-06:00
+20,USA Midwest,San Antonio,Texas,K5VPW  B,K5VPW  G,441.6250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.51,-98.44,-06:00
+20,USA Midwest,San Antonio,Texas,K5VPW  C,K5VPW  G,145.3500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.51,-98.44,-06:00
+20,USA Midwest,San Antonio,Texas,WD5STR B,WD5STR G,440.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.55,-98.5,-06:00
+20,USA Midwest,San Antonio,Texas,WD5STR C,WD5STR G,146.4900,DUP+,1,DV,OFF,82.5Hz,Yes,Approximate,29.55,-98.5,-06:00
+20,USA Midwest,Seguin,Texas,KG5FJW C,KG5FJW G,145.4900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.68,-97.89,-06:00
+20,USA Midwest,Seguin,Texas,KG5FJW B,KG5FJW G,442.2250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.68,-97.89,-06:00
+20,USA Midwest,Sulphur,Texas,W5SUL  C,W5SUL  G,147.3600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.22,-93.21,-06:00
+20,USA Midwest,Temple,Texas,K5CTX  B,K5CTX  G,440.5250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.1,-97.35,-06:00
+20,USA Midwest,Temple,Texas,K5CTX  C,K5CTX  G,147.3400,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.1,-97.35,-06:00
+20,USA Midwest,Tyler,Texas,W5ETX  C,W5ETX  G,147.1200,DUP+,0.75,DV,OFF,82.5Hz,Yes,Approximate,32.32,-95.24,-06:00
+20,USA Midwest,Tyler,Texas,W5ETX  B,W5ETX  G,444.8500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.32,-95.24,-06:00
+20,USA Midwest,Uvalde,Texas,AB5JK  B,AB5JK  G,444.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.24,-99.79,-06:00
+20,USA Midwest,Uvalde,Texas,AB5JK  C,AB5JK  G,146.6200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.24,-99.79,-06:00
+20,USA Midwest,Waco,Texas,W5ZDN  C,W5ZDN  G,146.9800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.65,-97.09,-06:00
+20,USA Midwest,Walburg,Texas,KE5RCS B,KE5RCS G,440.5750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.75,-97.6,-06:00
+20,USA Midwest,Walburg,Texas,KE5RCS C,KE5RCS G,145.1300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.75,-97.6,-06:00
+20,USA Midwest,Adams,Wisconsin,AC9AR  B,AC9AR  G,442.26875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.96,-89.82,-06:00
+20,USA Midwest,Baraboo,Wisconsin,WB9FDZ C,WB9FDZ G,145.3150,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.44,-89.65,-06:00
+20,USA Midwest,Bay City,Wisconsin,KB9LUK C,KB9LUK G,144.6100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.59,-92.46,-06:00
+20,USA Midwest,Beloit,Wisconsin,N2RON  B,N2RON  G,442.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.56,-88.96,-06:00
+20,USA Midwest,Black River Fall,Wisconsin,N9ROY  B,N9ROY  G,443.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.3,-90.85,-06:00
+20,USA Midwest,Chippewa Falls,Wisconsin,KD9ICN C,KD9ICN G,146.9400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.88,-91.3,-06:00
+20,USA Midwest,Debuque,Wisconsin,N9PNO  B,N9PNO  G,444.2250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.52,-90.61,+04:30
+20,USA Midwest,Dodgeville,Wisconsin,WI9WIN C,WI9WIN G,147.2850,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.98,-90.13,-06:00
+20,USA Midwest,Dunnville,Wisconsin,WW9RS  C,WW9RS  G,146.8800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.45,-91.54,-06:00
+20,USA Midwest,Edgerton,Wisconsin,KD9KPT B,KD9KPT G,442.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.84,-89.06,-06:00
+20,USA Midwest,Galesville,Wisconsin,N9TUU  B,N9TUU  G,442.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.09,-91.34,-06:00
+20,USA Midwest,Grafton,Wisconsin,W9FRG  B,W9FRG  G,442.81875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.34,-87.94,-06:00
+20,USA Midwest,Grafton,Wisconsin,W9FRG  C,W9FRG  G,145.2250,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.34,-87.94,-06:00
+20,USA Midwest,Green Bay,Wisconsin,K9EAM  B,K9EAM  G,444.20625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.41,-88,-06:00
+20,USA Midwest,Hancock,Wisconsin,N9QIP  B,N9QIP  G,442.7250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.1,-89.55,-06:00
+20,USA Midwest,Kewaunee,Wisconsin,KD9NKO B,KD9NKO G,444.9550,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.5,-87.58,-06:00
+20,USA Midwest,La Crosse,Wisconsin,KA9BAB B,KA9BAB G,444.91500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.82,-91.18,-06:00
+20,USA Midwest,Madison,Wisconsin,W9HSY  C,W9HSY  G,145.3050,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.06,-89.48,-06:00
+20,USA Midwest,Marshfield,Wisconsin,KD9FUR C,KD9FUR G,147.0450,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.67,-90.17,-06:00
+20,USA Midwest,Merrill,Wisconsin,KC9LFH B,KC9LFH G,442.5125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.2,-89.69,-06:00
+20,USA Midwest,Milwaukee,Wisconsin,KC9LKZ B,KC9LKZ G,442.46875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.1,-87.9,-06:00
+20,USA Midwest,Milwaukee,Wisconsin,KC9LKZ C,KC9LKZ G,145.2450,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.1,-87.9,-06:00
+20,USA Midwest,Milwaukee,Wisconsin,KD9JHE B,KD9JHE G,443.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.1,-87.9,-06:00
+20,USA Midwest,Oshkosh,Wisconsin,WB9SLI C,WB9SLI G,145.3450,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.98,-88.56,-06:00
+20,USA Midwest,Park Falls,Wisconsin,W9PFP  B,W9PFP  G,442.48125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.95,-90.27,-06:00
+20,USA Midwest,Platteville,Wisconsin,KA9WAM B,KA9WAM G,442.2000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.74,-90.47,-06:00
+20,USA Midwest,Prairie du Chien,Wisconsin,W0SFK  B,W0SFK  G,444.4500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.06,-91.14,-06:00
+20,USA Midwest,Racine,Wisconsin,WI9RAC B,WI9RAC G,441.81875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.73,-87.85,-06:00
+20,USA Midwest,Rice Lake/Spoone,Wisconsin,KC0WKP B,KC0WKP G,442.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.51,-91.51,-06:00
+20,USA Midwest,Rice Lake/Spoone,Wisconsin,KC0WKP C,KC0WKP G,147.2850,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.51,-91.51,-06:00
+20,USA Midwest,Richland Center,Wisconsin,KC9WDW C,KC9WDW G,147.1950,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.34,-90.37,-06:00
+20,USA Midwest,Richland Center,Wisconsin,KC9WDW B,KC9WDW G,442.4875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.34,-90.37,-06:00
+20,USA Midwest,River Falls,Wisconsin,WB0MPE B,WB0MPE G,444.8750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.86,-92.62,-06:00
+20,USA Midwest,Sayner- WI,Wisconsin,KB9VMC C,KB9VMC G,147.3600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,46,-89.59,-06:00
+20,USA Midwest,Sheboygan,Wisconsin,KC9SJY B,KC9SJY G,442.48125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.74,-87.72,-06:00
+20,USA Midwest,Sheboygan,Wisconsin,KC9SJY C,KC9SJY G,147.2550,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.74,-87.72,-06:00
+20,USA Midwest,Sheboygan,Wisconsin,KC9WUS C,KC9WUS G,146.985,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.5,-87.5,-06:00
+20,USA Midwest,Tomah,Wisconsin,KC9JZC C,KC9JZC G,147.2400,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.9,-90.58,-06:00
+20,USA Midwest,Watertown,Wisconsin,W9TTN  B,W9TTN  G,440.1500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.2,-88.75,-06:00
+20,USA Midwest,Waupaca,Wisconsin,KD9GXT B,KD9GXT G,444.6750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.36,-89.09,-06:00
+20,USA Midwest,Wausau,Wisconsin,W9BCC  B,W9BCC  G,442.46875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.93,-89.69,-06:00
+20,USA Midwest,Wausau,Wisconsin,W9BCC  C,W9BCC  G,145.2450,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.93,-89.69,-06:00
+20,USA Midwest,Wonewoc,Wisconsin,KD9BLN C,KD9BLN G,146.7150,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.71,-90.21,-06:00
+20,USA Midwest,Wonewoc,Wisconsin,KD9BLN B,KD9BLN G,443.69375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.71,-90.21,-06:00
+21,USA Northeast,Bristol,Connecticut,W1IXU  B,W1IXU  G,448.3750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.65,-72.94,-05:00
+21,USA Northeast,Bristol,Connecticut,W1IXU  C,W1IXU  G,145.1400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.65,-72.94,-05:00
+21,USA Northeast,East Hampton,Connecticut,K1DIG  C,K1DIG  G,147.1350,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.61,-72.52,-05:00
+21,USA Northeast,Enfield,Connecticut,K1CDG  B,K1CDG  G,444.9125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.8,-72.61,-05:00
+21,USA Northeast,Enfield,Connecticut,KB1UHR B,KB1UHR G,444.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.01,-72.57,-05:00
+21,USA Northeast,Haddam,Connecticut,KB1UHS B,KB1UHS G,444.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.5,-72.61,-05:00
+21,USA Northeast,Killingly,Connecticut,N1GAU  B,N1GAU  G,444.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.8,-71.82,-05:00
+21,USA Northeast,Meriden,Connecticut,W1ECV  B,W1ECV  G,444.2500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.57,-72.84,-05:00
+21,USA Northeast,Meriden,Connecticut,W1ECV  C,W1ECV  G,145.4900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.57,-72.84,-05:00
+21,USA Northeast,Norwalk,Connecticut,W1NLK  B,W1NLK  G,441.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.12,-73.42,-05:00
+21,USA Northeast,Rocky Hill,Connecticut,K1RHF  B,K1RHF  G,449.5750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.67,-72.64,-05:00
+21,USA Northeast,Rocky Hill,Connecticut,KB1CDI B,KB1CDI G,442.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.69,-72.64,-05:00
+21,USA Northeast,Salem,Connecticut,KD1STR B,KD1STR G,443.4000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.28,-72.14,-05:00
+21,USA Northeast,Stratford,Connecticut,K1TMW  C,K1TMW  G,145.5700,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,41.24,-73.1,-05:00
+21,USA Northeast,Terryville,Connecticut,WD1STR B,WD1STR G,446.4500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.67,-73.01,-05:00
+21,USA Northeast,Vernon,Connecticut,AA1HD  B,AA1HD  G,442.1500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.8,-72.45,-05:00
+21,USA Northeast,Vernon,Connecticut,AA1HD  C,AA1HD  G,145.2600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.8,-72.45,-05:00
+21,USA Northeast,Westbrook,Connecticut,W1BCG  B,W1BCG  G,444.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.3,-72.45,-05:00
+21,USA Northeast,Washington,District Of Columbia,W3AGB  C,W3AGB  G,147.3600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.9,-77.02,-05:00
+21,USA Northeast,Washington,District Of Columbia,W3AGB  B,W3AGB  G,444.1625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.9,-77.02,-05:00
+21,USA Northeast,Bloomington,Indiana,K9IU   B,K9IU   G,444.9000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.18,-86.51,-05:00
+21,USA Northeast,Bloomington,Indiana,K9IU   C,K9IU   G,146.9400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.18,-86.51,-05:00
+21,USA Northeast,Columbus,Indiana,W9ALQ  C,W9ALQ  G,146.7900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.2,-85.8,-05:00
+21,USA Northeast,Fort Wayne,Indiana,W9TE   B,W9TE   G,442.99375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.08,-85.13,-05:00
+21,USA Northeast,Huron,Indiana,N9UMJ  B,N9UMJ  G,442.250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.75,-86.65,-05:00
+21,USA Northeast,Indianapolis,Indiana,W9ICE  B,W9ICE  G,444.1250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.9,-86.2,-05:00
+21,USA Northeast,Indianapolis,Indiana,W9ICE  C,W9ICE  G,147.3900,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.9,-86.2,-05:00
+21,USA Northeast,Indianapolis,Indiana,W9ICE  A,W9ICE  G,441.4500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.9,-86.2,-05:00
+21,USA Northeast,Kirksville,Indiana,WB9TLH B,WB9TLH G,443.0500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.07,-86.62,-05:00
+21,USA Northeast,Lafayette,Indiana,W9ARP  B,W9ARP  G,444.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.48,-86.89,-05:00
+21,USA Northeast,Lafayette,Indiana,W9ARP  C,W9ARP  G,146.7300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.48,-86.89,-05:00
+21,USA Northeast,Marion,Indiana,W9EBN  B,W9EBN  G,443.4000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.6,-85.65,-05:00
+21,USA Northeast,Mitchell,Indiana,W9QYQ  B,W9QYQ  G,444.050,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.77,-86.52,-05:00
+21,USA Northeast,Shelbyville,Indiana,K9SVL  B,K9SVL  G,442.1875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.53,-85.78,-05:00
+21,USA Northeast,Shelbyville,Indiana,W9NTP  B,W9NTP  G,442.1875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.52,-85.79,-05:00
+21,USA Northeast,West Lafayette,Indiana,KA9VXS B,KA9VXS G,444.0750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.48,-86.89,-06:00
+21,USA Northeast,West Lafayette,Indiana,KA9VXS B,KA9VXS G,145.2500,DUP-,6,DV,OFF,82.5Hz,Yes,Approximate,40.48,-86.89,-06:00
+21,USA Northeast,Danville,Kentucky,KM4OON B,KM4OON G,444.23750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.68,-84.67,-05:00
+21,USA Northeast,Highland Heights,Kentucky,K4CO   C,K4CO   G,145.4200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.02,-84.6,-05:00
+21,USA Northeast,Lexington,Kentucky,W4DSI  C,W4DSI  G,145.4600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.05,-84.49,-05:00
+21,USA Northeast,Lexington,Kentucky,W4DSI  B,W4DSI  G,441.8125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.05,-84.49,-05:00
+21,USA Northeast,London,Kentucky,KK4RQX C,KK4RQX G,147.2850,DUP+,147.885,DV,OFF,82.5Hz,Yes,Approximate,37.06,-84.13,-05:00
+21,USA Northeast,Manchester ,Kentucky,KN4BDJ B,KN4BDJ G,444.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.22,-83.83,-05:00
+21,USA Northeast,Manchester ,Kentucky,KN4BDJ C,KN4BDJ G,146.9250,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,37.22,-83.83,-05:00
+21,USA Northeast,Middlesboro,Kentucky,WA4YZY C,WA4YZY G,145.3000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,36.6,-83.79,-05:00
+21,USA Northeast,Middlesboro,Kentucky,WA4YZY B,WA4YZY G,443.4625,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,36.6,-83.79,-05:00
+21,USA Northeast,Morehead,Kentucky,KY4HS  B,KY4HS  G,442.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.18,-83.4,-05:00
+21,USA Northeast,Richmond,Kentucky,KE4YVD B,KE4YVD G,442.8125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.71,-84.27,-05:00
+21,USA Northeast,Union,Kentucky,WW4KY  C,WW4KY  G,147.3900,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.55,-84.43,-05:00
+21,USA Northeast,Union,Kentucky,WW4KY  B,WW4KY  G,444.9500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.55,-84.43,-05:00
+21,USA Northeast,Vine Grove,Kentucky,KM4LNN C,KM4LNN G,147.4100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,37.87,-86.04,-05:00
+21,USA Northeast,Biddeford,Maine,KC1ALA C,KC1ALA G,147.1500,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.5,-70.47,-05:00
+21,USA Northeast,Biddeford,Maine,KC1ALA B,KC1ALA G,443.0500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.5,-70.47,-05:00
+21,USA Northeast,Brunswick,Maine,KS1R   B,KS1R   G,447.5750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,43.54,-70.21,-05:00
+21,USA Northeast,Caribou,Maine,KA1EAR B,KA1EAR G,442.2000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,46.87,-67.99,-05:00
+21,USA Northeast,Cooper,Maine,W1SCV  C,W1SCV  G,146.9850,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.96,-67.43,-05:00
+21,USA Northeast,Gray,Maine,KC1UKH C,KC1UKH G,147.0450,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.9,-71.25,-05:00
+21,USA Northeast,Hebron,Maine,KC1SBG B,KC1SBG G,444.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.26,-70.42,-05:00
+21,USA Northeast,Belair,Maryland,KO3L   C,KO3L   G,147.1200,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.6,-76.32,-05:00
+21,USA Northeast,Chesapeake Beach,Maryland,WG3K   B,WG3K   G,444.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.63,-76.51,-05:00
+21,USA Northeast,Frederick,Maryland,W3FDK  B,W3FDK  G,444.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.5,-77.49,-05:00
+21,USA Northeast,Frederick,Maryland,W3FDK  C,W3FDK  G,145.1700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.5,-77.49,-05:00
+21,USA Northeast,Germantown,Maryland,KV3B   B,KV3B   G,444.2000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.18,-77.27,-05:00
+21,USA Northeast,Salisbury,Maryland,W3PRO  C,W3PRO  G,145.2800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.41,-75.58,-05:00
+21,USA Northeast,Salisbury,Maryland,W3PRO  B,W3PRO  G,444.2000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.41,-75.58,-05:00
+21,USA Northeast,Towson,Maryland,W3DHS  C,W3DHS  G,145.1400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.41,-76.59,-05:00
+21,USA Northeast,Towson,Maryland,W3DHS  B,W3DHS  G,442.1125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.41,-76.59,-05:00
+21,USA Northeast,Brockton,Massachusetts,KB1YAC B,KB1YAC G,449.2750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.11,-71,-05:00
+21,USA Northeast,Brookline,Massachusetts,K1MRA  C,K1MRA  G,145.1600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.31,-71.13,-05:00
+21,USA Northeast,Fall River,Massachusetts,K1RFI  C,K1RFI  G,145.4200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.68,-71.18,-05:00
+21,USA Northeast,Fall River,Massachusetts,K1RFI  B,K1RFI  G,449.5250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.68,-71.18,-05:00
+21,USA Northeast,Fall River,Massachusetts,K1RFI  A,K1RFI  G,145.2200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.68,-71.18,-05:00
+21,USA Northeast,Feeding Hills,Massachusetts,W1KK   B,W1KK   G,449.1750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.09,-72.7,-05:00
+21,USA Northeast,Feeding Hills,Massachusetts,W1KK   C,W1KK   G,145.1500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.09,-72.7,-05:00
+21,USA Northeast,Holliston,Massachusetts,W1DSR  B,W1DSR  G,447.0750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.2,-71.44,-05:00
+21,USA Northeast,Marlborough,Massachusetts,W1MRA  B,W1MRA  G,449.5750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.35,-71.56,-05:00
+21,USA Northeast,Marshfield,Massachusetts,W1ATD  C,W1ATD  G,145.3900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.12,-70.7,-05:00
+21,USA Northeast,North Oxford,Massachusetts,KC1ACI B,KC1ACI G,447.2750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.17,-71.89,-05:00
+21,USA Northeast,Norwell,Massachusetts,AC1M   C,AC1M   G,145.2500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.2,-70.82,-05:00
+21,USA Northeast,Sutton,Massachusetts,KC1AZZ B,KC1AZZ G,442.8500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.17,-71.76,-05:00
+21,USA Northeast,Walpole,Massachusetts,WA1PLE B,WA1PLE G,446.4375,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.14,-71.22,-05:00
+21,USA Northeast,West Bridgewater,Massachusetts,KA1GG  B,KA1GG  G,449.9875,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.01,-71.04,-05:00
+21,USA Northeast,Westford,Massachusetts,WB1GOF B,WB1GOF G,442.4500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.58,-71.44,-05:00
+21,USA Northeast,Westford,Massachusetts,WB1GOF C,WB1GOF G,145.3300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.58,-71.44,-05:00
+21,USA Northeast,Auburn Hills,Michigan,K8DXA  C,K8DXA  G,145.1300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.67,-83.23,-05:00
+21,USA Northeast,Auburn Hills,Michigan,K8DXA  B,K8DXA  G,444.2625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.67,-83.23,-05:00
+21,USA Northeast,Battle Creek,Michigan,W8DF   C,W8DF   G,146.7900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.28,-85.12,-05:00
+21,USA Northeast,Battle Creek,Michigan,W8DF   B,W8DF   G,442.7625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.28,-85.12,-05:00
+21,USA Northeast,Charlotte,Michigan,K8ETN  C,K8ETN  G,145.2000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.59,-84.84,-05:00
+21,USA Northeast,Charlotte,Michigan,K8ETN  B,K8ETN  G,443.4375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.59,-84.84,-05:00
+21,USA Northeast,Coldwater,Michigan,KD8JGF B,KD8JGF G,442.9625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.94,-84.95,-05:00
+21,USA Northeast,Elmira,Michigan,NM8ES  A,NM8ES  G,145.3200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.02,-84.83,-05:00
+21,USA Northeast,Elmira,Michigan,NM8ES  B,NM8ES  G,444.1125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.02,-84.83,-05:00
+21,USA Northeast,Engadine,Michigan,W8NBY  B,W8NBY  G,444.0375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,46.2,-85.57,-05:00
+21,USA Northeast,Ithaca,Michigan,KD8IEK C,KD8IEK G,147.1500,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.28,-84.6,-05:00
+21,USA Northeast,Ithaca,Michigan,KD8IEK B,KD8IEK G,443.1375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.28,-84.6,-05:00
+21,USA Northeast,Kalamazoo,Michigan,NK8X   B,NK8X   G,444.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.31,-85.56,-05:00
+21,USA Northeast,Lapeer,Michigan,W8LAP  B,W8LAP  G,442.7500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.05,-83.26,-05:00
+21,USA Northeast,Livonia,Michigan,K8UNS  B,K8UNS  G,444.8750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.44,-83.34,-05:00
+21,USA Northeast,Midland,Michigan,KC8ARJ B,KC8ARJ G,444.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.67,-84.22,-05:00
+21,USA Northeast,Moline,Michigan,WM8TG  B,WM8TG  G,442.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.74,-85.62,-05:00
+21,USA Northeast,Moline,Michigan,WM8TG  C,WM8TG  G,147.2900,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.74,-85.62,-05:00
+21,USA Northeast,Muskegon,Michigan,K8WNJ  B,K8WNJ  G,444.0125 ,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.24,-86.24,-05:00
+21,USA Northeast,Muskegon,Michigan,K8WNJ  C,K8WNJ  G,145.3600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.24,-86.24,-05:00
+21,USA Northeast,Niles,Michigan,KE8GVB C,KE8GVB G,145.1400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.09,-86.47,-05:00
+21,USA Northeast,Niles,Michigan,KE8GVB B,KE8GVB G,442.8250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.09,-86.47,-05:00
+21,USA Northeast,Owosso,Michigan,W8SHI  C,W8SHI  G,145.2400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.99,-84.17,-05:00
+21,USA Northeast,Owosso,Michigan,W8SHI  B,W8SHI  G,444.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.99,-84.17,-05:00
+21,USA Northeast,Paw Paw,Michigan,W8VY   C,W8VY   G,145.3400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.21,-85.97,+00:00
+21,USA Northeast,Paw Paw,Michigan,W8VY   B,W8VY   G,444.0750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.21,-85.97,+00:00
+21,USA Northeast,Saginaw,Michigan,K8DAC  B,K8DAC  G,442.0625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.24,-83.58,-05:00
+21,USA Northeast,St. Johns,Michigan,KD8IEI C,KD8IEI G,145.4400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.77,-84.57,-05:00
+21,USA Northeast,St. Johns,Michigan,KD8IEI B,KD8IEI G,442.9375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.77,-84.57,-05:00
+21,USA Northeast,St. Joseph,Michigan,W8MAI  B,W8MAI  G,442.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.09,-86.47,-05:00
+21,USA Northeast,Stutsmanville,Michigan,W8CCE  B,W8CCE  G,443.3750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.51,-85.03,-05:00
+21,USA Northeast,Topinabee,Michigan,N8RTS  B,N8RTS  G,442.1250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.49,-84.59,-05:00
+21,USA Northeast,Travese City,Michigan,WI0OK  C,WI0OK  G,145.3600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.77,-85.62,-05:00
+21,USA Northeast,Warren,Michigan,WA8BRO B,WA8BRO G,442.03750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.5,-82.98,-05:00
+21,USA Northeast,Westland,Michigan,W8DTW  B,W8DTW  G,444.7250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.35,-83.35,-05:00
+21,USA Northeast,Westland,Michigan,W8DTW  C,W8DTW  G,145.1700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.35,-83.35,-05:00
+21,USA Northeast,Derry,New Hampshire,NN1PA  C,NN1PA  G,145.2000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.89,-71.27,-05:00
+21,USA Northeast,Fremont,New Hampshire,N1HIT  B,N1HIT  G,448.8750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,43.02,-71.11,-05:00
+21,USA Northeast,Fremont,New Hampshire,N1HIT  C,N1HIT  G,145.3200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.02,-71.11,-05:00
+21,USA Northeast,Goffstown,New Hampshire,NE1DV  B,NE1DV  G,446.5750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.99,-71.58,-05:00
+21,USA Northeast,Hampton,New Hampshire,K1HBR  C,K1HBR  G,145.4400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.94,-70.83,-05:00
+21,USA Northeast,Hampton,New Hampshire,K1HBR  B,K1HBR  G,449.4750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.94,-70.83,-05:00
+21,USA Northeast,Pembroke,New Hampshire,NE1DS  C,NE1DS  G,145.4800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.19,-71.44,-05:00
+21,USA Northeast,Portsmouth ,New Hampshire,KB1ZDR B,KB1ZDR G,441.9500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.09,-70.78,-05:00
+21,USA Northeast,Salem,New Hampshire,K1HRO  C,K1HRO  G,145.3200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.79,-71.23,-05:00
+21,USA Northeast,Salem,New Hampshire,K1HRO  B,K1HRO  G,444.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.79,-71.23,-05:00
+21,USA Northeast,Twin Mountain,New Hampshire,KB1UVE B,KB1UVE G,442.2500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.31,-71.53,-05:00
+21,USA Northeast,Atlantic City,New Jersey,KC2TGB B,KC2TGB G,447.5750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,39.38,-74.44,-05:00
+21,USA Northeast,Brigantine Islan,New Jersey,KC2TPM C,KC2TPM G,145.4500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.4,-74.37,-05:00
+21,USA Northeast,Kendall Park,New Jersey,KC2WBJ B,KC2WBJ G,440.7625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.43,-74.56,-05:00
+21,USA Northeast,Lake Hopatcong,New Jersey,NJ2MC  B,NJ2MC  G,441.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.95,-74.61,-05:00
+21,USA Northeast,Lake Hopatcong,New Jersey,NJ2MC  C,NJ2MC  G,145.4300,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.95,-74.61,-05:00
+21,USA Northeast,Martinsville,New Jersey,NJ2DG  B,NJ2DG  G,441.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.62,-74.56,-05:00
+21,USA Northeast,Martinsville,New Jersey,NJ2DG  C,NJ2DG  G,145.1400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.62,-74.56,-05:00
+21,USA Northeast,Newton,New Jersey,KD2DZE C,KD2DZE G,145.7000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,41.08,-74.75,-05:00
+21,USA Northeast,ADK FORT EDWARD,New York,KB1IVE C,KB1IVE G,145.5400,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.28,-73.58,-05:00
+21,USA Northeast,ADK Plattsburgh ,New York,W2UXC  B,W2UXC  G,449.7750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,44.71,-73.6,-05:00
+21,USA Northeast,ADK Pt Au Roche,New York,KD2RJP D,KD2RJP G,145.6100,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,44.82,-73.37,-05:00
+21,USA Northeast,ADK Saranac Lake,New York,W2SLK  B,W2SLK  G,441.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.33,-74.14,-05:00
+21,USA Northeast,Albany,New York,WA2UMX B,WA2UMX G,443.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.63,-74.01,-05:00
+21,USA Northeast,Batavia,New York,KD2FET B,KD2FET G,444.9625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.01,-78.11,-05:00
+21,USA Northeast,Brooklyn,New York,WG2MSK B,WG2MSK G,445.4750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.67,-73.97,-05:00
+21,USA Northeast,Buffalo/Niagara ,New York,KD2GBR C,KD2GBR G,146.7300,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.08,-78.83,-05:00
+21,USA Northeast,Buffalo/Niagara ,New York,KD2GBR B,KD2GBR G,444.8375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.08,-78.83,-05:00
+21,USA Northeast,Carmel,New York,K2PUT  B,K2PUT  G,445.8750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.47,-73.72,-05:00
+21,USA Northeast,Fairport,New York,KB2VZS B,KB2VZS G,444.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.1,-77.44,-05:00
+21,USA Northeast,Falconer,New York,KD2LWX B,KD2LWX G,444.9750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.17,-79.21,-05:00
+21,USA Northeast,Fredonia,New York,KD2MNA C,KD2MNA G,147.1950,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.44,-79.32,-05:00
+21,USA Northeast,Haverstraw,New York,W2LGB  B,W2LGB  G,449.1875,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.61,-74.09,-05:00
+21,USA Northeast,Hemlock,New York,K2BWK  B,K2BWK  G,443.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.77,-77.54,-05:00
+21,USA Northeast,Hemlock,New York,K2BWK  C,K2BWK  G,147.3750,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.77,-77.54,-05:00
+21,USA Northeast,Ithaca,New York,AF2A   B,AF2A   G,449.0250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,42.49,-76.45,-05:00
+21,USA Northeast,Mayville NY,New York,KD2LYO C,KD2LYO G,146.7600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.26,-79.5,-05:00
+21,USA Northeast,N Lindenhurst,New York,W2TOB  B,W2TOB  G,440.2500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.71,-73.37,-05:00
+21,USA Northeast,Otisville,New York,K9RRD  B,K9RRD  G,448.5750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.45,-74.56,-05:00
+21,USA Northeast,Selden,New York,WD2NY  B,WD2NY  G,445.7250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.84,-73.07,-05:00
+21,USA Northeast,Sodus,New York,WA2EMO B,WA2EMO G,444.7500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.15,-77.06,-05:00
+21,USA Northeast,Stanley,New York,KD2HVC B,KD2HVC G,444.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.81,-77.08,-05:00
+21,USA Northeast,Thiells,New York,KD2EQY B,KD2EQY G,449.6750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.21,-74.01,-05:00
+21,USA Northeast,Valhalla,New York,W2ECA  B,W2ECA  G,448.1875,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.09,-73.8,-05:00
+21,USA Northeast,Westbury,New York,NC2EC  C,NC2EC  G,146.6700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.77,-73.55,-05:00
+21,USA Northeast,Westbury,New York,NC2EC  B,NC2EC  G,448.5750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.77,-73.55,-05:00
+21,USA Northeast,Akron,Ohio,KE8LDH B,KE8LDH G,442.5125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.07,-81.55,-05:00
+21,USA Northeast,Cincinnati,Ohio,K8BIG  C,K8BIG  G,145.3500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.13,-84.49,-05:00
+21,USA Northeast,Cincinnati,Ohio,K8BIG  B,K8BIG  G,444.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.13,-84.49,-05:00
+21,USA Northeast,Cleveland,Ohio,WB8THD C,WB8THD G,145.3500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.62,-81.43,-05:00
+21,USA Northeast,Cleveland,Ohio,WB8THD B,WB8THD G,442.3250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.62,-81.43,-05:00
+21,USA Northeast,Columbus,Ohio,W8CMH  C,W8CMH  G,145.4900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.96,-82.99,-05:00
+21,USA Northeast,Columbus,Ohio,W8CMH  B,W8CMH  G,444.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.96,-82.99,-05:00
+21,USA Northeast,Columbus,Ohio,W8DIG  B,W8DIG  G,442.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.08,-82.91,-05:00
+21,USA Northeast,Columbus,Ohio,W8DIG  C,W8DIG  G,145.3900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.08,-82.91,-05:00
+21,USA Northeast,Columbus,Ohio,W8LT   B,W8LT   G,442.60000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.01,-83.03,-05:00
+21,USA Northeast,Dayton ,Ohio,W8HEQ  C,W8HEQ  G,145.2700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.85,-84.09,-05:00
+21,USA Northeast,Dayton ,Ohio,W8HEQ  B,W8HEQ  G,444.0875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.85,-84.09,-05:00
+21,USA Northeast,Dayton,Ohio,W8RTL  C,W8RTL  G,147.1050,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.6,-83.89,-05:00
+21,USA Northeast,Dayton,Ohio,W8RTL  B,W8RTL  G,443.0500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.6,-83.89,-05:00
+21,USA Northeast,Doylestown,Ohio,W8WKY  B,W8WKY  G,442.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.99,-81.69,-05:00
+21,USA Northeast,Lebanon,Ohio,KE8AOQ B,KE8AOQ G,443.1500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.46,-84.15,-05:00
+21,USA Northeast,Lima,Ohio,KT8APR B,KT8APR G,443.6250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.75,-84.13,-05:00
+21,USA Northeast,Maplewood,Ohio,KD8YFZ B,KD8YFZ G,442.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.4,-84.07,-05:00
+21,USA Northeast,Newport,Ohio,K8KHW  B,K8KHW  G,443.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.4,-81.25,-05:00
+21,USA Northeast,Oregon,Ohio,KD8QOF B,KD8QOF G,444.2500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.69,-83.41,-05:00
+21,USA Northeast,Perrysburg,Ohio,W8ODR  B,W8ODR  G,444.5125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.52,-83.64,-05:00
+21,USA Northeast,Rittman,Ohio,KE8LDG B,KE8LDG G,442.7375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.99,-81.79,-05:00
+21,USA Northeast,Rittman,Ohio,WW8TF  B,WW8TF  G,442.3750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.99,-81.8,-05:00
+21,USA Northeast,Stoutsville,Ohio,W8BAP  B,W8BAP  G,443.0625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.62,-82.77,-05:00
+21,USA Northeast,Tallmadge,Ohio,N8DXE  C,N8DXE  G,146.9850,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.08,-81.41,-05:00
+21,USA Northeast,Tiffin,Ohio,KB8EOC C,KB8EOC G,147.5000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.13,-83.18,-05:00
+21,USA Northeast,Tiffin,Ohio,KB8EOC B,KB8EOC G,443.1250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.13,-83.18,-05:00
+21,USA Northeast,Toledo,Ohio,N8LPQ  B,N8LPQ  G,443.775,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.66,-83.53,-05:00
+21,USA Northeast,Toledo,Ohio,W8HHF  B,W8HHF  G,442.7500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.66,-83.53,-05:00
+21,USA Northeast,Upper Arlington,Ohio,KE8EMD B,KE8EMD G,443.9875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.05,-83.09,-05:00
+21,USA Northeast,Atlantic,Pennsylvania,K3AWS  C,K3AWS  G,147.1500,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.51,-80.3,-05:00
+21,USA Northeast,Bethlehem,Pennsylvania,W3PLG  B,W3PLG  G,447.7125,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.6,-75.41,-05:00
+21,USA Northeast,Bradford,Pennsylvania,W3VG   B,W3VG   G,446.7000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,41.98,-78.65,-05:00
+21,USA Northeast,Drexel Hill,Pennsylvania,N3AEC  B,N3AEC  G,440.04375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.96,-75.28,-05:00
+21,USA Northeast,Eagleville,Pennsylvania,AA3E   B,AA3E   G,445.01875,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.16,-75.41,-05:00
+21,USA Northeast,East Stroudsburg,Pennsylvania,KB3TEM C,KB3TEM G,146.5500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.01,-75.18,-05:00
+21,USA Northeast,Greensburg,Pennsylvania,WC3PS  B,WC3PS  G,442.1500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.32,-79.49,-05:00
+21,USA Northeast,Greensburg,Pennsylvania,WC3PS  C,WC3PS  G,145.4400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.32,-79.49,-05:00
+21,USA Northeast,Kylertown,Pennsylvania,W3PHB  C,W3PHB  G,147.2550,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.99,-78.17,-05:00
+21,USA Northeast,Lima,Pennsylvania,W3AEC  B,W3AEC  G,440.05625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.92,-75.44,-05:00
+21,USA Northeast,Mohrsville,Pennsylvania,K3TI   B,K3TI   G,445.5500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.47,-76.01,-05:00
+21,USA Northeast,Mohrsville,Pennsylvania,K3TI   C,K3TI   G,145.3400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.47,-76.01,-05:00
+21,USA Northeast,Nazareth,Pennsylvania,W3OK   C,W3OK   G,145.1100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.75,-75.33,-05:00
+21,USA Northeast,New Castle,Pennsylvania,KB3YBB B,KB3YBB G,443.0750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41,-80.33,-05:00
+21,USA Northeast,Philadelphia,Pennsylvania,K3PDR  B,K3PDR  G,445.18125,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.09,-75.18,-05:00
+21,USA Northeast,Philadelphia,Pennsylvania,K3PDR  C,K3PDR  G,146.6100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.09,-75.18,-05:00
+21,USA Northeast,Philipsburg,Pennsylvania,KC3BMB B,KC3BMB G,444.7500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.9,-78.25,-05:00
+21,USA Northeast,Pittsburgh,Pennsylvania,W3EXW  B,W3EXW  G,444.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.45,-79.96,-05:00
+21,USA Northeast,Pittsburgh,Pennsylvania,W3EXW  C,W3EXW  G,146.8200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.45,-79.96,-05:00
+21,USA Northeast,Schnecksville,Pennsylvania,W3EPE  B,W3EPE  G,445.2250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.69,-75.62,-05:00
+21,USA Northeast,University Park,Pennsylvania,K3CR   C,K3CR   G,145.3700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.85,-77.85,-05:00
+21,USA Northeast,Warren,Pennsylvania,KB3BSA B,KB3BSA G,442.2250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.82,-79.07,-05:00
+21,USA Northeast,Portsmouth,Rhode Island,W1AAD  C,W1AAD  G,145.3000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.58,-71.23,-05:00
+21,USA Northeast,W.Warwick,Rhode Island,W1HDN  C,W1HDN  G,147.0450,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.67,-71.51,-05:00
+21,USA Northeast,Alexandria,Virginia ,W4HFH  B,W4HFH  G,442.0600,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.83,-77.1,-05:00
+21,USA Northeast,Alexandria,Virginia ,W4HFH  C,W4HFH  G,145.3800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.83,-77.1,-05:00
+21,USA Northeast,Ashburn,Virginia ,KO4NCX B,KO4NCX G,447.6750 ,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,39.05,-77.51,-05:00
+21,USA Northeast,Fancy Gap,Virginia ,WX4F   B,WX4F   G,444.1500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.65,-80.67,-05:00
+21,USA Northeast,Hampton,Virginia ,K4HPT  B,K4HPT  G,443.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.06,-76.39,-05:00
+21,USA Northeast,Hampton,Virginia ,W4HPT  B,W4HPT  G,444.2125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.03,-76.34,-05:00
+21,USA Northeast,Hampton,Virginia ,W4HPT  C,W4HPT  G,145.2000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,37.03,-76.34,-05:00
+21,USA Northeast,Lexington,Virginia ,W4ROC  B,W4ROC  G,444.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.8,-79.18,-05:00
+21,USA Northeast,Manassas,Virginia ,W4OVH  B,W4OVH  G,442.5125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.79,-77.5,-05:00
+21,USA Northeast,Manassas,Virginia ,W4OVH  C,W4OVH  G,146.8650,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.79,-77.5,-05:00
+21,USA Northeast,Newport News,Virginia ,W4MT   C,W4MT   G,145.3000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,37.07,-76.45,-05:00
+21,USA Northeast,Newport News,Virginia ,W4MT   B,W4MT   G,441.8125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.07,-76.45,-05:00
+21,USA Northeast,RICHLANDS ,Virginia ,KM4HDM B,KM4HDM G,442.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.06,-82.03,-05:00
+21,USA Northeast,Richmond,Virginia ,W4FJ   C,W4FJ   G,147.2550,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,37.55,-77.46,-05:00
+21,USA Northeast,Richmond,Virginia ,W4FJ   B,W4FJ   G,443.7125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.55,-77.46,-05:00
+21,USA Northeast,Roanoke,Virginia ,KO4DQA B,KO4DQA G,440.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.26,-79.98,-05:00
+21,USA Northeast,Rushmere,Virginia ,N4AR   B,N4AR   G,440.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.11,-76.71,-05:00
+21,USA Northeast,Stafford,Virginia ,WS4VA  B,WS4VA  G,447.2750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,38.35,-77.47,-05:00
+21,USA Northeast,Stafford,Virginia ,WS4VA  C,WS4VA  G,145.3200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.35,-77.47,-05:00
+21,USA Northeast,Stafford,Virginia ,WU5MC  B,WU5MC  G,442.4875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.47,-77.46,-05:00
+21,USA Northeast,Tysons Corner,Virginia ,NV4FM  B,NV4FM  G,448.0350,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,38.91,-77.21,-05:00
+21,USA Northeast,Tysons Corner,Virginia ,NV4FM  C,NV4FM  G,145.3400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.91,-77.21,-05:00
+21,USA Northeast,Williamsburg,Virginia ,KO4VQE C,KO4VQE G,145.1600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,37.35,-76.76,-05:00
+21,USA Northeast,Williamsburg,Virginia ,KO4VQE B,KO4VQE G,440.7000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.35,-76.76,-05:00
+21,USA Northeast,Wintergreen,Virginia ,WR4CV  B,WR4CV  G,444.9375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.92,-78.94,-05:00
+21,USA Northeast,Beckley,West Virginia,W8ARA  B,W8ARA  G,444.8500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.95,-81.3,-05:00
+21,USA Northeast,Summit Bechtel R,West Virginia,WV8BSA B,WV8BSA G,441.8125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.91,-81.13,-05:00
+22,USA Southeast,Anniston,Alabama,KI4SUF C,KI4SUF G,145.2000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.66,-85.83,-06:00
+22,USA Southeast,Anniston,Alabama,KI4SUF B,KI4SUF G,443.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.66,-85.83,-06:00
+22,USA Southeast,Anniston,Alabama,WB4GNA B,WB4GNA G,442.4250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.49,-85.8,-06:00
+22,USA Southeast,Anniston,Alabama,WB4GNA C,WB4GNA G,145.3000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.49,-85.8,-06:00
+22,USA Southeast,Birmingham,Alabama,K4DSO  B,K4DSO  G,443.2000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.4,-86.66,-06:00
+22,USA Southeast,Birmingham,Alabama,K4DSO  C,K4DSO  G,145.4100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.4,-86.66,-06:00
+22,USA Southeast,Birmingham,Alabama,KI4SBB C,KI4SBB G,144.9600,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,33.49,-86.8,-06:00
+22,USA Southeast,Birmingham,Alabama,KI4SBB B,KI4SBB G,443.9750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.49,-86.8,-06:00
+22,USA Southeast,Birmingham,Alabama,KO4TM  B,KO4TM  G,442.0750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.44,-86.78,-06:00
+22,USA Southeast,Clanton,Alabama,W4AEC  C,W4AEC  G,145.1800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.8,-86.56,-06:00
+22,USA Southeast,Clanton,Alabama,W4AEC  B,W4AEC  G,444.3750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.8,-86.56,-06:00
+22,USA Southeast,Dadeville,Alabama,WA4TAL B,WA4TAL G,444.5250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,32.95,-85.74,-06:00
+22,USA Southeast,Dadeville,Alabama,WA4TAL C,WA4TAL G,145.2700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.95,-85.74,-06:00
+22,USA Southeast,Enterprise,Alabama,KJ4OTP C,KJ4OTP G,145.1300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.19,-85.5,-06:00
+22,USA Southeast,Enterprise,Alabama,KJ4OTP B,KJ4OTP G,442.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.19,-85.5,-06:00
+22,USA Southeast,Fayette,Alabama,KK4QXJ C,KK4QXJ G,145.4000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.72,-87.81,-06:00
+22,USA Southeast,Ft Payne,Alabama,KI4SAY B,KI4SAY G,443.3250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.48,-85.69,-06:00
+22,USA Southeast,Ft Payne,Alabama,KI4SAY C,KI4SAY G,145.4400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.48,-85.69,-06:00
+22,USA Southeast,Gadsden,Alabama,K4RBC  C,K4RBC  G,145.4900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.03,-85.99,-06:00
+22,USA Southeast,Gadsden,Alabama,K4RBC  B,K4RBC  G,444.7750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.03,-85.99,-06:00
+22,USA Southeast,Guntersville,Alabama,KI4RYX C,KI4RYX G,145.1400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.4,-86.2,-06:00
+22,USA Southeast,Hamilton,Alabama,KI4WX  B,KI4WX  G,442.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.12,-88.02,-06:00
+22,USA Southeast,Huntsville,Alabama,W4WBC  B,W4WBC  G,443.4250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.64,-86.51,-06:00
+22,USA Southeast,Huntsville,Alabama,W4WBC  C,W4WBC  G,145.3600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.64,-86.51,-06:00
+22,USA Southeast,Magnolia Springs,Alabama,KI4SAZ B,KI4SAZ G,444.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.39,-87.81,-06:00
+22,USA Southeast,Magnolia Springs,Alabama,KI4SAZ C,KI4SAZ G,145.3100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.39,-87.81,-06:00
+22,USA Southeast,Mentone,Alabama,KI4SBC B,KI4SBC G,443.4250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.68,-86.57,-06:00
+22,USA Southeast,Millport,Alabama,KN4BOF C,KN4BOF G,145.2400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.57,-88.07,-06:00
+22,USA Southeast,Mobile,Alabama,W4IAX  B,W4IAX  G,444.9000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.61,-88.18,-06:00
+22,USA Southeast,Mobile,Alabama,W4IAX  C,W4IAX  G,145.3900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.61,-88.18,-06:00
+22,USA Southeast,Montgomery,Alabama,W4AP   B,W4AP   G,443.9750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.41,-86.19,-06:00
+22,USA Southeast,Montgomery,Alabama,W4AP   C,W4AP   G,146.9200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.41,-86.19,-06:00
+22,USA Southeast,Odenville,Alabama,KR4AOM B,KR4AOM G,444.7250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.61,-86.41,-06:00
+22,USA Southeast,Opelika,Alabama,W4LEE  C,W4LEE  G,147.3750,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.65,-85.38,-06:00
+22,USA Southeast,Ozark,Alabama,KJ4SVY C,KJ4SVY G,145.3300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.41,-85.67,-06:00
+22,USA Southeast,Roanoke,Alabama,KJ4JNX C,KJ4JNX G,145.4000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.16,-85.35,-06:00
+22,USA Southeast,Roanoke,Alabama,KJ4JNX B,KJ4JNX G,444.9000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.16,-85.35,-06:00
+22,USA Southeast,Tuscaloosa,Alabama,W4KCQ  B,W4KCQ  G,444.0750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.21,-87.52,-06:00
+22,USA Southeast,Tuscaloosa,Alabama,W4KCQ  C,W4KCQ  G,146.6050,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.21,-87.52,-06:00
+22,USA Southeast,Vernon,Alabama,KC4UG  C,KC4UG  G,145.2100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.75,-88.12,-06:00
+22,USA Southeast,Vernon,Alabama,KC4UG  B,KC4UG  G,444.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.75,-88.12,-06:00
+22,USA Southeast,Avon Park,Florida,KM4ECQ B,KM4ECQ G,443.3125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,27.6,-81.5,-05:00
+22,USA Southeast,Bartow,Florida,WC4PEM B,WC4PEM G,444.4875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,27.89,-81.81,-05:00
+22,USA Southeast,Cocoa,Florida,KJ4OXT C,KJ4OXT G,147.0450,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,28.36,-80.74,-05:00
+22,USA Southeast,Crestview,Florida,KO4EOC C,KO4EOC G,145.1500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.78,-86.56,-05:00
+22,USA Southeast,Crestview,Florida,KO4EOC B,KO4EOC G,444.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.78,-86.56,-05:00
+22,USA Southeast,Daytona Beach,Florida,KJ4RYH C,KJ4RYH G,145.3800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.22,-81.01,-05:00
+22,USA Southeast,DeFuniak Springs,Florida,N4EMA  C,N4EMA  G,146.9625,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.73,-86.09,-05:00
+22,USA Southeast,DeFuniak Springs,Florida,N4EMA  B,N4EMA  G,443.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.73,-86.09,-05:00
+22,USA Southeast,Fort Lauderdale,Florida,W4AB   B,W4AB   G,442.4500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,26.12,-80.14,-05:00
+22,USA Southeast,Fort Myers,Florida,W4LCO  B,W4LCO  G,443.4500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,26.59,-81.83,-05:00
+22,USA Southeast,Fort Myers,Florida,W4LCO  C,W4LCO  G,147.3750,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,26.59,-81.83,-05:00
+22,USA Southeast,Fort Pierce,Florida,W4AKH  B,W4AKH  G,444.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,27,-80.32,-05:00
+22,USA Southeast,Jacksonville,Florida,W4RNG  C,W4RNG  G,146.8800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.14,-81.53,-05:00
+22,USA Southeast,Jacksonville Bea,Florida,KJ4RYG C,KJ4RYG G,145.3600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.25,-81.4,-05:00
+22,USA Southeast,Kissimmee,Florida,N4ARG  C,N4ARG  G,147.2100,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,28.33,-81.4,-05:00
+22,USA Southeast,Kissimmee,Florida,N4ARG  B,N4ARG  G,444.4500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,28.33,-81.4,-05:00
+22,USA Southeast,Madeira Beach,Florida,W4THE  B,W4THE  G,444.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,27.81,-82.79,-05:00
+22,USA Southeast,Miami,Florida,W4NVU  C,W4NVU  G,147.0150,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,25.8,-80.21,-05:00
+22,USA Southeast,Miami,Florida,W4NVU  B,W4NVU  G,444.0750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,25.8,-80.21,-05:00
+22,USA Southeast,Miami,Florida,W4THM  C,W4THM  G,146.8650,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,25.76,-80.19,+04:30
+22,USA Southeast,Miami,Florida,W4THM  B,W4THM  G,443.7750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,25.76,-80.19,+04:30
+22,USA Southeast,Miami,Florida,WD4ARC C,WD4ARC G,145.2890,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,25.76,-80.42,-05:00
+22,USA Southeast,Milton,Florida,KI4WZA C,KI4WZA G,147.3300,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.36,-87.04,-05:00
+22,USA Southeast,Milton,Florida,KI4WZA B,KI4WZA G,444.9250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.36,-87.04,-05:00
+22,USA Southeast,Monticello,Florida,KA3FZO B,KA3FZO G,444.0550,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.52,-83.88,-05:00
+22,USA Southeast,Naples,Florida,AA4PP  C,AA4PP  G,145.4900,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,26.13,-81.72,-05:00
+22,USA Southeast,Naples,Florida,AA4PP  B,AA4PP  G,441.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,26.13,-81.72,-05:00
+22,USA Southeast,Naples,Florida,AB4NP  C,AB4NP  G,145.2700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,26.25,-81.81,-05:00
+22,USA Southeast,North Naples,Florida,AC4FL  B,AC4FL  G,443.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,26.17,-81.49,-05:00
+22,USA Southeast,Ocala,Florida,KG4NXO C,KG4NXO G,145.1700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.2,-82.17,-05:00
+22,USA Southeast,Ocala,Florida,KG4NXO B,KG4NXO G,443.8750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.2,-82.17,-05:00
+22,USA Southeast,Ocala,Florida,KK4DFC C,KK4DFC G,146.7900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.13,-82.06,-05:00
+22,USA Southeast,Orlando,Florida,K1XC   B,K1XC   G,443.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,28.56,-81.35,-05:00
+22,USA Southeast,Orlando,Florida,K1XC   C,K1XC   G,146.8200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,28.56,-81.35,-05:00
+22,USA Southeast,ORLANDO ,Florida,K4VDO  B,K4VDO  G,442.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,28.46,-81.38,-05:00
+22,USA Southeast,Orlando,Florida,KJ4MMC C,KJ4MMC G,145.2900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,28.56,-81.33,-05:00
+22,USA Southeast,Orlando,Florida,KN4DCI B,KN4DCI G,443.3250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,28.56,-81.44,-05:00
+22,USA Southeast,Orlando,Florida,W4AES  B,W4AES  G,443.6250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,28.53,-81.38,-05:00
+22,USA Southeast,Orlando,Florida,WD4WDW B,WD4WDW G,442.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,28.4,-81.53,-05:00
+22,USA Southeast,Palm Beach,Florida,K4WPB  C,K4WPB  G,145.3200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,26.4,-80.04,-05:00
+22,USA Southeast,Palm Coast,Florida,KA4RES C,KA4RES G,145.3200,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,29.5,-81.12,-05:00
+22,USA Southeast,Panama City,Florida,KK4TAD B,KK4TAD G,444.8500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.44,-85.52,-06:00
+22,USA Southeast,Panama City,Florida,KK4TAD C,KK4TAD G,146.8800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.44,-85.52,-06:00
+22,USA Southeast,Pompano Beach,Florida,KF4LZA B,KF4LZA G,441.7500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,26.23,-80.12,-05:00
+22,USA Southeast,Port St Joe,Florida,W4FFC  B,W4FFC  G,441.8250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,29.83,-85.29,-05:00
+22,USA Southeast,Saint Cloud,Florida,KG4EOC B,KG4EOC G,444.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,28.26,-81.32,-05:00
+22,USA Southeast,Sanford,Florida,W4PLB  C,W4PLB  G,145.1600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,28.82,-81.34,-05:00
+22,USA Southeast,Sanford,Florida,W4PLB  B,W4PLB  G,442.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,28.82,-81.34,-05:00
+22,USA Southeast,St.Petersburg,Florida,W4ICY  B,W4ICY  G,442.7500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,27.88,-82.64,-05:00
+22,USA Southeast,Stuart,Florida,KB4DD  C,KB4DD  G,145.4400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,27.14,-80.22,-05:00
+22,USA Southeast,Sun City Center ,Florida,W1SCC  B,W1SCC  G,442.2250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,27.72,-82.35,-05:00
+22,USA Southeast,Sun City Center ,Florida,W1SCC  C,W1SCC  G,147.2625,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,27.72,-82.35,-05:00
+22,USA Southeast,Tampa,Florida,K4FSG  D,K4FSG  G,443.5250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,27.94,-82.45,-05:00
+22,USA Southeast,Tampa,Florida,W4RNT  B,W4RNT  G,444.8125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,27.9,-82.51,-05:00
+22,USA Southeast,Tavares,Florida,KJ4TJD B,KJ4TJD G,444.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,28.49,-81.43,-05:00
+22,USA Southeast,The Villages,Florida,W4VLG  B,W4VLG  G,443.8750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,28.58,-82,-05:00
+22,USA Southeast,Vero Beach,Florida,WA4TCD C,WA4TCD G,145.4000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,27.61,-80.38,-05:00
+22,USA Southeast,Wesley Chapel,Florida,W4SRT  B,W4SRT  G,442.3250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,28.27,-82.31,-05:00
+22,USA Southeast,Albany,Georgia,KJ4KLD C,KJ4KLD G,144.9600,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,31.6,-84.15,-05:00
+22,USA Southeast,Albany,Georgia,KJ4KLD B,KJ4KLD G,440.7000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.6,-84.15,-05:00
+22,USA Southeast,Appling/Augusta,Georgia,KJ4PYA C,KJ4PYA G,145.0800,DUP+,1.4,DV,OFF,82.5Hz,Yes,Approximate,33.54,-82.3,-05:00
+22,USA Southeast,Appling/Augusta,Georgia,KJ4PYA B,KJ4PYA G,440.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.54,-82.3,-05:00
+22,USA Southeast,Athens/Jackson C,Georgia,KJ4PXY B,KJ4PXY G,440.6375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.04,-83.5,-05:00
+22,USA Southeast,Athens/Jackson C,Georgia,KJ4PXY C,KJ4PXY G,144.9800,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,34.04,-83.5,-05:00
+22,USA Southeast,Atlanta,Georgia,W4DOC  B,W4DOC  G,440.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.77,-84.38,-05:00
+22,USA Southeast,Atlanta,Georgia,W4DOC  C,W4DOC  G,145.3500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.77,-84.38,-05:00
+22,USA Southeast,Ball Ground,Georgia,KK4WIB C,KK4WIB G,147.4250,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,34.33,-84.47,-05:00
+22,USA Southeast,Ball Ground,Georgia,KK4WIB B,KK4WIB G,442.4875,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,34.33,-84.47,-05:00
+22,USA Southeast,Braselton,Georgia,KE4TV  B,KE4TV  G,440.5875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.14,-83.79,-05:00
+22,USA Southeast,Buford,Georgia,KJ4BDF B,KJ4BDF G,440.7250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.11,-83.91,-05:00
+22,USA Southeast,Clermont,Georgia,W4CBA  C,W4CBA  G,145.2000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.51,-83.8,-05:00
+22,USA Southeast,Clermont,Georgia,W4CBA  B,W4CBA  G,444.3375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.51,-83.8,-05:00
+22,USA Southeast,Cleveland,Georgia,K4GAR  B,K4GAR  G,440.5125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.57,-83.77,-05:00
+22,USA Southeast,Columbus,Georgia,W4CVY  B,W4CVY  G,443.5750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.47,-85.05,-05:00
+22,USA Southeast,Columbus,Georgia,WB4ULK B,WB4ULK G,444.61250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.64,-84.82,-05:00
+22,USA Southeast,COVINGTON,Georgia,WA4ASI C,WA4ASI G,146.925,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.55,-83.91,-05:00
+22,USA Southeast,Dallas,Georgia,WX4PCA C,WX4PCA G,145.3400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.93,-84.84,-05:00
+22,USA Southeast,Dallas,Georgia,WX4PCA B,WX4PCA G,440.5750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.93,-84.84,-05:00
+22,USA Southeast,Dalton,Georgia,KA4RVT B,KA4RVT G,444.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.74,-85.01,-05:00
+22,USA Southeast,Dalton,Georgia,KA4RVT C,KA4RVT G,145.3300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.74,-85.01,-05:00
+22,USA Southeast,Doraville,Georgia,WB4HRO B,WB4HRO G,440.7125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.92,-84.25,-05:00
+22,USA Southeast,Dublin,Georgia,KJ4YNR C,KJ4YNR G,145.1800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.37,-82.76,-05:00
+22,USA Southeast,Dublin,Georgia,KJ4YNR B,KJ4YNR G,440.5250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.37,-82.76,-05:00
+22,USA Southeast,Ellijay,Georgia,W4HHH  B,W4HHH  G,443.9875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.75,-84.94,-05:00
+22,USA Southeast,Evans,Georgia,WB6BA  B,WB6BA  G,440.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.56,-82.22,-05:00
+22,USA Southeast,Fayetteville,Georgia,KK4GQ  B,KK4GQ  G,442.5625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.48,-84.43,-05:00
+22,USA Southeast,Forsyth,Georgia,KK4JPG C,KK4JPG G,145.0800,DUP+,1.4,DV,OFF,82.5Hz,Yes,Approximate,33.19,-84.01,-05:00
+22,USA Southeast,Gainesville,Georgia,KJ4ZLL B,KJ4ZLL G,441.8625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.31,-83.81,-05:00
+22,USA Southeast,Gainesville,Georgia,KJ4ZLL C,KJ4ZLL G,145.1200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.31,-83.81,-05:00
+22,USA Southeast,Griffin,Georgia,W4AMI  C,W4AMI  G,145.48000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.24,-84.26,-05:00
+22,USA Southeast,Hinesville,Georgia,KQ4BBQ C,KQ4BBQ G,144.6200,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.79,-81.64,-05:00
+22,USA Southeast,Jasper/Oglethorp,Georgia,KJ4PYC C,KJ4PYC G,145.0800,DUP+,1.4,DV,OFF,82.5Hz,Yes,Approximate,34.49,-84.32,-05:00
+22,USA Southeast,Jersey,Georgia,WC4RG  C,WC4RG  G,145.3000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.74,-83.76,-05:00
+22,USA Southeast,Jersey,Georgia,WC4RG  B,WC4RG  G,443.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.74,-83.76,-05:00
+22,USA Southeast,Kathleen,Georgia,WY4EMA B,WY4EMA G,440.5750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.53,-83.68,-05:00
+22,USA Southeast,LaGrange,Georgia,WB4BXO B,WB4BXO G,440.5125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.04,-85.11,-05:00
+22,USA Southeast,Lawrenceville,Georgia,WD4STR B,WD4STR G,440.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.96,-83.99,-05:00
+22,USA Southeast,Lawrenceville,Georgia,WD4STR C,WD4STR G,145.0600,DUP+,1.4,DV,OFF,82.5Hz,Yes,Approximate,33.96,-83.99,-05:00
+22,USA Southeast,Lookout Mountain,Georgia,N4LMC  C,N4LMC  G,145.1600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.87,-85.39,-05:00
+22,USA Southeast,Macon,Georgia,WX4EMA B,WX4EMA G,440.6250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.87,-83.69,-05:00
+22,USA Southeast,Macon,Georgia,WX4EMA C,WX4EMA G,145.3400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.87,-83.69,-05:00
+22,USA Southeast,Marietta,Georgia,W4BTI  B,W4BTI  G,440.6875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.07,-84.45,-05:00
+22,USA Southeast,Midway,Georgia,KG4LVN C,KG4LVN G,146.940,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.73,-81.25,-05:00
+22,USA Southeast,Morganton,Georgia,KM4MAD C,KM4MAD G,145.4000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.81,-84.21,-05:00
+22,USA Southeast,Pembroke,Georgia,KJ4GGV B,KJ4GGV G,440.7000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.15,-81.61,-05:00
+22,USA Southeast,Pembroke,Georgia,KJ4GGV C,KJ4GGV G,145.2800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.15,-81.61,-05:00
+22,USA Southeast,Rome,Georgia,W4VO   C,W4VO   G,145.3800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.24,-85.23,-05:00
+22,USA Southeast,Rome,Georgia,W4VO   B,W4VO   G,440.6250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.24,-85.23,-05:00
+22,USA Southeast,Sandersville,Georgia,W4SAN  C,W4SAN  G,145.3200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.98,-82.81,-05:00
+22,USA Southeast,Sandersville,Georgia,W4SAN  B,W4SAN  G,444.5375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.98,-82.81,-05:00
+22,USA Southeast,Savannah,Georgia,KK4SGC B,KK4SGC G,440.5875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.05,-81.07,-05:00
+22,USA Southeast,Savannah,Georgia,KK4SGC C,KK4SGC G,144.9400,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,32.05,-81.07,-05:00
+22,USA Southeast,Stone Mountain,Georgia,WX4GPB B,WX4GPB G,440.7000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.81,-84.14,-05:00
+22,USA Southeast,Stone Mountain,Georgia,WX4GPB C,WX4GPB G,144.9600,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,33.81,-84.14,-05:00
+22,USA Southeast,Thomasville,Georgia,KJ4PYB C,KJ4PYB G,145.0800,DUP+,1.4,DV,OFF,82.5Hz,Yes,Approximate,30.83,-83.97,-05:00
+22,USA Southeast,Thomasville,Georgia,KJ4PYB B,KJ4PYB G,440.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.83,-83.97,-05:00
+22,USA Southeast,Tifton,Georgia,W4PVW  B,W4PVW  G,444.5625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.47,-83.47,-05:00
+22,USA Southeast,Tifton,Georgia,W4PVW  C,W4PVW  G,145.1200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.47,-83.47,-05:00
+22,USA Southeast,Valdosta,Georgia,W4VLD  B,W4VLD  G,443.7125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.85,-83.32,-05:00
+22,USA Southeast,Valdosta,Georgia,W4VLD  C,W4VLD  G,145.1400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.85,-83.32,-05:00
+22,USA Southeast,Villa Rica,Georgia,WR4VR  C,WR4VR  G,145.2400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.72,-84.93,-05:00
+22,USA Southeast,Waleska,Georgia,KI4GOM C,KI4GOM G,145.0200,DUP+,1.4,DV,OFF,82.5Hz,Yes,Approximate,34.33,-84.63,-05:00
+22,USA Southeast,Warm Springs,Georgia,KJ4KLE C,KJ4KLE G,144.9200,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,32.86,-84.7,-05:00
+22,USA Southeast,Warm Springs,Georgia,KJ4KLE B,KJ4KLE G,440.6750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.86,-84.7,-05:00
+22,USA Southeast,Waverly,Georgia,N4CGH  C,N4CGH  G,145.1200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.11,-81.7,-05:00
+22,USA Southeast,Waverly,Georgia,N4CGH  B,N4CGH  G,442.0125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,31.11,-81.7,-05:00
+22,USA Southeast,Waynesboro,Georgia,K4BRK  B,K4BRK  G,444.1000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.16,-81.98,-05:00
+22,USA Southeast,Brandon,Mississippi,K5RKN  B,K5RKN  G,444.8250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.35,-89.96,-06:00
+22,USA Southeast,Brandon,Mississippi,K5RKN  C,K5RKN  G,145.1700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.35,-89.96,-06:00
+22,USA Southeast,Clinton,Mississippi,W5DRA  B,W5DRA  G,441.8125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.32,-90.33,-06:00
+22,USA Southeast,Columbus,Mississippi,KC5ULN B,KC5ULN G,444.9250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.56,-88.43,-06:00
+22,USA Southeast,McHenry,Mississippi,KI4TMJ B,KI4TMJ G,444.4750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,30.75,-89.05,-06:00
+22,USA Southeast,McHenry,Mississippi,KI4TMJ C,KI4TMJ G,145.1700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,30.75,-89.05,-06:00
+22,USA Southeast,Tupelo,Mississippi,KE5LUX B,KE5LUX G,444.9500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.21,-88.69,-06:00
+22,USA Southeast,Tupelo,Mississippi,KE5LUX C,KE5LUX G,146.6400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.21,-88.69,-06:00
+22,USA Southeast,ALBEMARLE,North Carolina,K4DVA  C,K4DVA  G,144.9200,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,35.35,-80.23,-05:00
+22,USA Southeast,ALBEMARLE,North Carolina,K4DVA  B,K4DVA  G,440.6875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.35,-80.23,-05:00
+22,USA Southeast,Boone,North Carolina,KO4VDJ B,KO4VDJ G,440.6375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.23,-81.68,-05:00
+22,USA Southeast,Chapel Hill,North Carolina,KR4RDU B,KR4RDU G,442.5375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.8,-79,-05:00
+22,USA Southeast,Charlotte,North Carolina,W4WBT  B,W4WBT  G,444.6750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.31,-80.74,-05:00
+22,USA Southeast,Fletcher,North Carolina,NC4BS  B,NC4BS  G,442.9625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.47,-82.35,-05:00
+22,USA Southeast,Garner,North Carolina,K4ZXX  C,K4ZXX  G,443.4250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.72,-78.64,-05:00
+22,USA Southeast,Gastonia,North Carolina,KI4WXS B,KI4WXS G,444.0250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.3,-81.11,-05:00
+22,USA Southeast,Gastonia,North Carolina,KK4JDH B,KK4JDH G,443.8625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.24,-81.27,-05:00
+22,USA Southeast,Greensboro,North Carolina,ND4L   B,ND4L   G,441.9250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.96,-79.79,-05:00
+22,USA Southeast,Greensboro,North Carolina,W4GSO  B,W4GSO  G,442.8625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.11,-79.82,-05:00
+22,USA Southeast,Hendersonville,North Carolina,KJ4JAL C,KJ4JAL G,147.2550,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,35.24,-82.53,-05:00
+22,USA Southeast,Hendersonville,North Carolina,KJ4JAL B,KJ4JAL G,442.0250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.24,-82.53,-05:00
+22,USA Southeast,Jacksonville,North Carolina,KO4DQS B,KO4DQS G,440.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.8,-77.38,-05:00
+22,USA Southeast,Mt. Airy,North Carolina,KJ4HFV B,KJ4HFV G,444.5625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.26,-80.39,-05:00
+22,USA Southeast,Raleigh,North Carolina,W4RNC  B,W4RNC  G,442.2125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.68,-78.53,-05:00
+22,USA Southeast,Shelby,North Carolina,W4NYR  C,W4NYR  G,145.0800,DUP+,1.4,DV,OFF,82.5Hz,Yes,Approximate,35.27,-81.33,-05:00
+22,USA Southeast,Shelby,North Carolina,W4NYR  B,W4NYR  G,444.1875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.27,-81.33,-05:00
+22,USA Southeast,Tryon,North Carolina,KK4LVF B,KK4LVF G,442.8750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.28,-82.23,-05:00
+22,USA Southeast,Wingate,North Carolina,W4FAN  B,W4FAN  G,444.8625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.98,-80.46,-05:00
+22,USA Southeast,Aiken,South Carolina,KR4AIK C,KR4AIK G,145.1600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.58,-81.69,-05:00
+22,USA Southeast,Aiken,South Carolina,KR4AIK B,KR4AIK G,443.4125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.58,-81.69,-05:00
+22,USA Southeast,Awendaw,South Carolina,KR4CHS C,KR4CHS G,145.1200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.93,-79.69,-05:00
+22,USA Southeast,Beaufort,South Carolina,KJ4LNJ C,KJ4LNJ G,145.4800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.43,-80.4,-05:00
+22,USA Southeast,BEECH ISLAND,South Carolina,KM4LOD B,KM4LOD G,440.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.24,-81.5,-05:00
+22,USA Southeast,BEECH ISLAND,South Carolina,KM4LOD C,KM4LOD G,145.2600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.24,-81.5,-05:00
+22,USA Southeast,Columbia,South Carolina,KJ4BWK C,KJ4BWK G,145.4000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.05,-80.99,-05:00
+22,USA Southeast,Columbia,South Carolina,KJ4BWK B,KJ4BWK G,443.2000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.05,-80.99,-05:00
+22,USA Southeast,Columbia,South Carolina,KJ4FCS B,KJ4FCS G,442.7750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.12,-80.76,-05:00
+22,USA Southeast,Columbia,South Carolina,KJ4FCS C,KJ4FCS G,145.3800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.12,-80.76,-05:00
+22,USA Southeast,Columbia,South Carolina,KJ4MKV B,KJ4MKV G,443.3250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.74,-80.82,-05:00
+22,USA Southeast,Columbia,South Carolina,KJ4MKV C,KJ4MKV G,145.2400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.74,-80.82,-05:00
+22,USA Southeast,Dillion,South Carolina,W4PDE  C,W4PDE  G,145.3400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.37,-79.33,-05:00
+22,USA Southeast,Dillion,South Carolina,W4PDE  B,W4PDE  G,443.8875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.37,-79.33,-05:00
+22,USA Southeast,Greenwood,South Carolina,W4GWM  C,W4GWM  G,145.4200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.18,-82.15,-05:00
+22,USA Southeast,Hilton Head Isla,South Carolina,W4IAR  C,W4IAR  G,147.3750,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.18,-80.72,-05:00
+22,USA Southeast,Leesville,South Carolina,KC4GYM C,KC4GYM G,146.6550,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.88,-81.41,-05:00
+22,USA Southeast,Leesville,South Carolina,KC4GYM B,KC4GYM G,443.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.88,-81.41,-05:00
+22,USA Southeast,Myrtle Beach,South Carolina,NE4SC  C,NE4SC  G,144.9800,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,33.96,-79.1,-05:00
+22,USA Southeast,Myrtle Beach,South Carolina,NE4SC  B,NE4SC  G,442.7875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.96,-79.1,-05:00
+22,USA Southeast,Summerville,South Carolina,KX4DOR C,KX4DOR G,145.2800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.15,-80.35,-05:00
+22,USA Southeast,Summerville,South Carolina,KX4DOR B,KX4DOR G,442.8375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.15,-80.35,-05:00
+22,USA Southeast,Benton,Tennessee,KM4MCN C,KM4MCN G,144.9800,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,35.2,-84.55,-05:00
+22,USA Southeast,Chattanooga,Tennessee,W4PL   B,W4PL   G,443.1500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.16,-85.3,-05:00
+22,USA Southeast,Chattanooga,Tennessee,W4PL   C,W4PL   G,145.2900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,35.16,-85.3,-05:00
+22,USA Southeast,Chattanooga,Tennessee,W4RRG  B,W4RRG  G,444.7250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.99,-85.36,-05:00
+22,USA Southeast,Chattanooga,Tennessee,W4RRG  C,W4RRG  G,145.1600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,34.99,-85.36,-05:00
+22,USA Southeast,Cleveland,Tennessee,KK4BXE B,KK4BXE G,440.5250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.15,-84.85,-05:00
+22,USA Southeast,Cleveland,Tennessee,KK4BXE C,KK4BXE G,145.4800,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,35.15,-84.85,-05:00
+22,USA Southeast,Jackson,Tennessee,KA4BNI B,KA4BNI G,443.7125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.65,-88.76,-06:00
+22,USA Southeast,Jackson,Tennessee,NT4MC  C,NT4MC  G,145.0800,DUP+,1.4,DV,OFF,82.5Hz,Yes,Approximate,35.66,-88.76,-05:00
+22,USA Southeast,Knoxville,Tennessee,K4HXD  C,K4HXD  G,144.9400,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,35.82,-83.66,-05:00
+22,USA Southeast,Knoxville,Tennessee,KN4EM  C,KN4EM  G,145.1000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,35.9,-83.8,-05:00
+22,USA Southeast,Memphis,Tennessee,W4LET  B,W4LET  G,443.9875,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.15,-89.81,-06:00
+22,USA Southeast,Memphis,Tennessee,W4LET  C,W4LET  G,145.0600,DUP+,1.4,DV,OFF,82.5Hz,Yes,Approximate,35.15,-89.81,-06:00
+22,USA Southeast,Memphis,Tennessee,WB4KOG B,WB4KOG G,442.0375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.11,-89.86,-06:00
+22,USA Southeast,Memphis,Tennessee,WB4KOG C,WB4KOG G,144.9400,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,35.11,-89.86,-06:00
+22,USA Southeast,Monteagle Mounta,Tennessee,KN4WAN B,KN4WAN G,440.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.25,-85.75,-06:00
+22,USA Southeast,Morristown,Tennessee,W4LDG  B,W4LDG  G,444.4750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.21,-83.36,-05:00
+22,USA Southeast,Morristown,Tennessee,W4LDG  C,W4LDG  G,144.9200,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,36.21,-83.36,-05:00
+22,USA Southeast,Nashville,Tennessee,KI4SDI C,KI4SDI G,147.1800,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,36.28,-86.68,-06:00
+23,USA West,Fairbanks,Alaska,KL7CDA B,KL7CDA G,444.4000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,64.93,-147.54,-09:00
+23,USA West,Ketchikan,Alaska,KL7FF  C,KL7FF  G,147.3800,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,55.35,-131.64,-09:00
+23,USA West,Wasilla,Alaska,WL7CWI C,WL7CWI G,147.0000,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,61.49,-149.7,-09:00
+23,USA West,Wasilla,Alaska,WL7CWI B,WL7CWI G,442.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,61.49,-149.7,-09:00
+23,USA West,Casa Grande,Arizona ,KJ6KTV C,KJ6KTV G,147.5700,DUP-,2.555,DV,OFF,82.5Hz,Yes,Approximate,32.99,-111.76,-07:00
+23,USA West,Globe,Arizona ,N7CI   B,N7CI   G,445.8500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,33.29,-110.82,-07:00
+23,USA West,Goodyear,Arizona ,KG7HBZ B,KG7HBZ G,440.7375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.48,-112.4,-07:00
+23,USA West,Kingman,Arizona ,W7KDS  B,W7KDS  G,445.9000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,35.25,-114.01,-07:00
+23,USA West,Kingman,Arizona ,W7KDS  C,W7KDS  G,145.1350,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,35.25,-114.01,-07:00
+23,USA West,Mesa,Arizona ,KE7JFH B,KE7JFH G,445.9750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,33.43,-111.82,-07:00
+23,USA West,Mesa,Arizona ,KE7JFH C,KE7JFH G,145.1250,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.43,-111.82,-07:00
+23,USA West,Oro Valley,Arizona ,W0HF   B,W0HF   G,445.8000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,32.41,-110.99,-07:00
+23,USA West,Phoenix,Arizona ,W7MOT  B,W7MOT  G,440.8125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.58,-112.57,-07:00
+23,USA West,Phoenix,Arizona ,W7MOT  C,W7MOT  G,145.1350,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.58,-112.57,-07:00
+23,USA West,Saint Johns,Arizona ,KE6GVK B,KE6GVK G,446.8250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34.59,-109.22,-07:00
+23,USA West,Scottsdale,Arizona ,KF7CUF B,KF7CUF G,445.9500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,33.53,-111.9,-07:00
+23,USA West,Sierra Vista,Arizona ,K7RDG  C,K7RDG  G,145.1250,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,31.52,-110.19,-07:00
+23,USA West,Surprise,Arizona ,N8NQP  B,N8NQP  G,448.3250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,33.57,-112.56,-08:00
+23,USA West,Tucson,Arizona ,K7RST  B,K7RST  G,445.9000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,32.45,-110.78,-07:00
+23,USA West,Tucson,Arizona ,K7RST  C,K7RST  G,147.4100,DUP-,1,DV,OFF,82.5Hz,Yes,Approximate,32.45,-110.78,-07:00
+23,USA West,Tucson,Arizona ,KG7PJV B,KG7PJV G,445.1375,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,32.34,-110.91,-07:00
+23,USA West,Tucson,Arizona ,KG7RWN B,KG7RWN G,440.7625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.21,-110.8,-07:00
+23,USA West,Tucson,Arizona ,KR7ST  C,KR7ST  G,145.1150,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.23,-110.97,-07:00
+23,USA West,Tucson,Arizona ,KR7ST  B,KR7ST  G,445.9500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,32.23,-110.97,-07:00
+23,USA West,Anaheim,California ,W6HRO  B,W6HRO  G,449.8400,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,33.85,-117.94,-08:00
+23,USA West,Anaheim,California ,W6HRO  C,W6HRO  G,147.5700,DUP-,2.555,DV,OFF,82.5Hz,Yes,Approximate,33.85,-117.94,-08:00
+23,USA West,Bakersfield,California ,WX6D   B,WX6D   G,440.9750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.49,-118.88,-08:00
+23,USA West,Bakersfield,California ,WX6D   C,WX6D   G,145.4500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,35.49,-118.88,-08:00
+23,USA West,Calexico,California ,K6CLX  B,K6CLX  G,449.7000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,32.66,-116.1,-08:00
+23,USA West,Calimesa,California ,N6LKA  B,N6LKA  G,449.6400,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34,-117.04,+10:00
+23,USA West,Concord,California ,W6CX   C,W6CX   G,145.0000,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,37.89,-121.91,-08:00
+23,USA West,Cypress,California ,N6CYP  C,N6CYP  G,146.9400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.83,-118.05,-08:00
+23,USA West,Daly City,California ,KN6CDC C,KN6CDC G,144.9500,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,37.71,-122.48,-08:00
+23,USA West,Folsom,California ,KS6HRP C,KS6HRP G,147.6750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.65,-121.09,-08:00
+23,USA West,Gilroy,California ,KJ6WZS B,KJ6WZS G,443.5250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.01,-121.58,-08:00
+23,USA West,La Mesa,California ,KM6VLB B,KM6VLB G,448.2600,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,32.79,-117.02,-08:00
+23,USA West,Laguna Beach,California ,K6SOA  B,K6SOA  G,445.7050,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,33.55,-117.75,-08:00
+23,USA West,Laguna Beach,California ,K6SOA  C,K6SOA  G,146.1150,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,33.55,-117.75,-08:00
+23,USA West,Laguna Niguel,California ,K6VO   C,K6VO   G,145.6150,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,33.53,-117.7,-08:00
+23,USA West,Los Angeles,California ,KI6JKA B,KI6JKA G,447.8350,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34.12,-118.6,-08:00
+23,USA West,Los Angeles,California ,WA6IRC B,WA6IRC G,447.0400,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34.35,-118.4,-08:00
+23,USA West,Los Angeles,California ,WA6IRC C,WA6IRC G,147.5600,DUP-,2.555,DV,OFF,82.5Hz,Yes,Approximate,34.35,-118.4,-08:00
+23,USA West,Los Angeles- CA,California ,K6PUW  B,K6PUW  G,447.2000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34.33,-118.58,-08:00
+23,USA West,Malibu,California ,KD4PAP B,KD4PAP G,445.8550,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,33.82,-118.03,+04:30
+23,USA West,Mt. Bullion,California ,W6HHD  C,W6HHD  G,145.1300,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,37.54,-120.06,-08:00
+23,USA West,Mt. Bullion,California ,W6HHD  B,W6HHD  G,444.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.54,-120.06,-08:00
+23,USA West,Mt. Diablo,California ,K6MDD  C,K6MDD  G,144.9750,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,37.9,-121.9,-08:00
+23,USA West,Mt. Shasta,California ,W6BML  B,W6BML  G,441.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,41.32,-122.3,-08:00
+23,USA West,Napa,California ,W6CO   B,W6CO   G,440.0500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,38.39,-122.4,-08:00
+23,USA West,Oroville,California ,KJ6LVV B,KJ6LVV G,444.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.54,-121.45,-08:00
+23,USA West,Palm Springs Edo,California ,W6THC  B,W6THC  G,447.1400,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,33.87,-116.43,-08:00
+23,USA West,Palmdale,California ,KJ6EUC B,KJ6EUC G,445.6400,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34.65,-118.22,-08:00
+23,USA West,Palomar Mtn.,California ,KI6MGN C,KI6MGN G,147.5700,DUP-,2.555,DV,OFF,82.5Hz,Yes,Approximate,33.32,-116.86,-08:00
+23,USA West,Pomona,California ,KC6ACS B,KC6ACS G,446.1600,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34.06,-117.8,-08:00
+23,USA West,Redlands,California ,AI6BX  B,AI6BX  G,446.5800,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34.02,-117.13,-08:00
+23,USA West,San Bernardino,California ,KI6WZX C,KI6WZX G,147.5500,DUP-,2.555,DV,OFF,82.5Hz,Yes,Approximate,34.2,-117.04,-08:00
+23,USA West,San Bernardino,California ,KI6WZX B,KI6WZX G,446.3400,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34.2,-117.04,-08:00
+23,USA West,San Diego,California ,KI6KQU B,KI6KQU G,447.8450,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,33.01,-116.97,-08:00
+23,USA West,San Diego,California ,KW6HRO B,KW6HRO G,446.9800,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,32.6,-116.84,-08:00
+23,USA West,SAN FERNANDO,California ,KW6USA C,KW6USA G,147.4500,DUP+,1.035,DV,OFF,82.5Hz,Yes,Approximate,34.35,-118.4,-08:00
+23,USA West,San Jose,California ,WW6BAY B,WW6BAY G,444.0750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.3,-122.1,-08:00
+23,USA West,San Leandro,California ,AC6SO  B,AC6SO  G,440.025,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,37.73,-122.11,-08:00
+23,USA West,Santa Cruz,California ,K6DRI  C,K6DRI  G,145.0000,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,37.17,-122.04,-08:00
+23,USA West,Santa Rosa,California ,K6ACS  C,K6ACS  G,145.0400,DUP-,0.4,DV,OFF,82.5Hz,Yes,Approximate,38.5,-122.72,-08:00
+23,USA West,Santa Ynez,California ,KK6GFX B,KK6GFX G,447.8400,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34.53,-119.97,-08:00
+23,USA West,Santiago,California ,KM6LVQ B,KM6LVQ G,446.5600,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,33.69,-117.56,-08:00
+23,USA West,Visalia,California ,K6VIS  C,K6VIS  G,145.0125,DUP+,2.5,DV,OFF,82.5Hz,Yes,Approximate,36.73,-118.94,-08:00
+23,USA West,Visalia,California ,K6VIS  B,K6VIS  G,442.3000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.73,-118.94,-08:00
+23,USA West,Vista,California ,KJ6FCH B,KJ6FCH G,447.1900,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,33.22,-117.18,-08:00
+23,USA West,Wrightwood,California ,KJ6LJZ B,KJ6LJZ G,447.8350,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34.36,-117.67,-08:00
+23,USA West,Wrightwood,California ,WB6IRC C,WB6IRC G,147.5400,DUP-,2.555,DV,OFF,82.5Hz,Yes,Approximate,34.36,-117.68,-08:00
+23,USA West,Wrightwood,California ,WB6IRC B,WB6IRC G,446.8800,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,34.36,-117.68,-08:00
+23,USA West,Boulder,Colorado ,W0DK   C,W0DK   G,145.7875,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.03,-105.13,-07:00
+23,USA West,Boulder,Colorado ,W0DK   B,W0DK   G,446.8625,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.03,-105.13,-07:00
+23,USA West,Coal Creek Canyo,Colorado ,K0HRV  B,K0HRV  G,446.8625,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,39.91,-105.38,-07:00
+23,USA West,Coal Creek Canyo,Colorado ,K0HRV  C,K0HRV  G,145.3850,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.91,-105.38,-07:00
+23,USA West,Colorado Springs,Colorado ,KC0CVU B,KC0CVU G,446.9125,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,38.75,-104.86,-07:00
+23,USA West,Colorado Springs,Colorado ,KC0CVU C,KC0CVU G,145.3850,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,38.75,-104.86,-07:00
+23,USA West,Colorado Springs,Colorado ,KE0VUW B,KE0VUW G,446.8875,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,39.05,-104.8,-07:00
+23,USA West,Grand Junction,Colorado ,KD0RED B,KD0RED G,446.7750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,39.1,-108.23,-07:00
+23,USA West,Idaho Springs,Colorado ,K0PRA  B,K0PRA  G,446.8500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,39.68,-105.48,-07:00
+23,USA West,Monument,Colorado ,W0TLM  B,W0TLM  G,446.8875,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,39.1,-104.86,-07:00
+23,USA West,Parker,Colorado ,N2SRK  B,N2SRK  G,445.1000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,39.51,-104.84,-07:00
+23,USA West,Salida,Colorado ,KD0QPG B,KD0QPG G,446.9750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,38.46,-106.01,-07:00
+23,USA West,Aiea,Hawaii,KH6ERO B,KH6ERO G,444.7000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,21.41,-157.94,-10:00
+23,USA West,Boise,Idaho,W7VOI  B,W7VOI  G,444.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.78,-116.08,-07:00
+23,USA West,Caldwell,Idaho,W7ACP  B,W7ACP  G,442.6500,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.67,-116.64,-07:00
+23,USA West,Idaho Falls,Idaho,KG7WZG B,KG7WZG G,448.9000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,43.47,-112.1,-07:00
+23,USA West,Idaho Falls,Idaho,KG7WZG C,KG7WZG G,147.3000,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.47,-112.1,-07:00
+23,USA West,Jerome,Idaho,KF7VTM B,KF7VTM G,444.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.73,-114.51,-07:00
+23,USA West,Meridian,Idaho,NG7O   B,NG7O   G,445.6000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.64,-116.4,-07:00
+23,USA West,Meridian,Idaho,NG7O   C,NG7O   G,145.520,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.64,-116.4,-07:00
+23,USA West,Meridian,Idaho,NG7O   C,NG7O   G,147.0600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,43.64,-116.4,-07:00
+23,USA West,Meridian,Idaho,W6UPL  C,W6UPL  G,145.520,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.64,-116.4,-07:00
+23,USA West,Meridian,Idaho,W6UPL  B,W6UPL  G,445.600,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,43.64,-116.4,-07:00
+23,USA West,Moyie Springs,Idaho,KF7MJA C,KF7MJA G,145.1250,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,48.7,-116.11,-07:00
+23,USA West,Billings,Montana,K7EFA  B,K7EFA  G,449.0000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,45.78,-108.57,-07:00
+23,USA West,Billings,Montana,N7YHE  B,N7YHE  G,448.6500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,45.79,-108.5,-07:00
+23,USA West,Plains,Montana,W1KGK  A,W1KGK  G,441.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.33,-114.53,-07:00
+23,USA West,Las Vegas,Nevada,N7ARR  B,N7ARR  G,446.8000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,36.17,-115.01,-08:00
+23,USA West,Las Vegas,Nevada,N7ARR  C,N7ARR  G,145.1750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,36.17,-115.01,-08:00
+23,USA West,Las Vegas,Nevada,W7AES  B,W7AES  G,449.5750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,36,-114.86,-08:00
+23,USA West,Las Vegas,Nevada,W7AES  C,W7AES  G,147.9750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,36,-114.86,-08:00
+23,USA West,Las Vegas,Nevada,W7HEN  B,W7HEN  G,446.9750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,35.54,-115.29,-08:00
+23,USA West,Pahrump,Nevada,KJ7OIR C,KJ7OIR G,147.3600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.24,-116.06,-08:00
+23,USA West,Pahrump,Nevada,KJ7OIR B,KJ7OIR G,446.8500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,32.24,-116.06,-08:00
+23,USA West,Reno,Nevada,N7NDS  B,N7NDS  G,444.6250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.31,-119.66,-07:00
+23,USA West,Reno,Nevada,N7NDS  C,N7NDS  G,145.1750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.31,-119.66,-07:00
+23,USA West,Reno,Nevada,W7DRF  C,W7DRF  G,145.270,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.58,-119.94,-08:00
+23,USA West,Reno,Nevada,W7TA   B,W7TA   G,444.6250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,39.32,-119.67,-08:00
+23,USA West,Reno,Nevada,W7TA   C,W7TA   G,145.1750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.32,-119.67,-08:00
+23,USA West,Winnemucca,Nevada,KJ7OSQ B,KJ7OSQ G,442.8250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,40.92,-117.76,-08:00
+23,USA West,Winnemucca,Nevada,KJ7OSQ C,KJ7OSQ G,147.3600,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,40.92,-117.76,-08:00
+23,USA West,Alamogrodo,New Mexico,W6DHS  B,W6DHS  G,440.6000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,32.99,-105.98,-07:00
+23,USA West,Alamogrodo,New Mexico,W6DHS  C,W6DHS  G,144.9600,DUP-,0.4,DV,OFF,82.5Hz,Yes,Approximate,32.99,-105.98,-07:00
+23,USA West,Albuquerque,New Mexico,K5URR  B,K5URR  G,449.4500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,35.06,-106.58,-07:00
+23,USA West,Albuquerque,New Mexico,K5URR  C,K5URR  G,146.8600,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,35.06,-106.58,-07:00
+23,USA West,Albuquerque,New Mexico,W5MPZ  B,W5MPZ  G,443.8000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.22,-106.45,-07:00
+23,USA West,Albuquerque,New Mexico,W5URD  B,W5URD  G,444.5250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.71,-106.4,-07:00
+23,USA West,Bloomfield,New Mexico,KF5VBD B,KF5VBD G,442.0750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.66,-107.79,-07:00
+23,USA West,Bloomfield,New Mexico,KF5VBD C,KF5VBD G,145.1900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,36.66,-107.79,-07:00
+23,USA West,Bloomfield,New Mexico,KF5VBD C,KF5VBD G,147.1500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,36.66,-107.79,-07:00
+23,USA West,Farmington,New Mexico,KF5VBF B,KF5VBF G,444.1500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.71,-108.22,-07:00
+23,USA West,Grants,New Mexico,KE5FYL B,KE5FYL G,444.6500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.14,-107.88,-07:00
+23,USA West,Las Cruces,New Mexico,N5BL   C,N5BL   G,146.8400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,32.41,-106.76,-07:00
+23,USA West,Los Alamos,New Mexico,NM5EC  C,NM5EC  G,145.1900,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,35.89,-106.39,-07:00
+23,USA West,Raton,New Mexico,KD0RDI B,KD0RDI G,446.7750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,37,-104.47,-07:00
+23,USA West,Roswell,New Mexico,W5ZU   B,W5ZU   G,444.4250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,33.41,-104.37,-07:00
+23,USA West,Santa Fe,New Mexico,NM5HR  B,NM5HR  G,443.0000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.66,-105.96,-07:00
+23,USA West,Santa Fe,New Mexico,W5SF   B,W5SF   G,444.5750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,35.66,-105.99,-07:00
+23,USA West,Santa Fe,New Mexico,W5SF   C,W5SF   G,145.2100,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,35.66,-105.99,-07:00
+23,USA West,Socorro,New Mexico,W5AQA  B,W5AQA  G,444.5000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,34.08,-106.96,-07:00
+23,USA West,Tres Piedras,New Mexico,KF5PFO B,KF5PFO G,442.0750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,36.86,-106.01,-07:00
+23,USA West,Corvallis,Oregon,KF7LDG B,KF7LDG G,434.9100,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.52,-123.27,-08:00
+23,USA West,Eugene,Oregon,W7OEC  B,W7OEC  G,442.4250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.01,-123.11,-08:00
+23,USA West,Grants Pass,Oregon,KE7LKX B,KE7LKX G,440.4625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.45,-123.21,-08:00
+23,USA West,Hillsboro,Oregon,N7QQU  B,N7QQU  G,440.5500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.54,-122.9,-08:00
+23,USA West,Medford,Oregon,KE7MVI B,KE7MVI G,443.7750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.3,-122.75,-08:00
+23,USA West,Medford,Oregon,KG7FOJ C,KG7FOJ G,145.2400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,42.31,-122.83,-08:00
+23,USA West,Medford,Oregon,KG7FOJ B,KG7FOJ G,444.3625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,42.31,-122.83,-08:00
+23,USA West,Mt Hebo,Oregon,W7GC   C,W7GC   G,147.3900,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.22,-123.75,-08:00
+23,USA West,Philomath,Oregon,K7WVD  B,K7WVD  G,444.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.51,-123.57,-08:00
+23,USA West,Roseburg,Oregon,KK7HEP B,KK7HEP G,440.9250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,43.19,-123.52,-08:00
+23,USA West,Salem,Oregon,KB7PPM B,KB7PPM G,440.8625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,44.57,-122.58,-08:00
+23,USA West,Sherwood,Oregon,WB7DZG C,WB7DZG G,146.6200,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,45.35,-122.93,-08:00
+23,USA West,Sherwood,Oregon,WB7DZG B,WB7DZG G,444.3125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.35,-122.93,-08:00
+23,USA West,American Fork,Utah,NT3ST  B,NT3ST  G,447.9750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.38,-111.79,-07:00
+23,USA West,Price,Utah,K7YI   B,K7YI   G,448.0750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,39.19,-110.6,-07:00
+23,USA West,Riverside,Utah,N7RDS  B,N7RDS  G,447.9250,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.78,-112.17,-07:00
+23,USA West,Sandy,Utah,W7JHL  B,W7JHL  G,447.5500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,40.58,-111.83,-07:00
+23,USA West,Smithfield,Utah,AC7O   C,AC7O   G,145.1500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,41.84,-111.84,-07:00
+23,USA West,Smithfield,Utah,AC7O   B,AC7O   G,447.9750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.84,-111.84,-07:00
+23,USA West,Sterling,Utah,K7BSK  C,K7BSK  G,145.1500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,39.21,-111.72,-07:00
+23,USA West,Sterling,Utah,K7BSK  B,K7BSK  G,447.9500,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,39.21,-111.72,-07:00
+23,USA West,Wellsville,Utah,NU7TS  B,NU7TS  G,449.5750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.62,-111.95,-07:00
+23,USA West,Auburn,Washington,KF7NOD B,KF7NOD G,434.0000,DUP-,0,DV,OFF,82.5Hz,Yes,Approximate,47.32,-122.11,-08:00
+23,USA West,Bainbridge Islan,Washington,W7NPC  B,W7NPC  G,444.5625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.66,-122.54,-08:00
+23,USA West,Bellevue,Washington,K7LWH  C,K7LWH  G,146.4125,DUP+,1,DV,OFF,82.5Hz,Yes,Approximate,47.62,-122.2,-08:00
+23,USA West,Bellevue,Washington,K7LWH  B,K7LWH  G,443.0625,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.62,-122.2,-08:00
+23,USA West,Bellingham,Washington,WC7SO  C,WC7SO  G,146.7000,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,48.68,-122.36,-08:00
+23,USA West,Bellingham,Washington,WC7SO  B,WC7SO  G,440.4750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,48.68,-122.36,-08:00
+23,USA West,Burien,Washington,KF7CLD B,KF7CLD G,443.4250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.5,-122.33,-08:00
+23,USA West,Chehalis,Washington,KK7DFM B,KK7DFM G,444.4500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,46.49,-123.21,-08:00
+23,USA West,Cle Elum,Washington,WR7KCR B,WR7KCR G,444.9125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.17,-120.76,-08:00
+23,USA West,College Place,Washington,N7DMR  A,N7DMR  G,445.3000,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,46.04,-118.36,-08:00
+23,USA West,Everett,Washington,NR7SS  B,NR7SS  G,440.3500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.93,-122.24,-08:00
+23,USA West,Federal Way,Washington,KI7EWH C,KI7EWH G,147.0400,DUP+,0.6,DV,OFF,82.5Hz,Yes,Approximate,47.33,-122.32,-08:00
+23,USA West,Federal Way,Washington,WA7FW  B,WA7FW  G,443.8500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.31,-122.38,-08:00
+23,USA West,Federal Way,Washington,WA7FW  C,WA7FW  G,146.8400,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,47.31,-122.38,-08:00
+23,USA West,Graham,Washington,WA7DR  B,WA7DR  G,442.9250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.03,-122.29,-08:00
+23,USA West,Kingston,Washington,NW7DR  C,NW7DR  G,147.4625,DUP-,1,DV,OFF,82.5Hz,Yes,Approximate,47.86,-122.3,-08:00
+23,USA West,Kirkland,Washington,N7IH   B,N7IH   G,443.5750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.72,-122.15,-08:00
+23,USA West,Kirkland,Washington,N7IH   C,N7IH   G,147.4875,DUP-,1,DV,OFF,82.5Hz,Yes,Approximate,47.72,-122.15,-08:00
+23,USA West,Maple Valley,Washington,KF7NPL B,KF7NPL G,442.6750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.36,-121.88,-08:00
+23,USA West,Newcastle,Washington,W7RNK  C,W7RNK  G,147.9500,DUP-,1,DV,OFF,82.5Hz,Yes,Approximate,47.55,-122.1,-08:00
+23,USA West,Newport,Washington,W6SPY  B,W6SPY  G,442.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,48.14,-117.17,-08:00
+23,USA West,North Bend,Washington,WA7VC  B,WA7VC  G,440.0125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.47,-121.68,-08:00
+23,USA West,North Bend,Washington,WA7VC  B,WA7VC  G,440.0125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.47,-121.68,-08:00
+23,USA West,Olympia,Washington,KK7DFL C,KK7DFL G,145.2750,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,47.01,-122.94,+10:00
+23,USA West,Othello,Washington,KK7BIM B,KK7BIM G,443.1500,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,46.81,-119.56,+10:00
+23,USA West,San Juan Island,Washington,N7JN   C,N7JN   G,145.2500,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,48.59,-123.07,-08:00
+23,USA West,San Juan Island,Washington,N7JN   B,N7JN   G,442.4650,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,48.59,-123.07,-08:00
+23,USA West,Seattle,Washington,WA7HJR B,WA7HJR G,444.6375,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.5,-121.95,-08:00
+23,USA West,Snohomish,Washington,KG7QPU B,KG7QPU G,443.9000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.95,-122.02,-08:00
+23,USA West,Snoqualmie,Washington,N7SNO  B,N7SNO  G,442.7000,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.53,-121.82,-08:00
+23,USA West,Spokane,Washington,WA7DRE B,WA7DRE G,443.1250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.7,-117.33,-08:00
+23,USA West,Tukwila,Washington,KF7BFS B,KF7BFS G,440.2750,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.29,-122.16,-08:00
+23,USA West,Tukwila,Washington,KF7BFT B,KF7BFT G,440.4250,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,47.29,-122.15,-08:00
+23,USA West,Vancouver,Washington,K7CLL  B,K7CLL  G,440.0125,DUP+,5,DV,OFF,82.5Hz,Yes,Approximate,45.73,-122.37,-08:00
+23,USA West,Gillette,Wyoming,NE7WY  C,NE7WY  G,145.3700,DUP-,0.6,DV,OFF,82.5Hz,Yes,Approximate,44.21,-105.46,-07:00
+23,USA West,Rock Springs,Wyoming,KI7BER B,KI7BER G,449.4750,DUP-,5,DV,OFF,82.5Hz,Yes,Approximate,41.38,-109.15,-07:00
+4,Canada,Creston- Mt Thom,British Columbia,VE7RCA,,146.8000,DUP-,0.6,FM,TONE,88.5Hz,Yes,Approximate,49.1,-116.37,+0:00
+4,Canada,Grand Forks- Obs,British Columbia,VE7OGF,,146.9400,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,49.04,-118.44,+0:00
+4,Canada,Nelson,British Columbia,VE7RCT,,444.5500,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,49.49,-117.29,+0:00
+4,Canada,Osoyoos,British Columbia,VE7OSY,,145.2700,DUP-,0.6,FM,TSQL,107.2Hz,Yes,Approximate,49.04,-119.46,+0:00
+4,Canada,Osoyoos,British Columbia,VE7OSY,,444.6000,DUP+,5,FM,TONE,107.2Hz,Yes,Approximate,49.04,-119.46,+0:00
+4,Canada,Osoyoos- Fire Ha,British Columbia,VE7RSO,,145.2900,DUP-,0.6,FM,TSQL,136.5Hz,Yes,Approximate,49.04,-119.46,+0:00
+4,Canada,Osoyoos- Mt Koba,British Columbia,VE7EHF,,147.3400,DUP+,0.6,FM,TSQL,136.5Hz,Yes,Approximate,49.04,-119.46,+0:00
+4,Canada,Osoyoos- Mt Koba,British Columbia,VE7OJP,,147.1800,DUP+,0.6,FM,TONE,88.5Hz,Yes,Approximate,49.04,-119.46,+0:00
+4,Canada,Phoenix- Bald Kn,British Columbia,VE7RGF,,147.2800,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,49.1,-118.6,+0:00
+4,Canada,Santa Rosa- Chri,British Columbia,VE7RCL,,146.7600,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,49.03,-118.05,+0:00
+4,Canada,Trail- Granite M,British Columbia,VE7CAQ,,146.8400,DUP-,0.6,FM,TONE,88.5Hz,Yes,Approximate,49.11,-117.85,+0:00
+23,USA West,Athol,Idaho,KE7ADT,,145.2700,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,47.95,-116.7,+0:00
+23,USA West,Blanchard,Idaho,K7JEP,,444.5500,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,48.02,-116.98,+0:00
+23,USA West,Bonners Ferry,Idaho,W7BFI,,443.0250,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,48.67,-116.34,+0:00
+23,USA West,Bonners Ferry- B,Idaho,W7BFI,,146.9600,DUP-,0.6,FM,TONE,123.0Hz,Yes,Approximate,48.62,-116.25,+0:00
+23,USA West,Cascade,Idaho,K7ZZL,,443.3000,DUP+,5,FM,TONE,110.9Hz,Yes,Approximate,44.52,-116.04,+0:00
+23,USA West,Cascade- Snowban,Idaho,W7VOI,,146.6200,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,44.45,-116.13,+0:00
+23,USA West,Cocolalla,Idaho,K7LNA,,444.7750,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,48.11,-116.61,+0:00
+23,USA West,Coeur d'Alene- C,Idaho,K7ID,,443.9750,DUP+,5,FM,TONE,136.5Hz,Yes,Approximate,47.7,-116.69,+0:00
+23,USA West,Conkling Park,Idaho,W7KOW,,145.3500,DUP-,0.6,FM,TSQL,123.0Hz,Yes,Approximate,47.41,-116.76,+0:00
+23,USA West,Coolin,Idaho,KC6CSC,,444.8500,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,48.48,-116.84,+0:00
+23,USA West,Coolin- Priest L,Idaho,N7KAM,,145.4100,DUP-,0.6,FM,TONE,77.0Hz,Yes,Approximate,48.48,-116.84,+0:00
+23,USA West,Cottonwood,Idaho,,,447.4000,DUP-,5,FM,OFF,88.5Hz,Yes,Approximate,46.05,-116.34,+0:00
+23,USA West,Cottonwood,Idaho,,,444.4000,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,46.05,-116.34,+0:00
+23,USA West,Cottonwood- Cott,Idaho,KB7VOL,,146.8400,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,46.07,-116.46,+0:00
+23,USA West,Elk City- Iron M,Idaho,KM7ATT,,146.6400,DUP-,0.6,FM,TSQL,88.5Hz,Yes,Approximate,45.83,-115.43,+0:00
+23,USA West,Elk River,Idaho,KB7SIK,,444.9250,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,46.79,-116.17,+0:00
+23,USA West,Elk River- Elk B,Idaho,N7LCV,,145.1900,DUP-,0.6,FM,TSQL,67.0Hz,Yes,Approximate,46.79,-116.18,+0:00
+23,USA West,Grangeville,Idaho,KC7MGR,,146.6800,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,45.87,-116.12,+0:00
+23,USA West,Grangeville- Hig,Idaho,AE7VB,,444.5250,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,45.87,-116.12,+0:00
+23,USA West,Hayden,Idaho,KE7MTF,,446.1250,DUP-,0,FM,TSQL,100.0Hz,Yes,Approximate,47.77,-116.78,+0:00
+23,USA West,Kamiah,Idaho,KC5MSQ,,147.1200,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.23,-116.02,+0:00
+23,USA West,Kamiah,Idaho,KC5MSQ,,146.7000,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.23,-116.02,+0:00
+23,USA West,Kamiah- Kidder R,Idaho,KK3ARC,,146.6200,DUP-,0.6,FM,TSQL,88.5Hz,Yes,Approximate,46.23,-115.92,+0:00
+23,USA West,Kellogg- Wardner,Idaho,N7SZY,,146.9400,DUP-,0.6,FM,TONE,127.3Hz,Yes,Approximate,47.5,-116.14,+0:00
+23,USA West,Kellogg- Wardner,Idaho,N7SZY,,444.0000,DUP+,5,FM,TONE,127.3Hz,Yes,Approximate,47.5,-116.14,+0:00
+23,USA West,Kooskia- Kidder ,Idaho,KE7CIU,,446.5750,DUP-,5,FM,TSQL,88.5Hz,Yes,Approximate,46.12,-115.92,+0:00
+23,USA West,Lewiston,Idaho,K7EI,,444.9250,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,46.42,-117.01,+0:00
+23,USA West,Lewiston,Idaho,K7EI,,444.8500,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,46.41,-117,+0:00
+23,USA West,Lewiston,Idaho,W7TRO,,444.4000,DUP+,5,FM,TONE,162.2Hz,Yes,Approximate,46.42,-117.01,+0:00
+23,USA West,Lewiston,Idaho,W7VJD,,146.8600,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.42,-117.01,+0:00
+23,USA West,Lewiston- Craig ,Idaho,K7EI,,146.9200,DUP-,0.6,FM,TONE,110.9Hz,Yes,Approximate,46.2,-116.82,+0:00
+23,USA West,Lewiston- Lewist,Idaho,KJ7UCI,,145.4700,DUP-,0.6,FM,TONE,203.5Hz,Yes,Approximate,46.47,-116.97,+0:00
+23,USA West,Lewiston- Lewist,Idaho,WA7HGR,,146.9600,DUP-,0.6,FM,TSQL,94.8Hz,Yes,Approximate,46.47,-116.97,+0:00
+23,USA West,McCall- Brundage,Idaho,KC7MCC,,146.9000,DUP-,0.6,FM,TONE,123.0Hz,Yes,Approximate,45.01,-116.13,+0:00
+23,USA West,McCall- No Busin,Idaho,KC7MCC,,147.0200,DUP+,0.6,FM,TSQL,100.0Hz,Yes,Approximate,44.77,-116.2,+0:00
+23,USA West,Mesa- Council Mt,Idaho,W7KAU,,145.3700,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,44.73,-116.43,+0:00
+23,USA West,Moscow,Idaho,KI7LAC,,443.0000,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,46.74,-117,+0:00
+23,USA West,Moscow- Moscow M,Idaho,KA7FVV,,147.3200,DUP+,0.6,FM,TONE,103.5Hz,Yes,Approximate,46.74,-117,+0:00
+23,USA West,Moscow- Moscow M,Idaho,WA7HWD,,146.8200,DUP-,0.6,FM,TSQL,127.3Hz,Yes,Approximate,46.81,-116.86,+0:00
+23,USA West,Moscow- Paradise,Idaho,WB7TBM,,146.7000,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.68,-116.97,+0:00
+23,USA West,Moyie Springs,Idaho,AF7LJ,,145.4500,DUP-,0.6,FM,TONE,88.5Hz,Yes,Approximate,48.71,-116.09,+0:00
+23,USA West,Mullan- Lookout ,Idaho,K7HPT,,147.0200,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,47.46,-115.69,+0:00
+23,USA West,Naples- Peterson,Idaho,NK7I,,147.3200,DUP+,0.6,FM,TSQL,167.9Hz,Yes,Approximate,48.62,-116.37,+0:00
+23,USA West,Orofino,Idaho,KC7VBT,,145.4900,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.44,-116.23,+0:00
+23,USA West,Orofino- Craig M,Idaho,K7EI,,444.8750,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,46.21,-116.84,+0:00
+23,USA West,Orofino- Norton ,Idaho,K7NDX,,146.7600,DUP-,0.6,FM,TONE,131.8Hz,Yes,Approximate,46.51,-116.21,+0:00
+23,USA West,Peck- Teakean Bu,Idaho,KJ7UCI,,145.2100,DUP-,0.6,FM,TONE,206.5Hz,Yes,Approximate,46.6,-116.39,+0:00
+23,USA West,Pollock- Whitebi,Idaho,WB7TYK,,146.4900,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,45.33,-116.36,+0:00
+23,USA West,Post Falls- Blos,Idaho,KB6UMY,,147.2800,DUP+,0.6,FM,TSQL,100.0Hz,Yes,Approximate,47.67,-116.95,+0:00
+23,USA West,Post Falls- Blos,Idaho,N7IRG,,442.9500,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,47.67,-116.95,+0:00
+23,USA West,Post Falls- Mica,Idaho,K7ID,,443.2750,DUP+,5,FM,TSQL,136.5Hz,Yes,Approximate,47.72,-116.95,+0:00
+23,USA West,Post Falls- Mica,Idaho,K7ID,,146.9800,DUP-,0.6,FM,TONE,127.3Hz,Yes,Approximate,47.63,-116.98,+0:00
+23,USA West,Post Falls- Mica,Idaho,KC7ODP,,147.0800,DUP+,0.6,FM,TSQL,100.0Hz,Yes,Approximate,47.63,-116.98,+0:00
+23,USA West,Rathdrum,Idaho,K7FVA,,441.6500,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,47.82,-116.89,+0:00
+23,USA West,Rathdrum,Idaho,N7ESU,,147.2200,DUP+,0.6,FM,TONE,136.5Hz,Yes,Approximate,47.82,-116.89,+0:00
+23,USA West,Sandpoint,Idaho,K7BNR,,442.5000,DUP+,5,FM,TSQL,131.8Hz,Yes,Approximate,48.34,-116.69,+0:00
+23,USA West,Sandpoint,Idaho,K7LNA,,147.0000,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,48.28,-116.55,+0:00
+23,USA West,Sandpoint,Idaho,N7JCT,,446.0250,DUP-,0,FM,OFF,88.5Hz,Yes,Approximate,48.28,-116.55,+0:00
+23,USA West,Sandpoint- Hoodo,Idaho,K7JEP,,145.4900,DUP-,0.6,FM,TSQL,136.5Hz,Yes,Approximate,48.08,-116.95,+0:00
+23,USA West,Sandpoint- Hoodo,Idaho,WB7TBN,,147.1200,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,48.08,-116.95,+0:00
+23,USA West,Spirit Lake,Idaho,KC7TIG,,444.2500,DUP+,5,FM,TONE,110.9Hz,Yes,Approximate,47.95,-116.86,+0:00
+23,USA West,St Maries- St Jo,Idaho,KB7SIJ,,147.2600,DUP+,0.6,FM,TSQL,110.9Hz,Yes,Approximate,47.37,-116.41,+0:00
+23,USA West,Wallace- Goose P,Idaho,KB7BYR,,147.1800,DUP+,0.6,FM,TSQL,118.8Hz,Yes,Approximate,47.57,-115.84,+0:00
+23,USA West,Weiser- Sheep Cr,Idaho,K7OJI,,145.3900,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,44.37,-116.96,+0:00
+23,USA West,Weiser- Sheep Cr,Idaho,K7OJI,,147.1200,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,44.33,-116.93,+0:00
+23,USA West,Bigfork,Montana,NE7AL,,444.9250,DUP+,5,FM,TONE,123.0Hz,Yes,Approximate,48.1,-114.01,+0:00
+23,USA West,Dixon,Montana,K7KTR,,444.5500,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,47.32,-114.31,+0:00
+23,USA West,Eureka,Montana,KC7CUE,,146.5800,DUP-,0,FM,TONE,100.0Hz,Yes,Approximate,48.9,-115.06,+0:00
+23,USA West,Eureka- Black Bu,Montana,WR7DW,,443.8000,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,48.88,-115.05,+0:00
+23,USA West,Eureka- Black Bu,Montana,WR7DW,,145.3900,DUP-,0.6,FM,TSQL,100.0Hz,Yes,Approximate,48.79,-115.1,+0:00
+23,USA West,Eureka- Pinkham ,Montana,K7EUR,,147.3400,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,48.65,-115.09,+0:00
+23,USA West,Eureka- Pinkham ,Montana,WR7DW,,146.6200,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,48.65,-115.09,+0:00
+23,USA West,Eureka- Pinkham ,Montana,WR7DW,,444.2500,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,48.88,-115.05,+0:00
+23,USA West,Eureka- Sams Hil,Montana,K7EUR,,145.4300,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,48.91,-115.02,+0:00
+23,USA West,Eureka- Virginia,Montana,WR7DW,,147.3200,DUP-,0,FM,TONE,100.0Hz,Yes,Approximate,48.81,-115.1,+0:00
+23,USA West,Hamilton,Montana,,,440.3400,DUP+,5,FM,TONE,71.9Hz,Yes,Approximate,46.25,-114.15,+0:00
+23,USA West,Hamilton,Montana,W7FTX,,146.7200,DUP-,0.6,FM,TONE,203.5Hz,Yes,Approximate,46.25,-114.15,+0:00
+23,USA West,Happy's Inn- Mea,Montana,K7LBY,,145.3100,DUP-,0.6,FM,TSQL,100.0Hz,Yes,Approximate,48.08,-114.98,+0:00
+23,USA West,Hot Springs- Oli,Montana,W1KGK,,147.1200,DUP+,0.6,FM,TONE,103.5Hz,Yes,Approximate,47.58,-114.39,+0:00
+23,USA West,Kalispell,Montana,KD0CST,,146.4000,DUP-,0,FM,TONE,118.8Hz,Yes,Approximate,48.22,-114.44,+0:00
+23,USA West,Kalispell- Black,Montana,K7LYY,,147.1800,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,48.02,-114.36,+0:00
+23,USA West,Kalispell- Buffa,Montana,K7LYY,,146.7600,DUP-,0.6,FM,**DCOD,88.5Hz,Yes,Approximate,48.22,-114.32,+0:00
+23,USA West,Kalispell- Buffa,Montana,K7LYY,,446.4000,DUP-,0,FM,TSQL,100.0Hz,Yes,Approximate,48.22,-114.32,+0:00
+23,USA West,Lakeside- Black ,Montana,N7LT,,444.9000,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,48.02,-114.36,+0:00
+23,USA West,Lakeside- Blackt,Montana,N7LT,,147.2200,DUP+,0.6,FM,TONE,123.0Hz,Yes,Approximate,48.02,-114.36,+0:00
+23,USA West,Lakeside- Blackt,Montana,W7ZKA,,146.8600,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,48.02,-114.36,+0:00
+23,USA West,Libby,Montana,N7AGM,,444.3500,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,48.39,-115.55,+0:00
+23,USA West,Libby- Blue Mtn,Montana,W7YAK,,146.8200,DUP-,0.6,FM,TONE,88.5Hz,Yes,Approximate,48.49,-115.51,+0:00
+23,USA West,Libby- Blue Mtn,Montana,W7YAK,,444.2250,DUP+,5,FM,TONE,88.5Hz,Yes,Approximate,48.52,-115.43,+0:00
+23,USA West,Missoula,Montana,N7PAS,,146.9200,DUP-,0.6,FM,TONE,91.5Hz,Yes,Approximate,46.86,-113.93,+0:00
+23,USA West,Missoula- Point ,Montana,W7PX,,147.0400,DUP+,0.6,FM,TSQL,88.5Hz,Yes,Approximate,46.88,-113.99,+0:00
+23,USA West,Missoula- Point ,Montana,W7PX,,146.9000,DUP-,0.6,FM,TONE,88.5Hz,Yes,Approximate,46.88,-113.99,+0:00
+23,USA West,Missoula- Point ,Montana,W7PX,,444.8000,DUP+,5,FM,TONE,88.5Hz,Yes,Approximate,46.88,-113.99,+0:00
+23,USA West,Missoula- Univer,Montana,NZ7S,,147.0000,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.86,-113.93,+0:00
+23,USA West,Noxon- Green Mtn,Montana,KD7OCP,,145.3300,DUP-,0.6,FM,TONE,123.0Hz,Yes,Approximate,48,-115.78,+0:00
+23,USA West,Olney- Werner Pe,Montana,WR7DW,,444.6500,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,48.58,-114.43,+0:00
+23,USA West,Olney- Werner Pe,Montana,WR7DW,,147.2600,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,48.58,-114.43,+0:00
+23,USA West,Plains,Montana,W1KGK,,147.3600,DUP+,0.6,FM,TSQL,103.5Hz,Yes,Approximate,47.47,-114.88,+0:00
+23,USA West,Plains- Pats Kno,Montana,K7KTR,,147.1400,DUP+,0.6,FM,TONE,103.5Hz,Yes,Approximate,47.38,-114.85,+0:00
+23,USA West,Plains- Pats Kno,Montana,N7LT,,449.0750,DUP-,5,FM,TONE,123.0Hz,Yes,Approximate,47.47,-114.88,+0:00
+23,USA West,Plains- Pats Kno,Montana,N7LT,,146.6400,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,47.47,-114.88,+0:00
+23,USA West,Saltese- Lookout,Montana,K7HPT,,147.0200,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,47.46,-115.69,+0:00
+23,USA West,Somers,Montana,N7LT,,446.8000,DUP-,0,FM,TONE,100.0Hz,Yes,Approximate,48.09,-114.22,+0:00
+23,USA West,St Ignatius,Montana,KD7YAC,,145.4300,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,47.32,-114.09,+0:00
+23,USA West,Stevensville,Montana,KE7WR,,146.6600,DUP-,0.6,FM,TONE,88.5Hz,Yes,Approximate,46.51,-114.09,+0:00
+23,USA West,Stevensville,Montana,KK7GV,,147.3600,DUP+,0.6,FM,TONE,146.2Hz,Yes,Approximate,46.53,-113.97,+0:00
+23,USA West,Stevensville,Montana,W7FTX,,447.5000,DUP-,5,FM,TONE,203.5Hz,Yes,Approximate,46.51,-113.97,+0:00
+23,USA West,Superior- Thomps,Montana,W7PX,,146.9600,DUP-,0.6,FM,TONE,88.5Hz,Yes,Approximate,47.17,-114.91,+0:00
+23,USA West,Thompson Falls- ,Montana,W1KGK,,146.6800,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,47.33,-115.18,+0:00
+23,USA West,Troy- King Mtn,Montana,K7LBY,,146.8400,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,48.49,-115.79,+0:00
+23,USA West,Whitefish,Montana,WA7VNP,,444.8750,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,48.42,-114.33,+0:00
+23,USA West,Whitefish,Montana,WA7VNP,,444.9750,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,48.42,-114.33,+0:00
+23,USA West,Whitefish- Big M,Montana,KO8N,,145.2700,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,48.51,-114.34,+0:00
+23,USA West,Whitefish- Sandy,Montana,K7LYY,,147.3800,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,48.38,-114.29,+0:00
+23,USA West,Whitefish- Sandy,Montana,WA7VNP,,443.7750,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,48.38,-114.29,+0:00
+23,USA West,Whitefish- Top o,Montana,W7ZKA,,146.8600,DUP-,0.6,FM,TONE,123.0Hz,Yes,Approximate,48.51,-114.34,+0:00
+23,USA West,Yaak,Montana,W7YAK,,147.0000,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,48.84,-115.7,+0:00
+23,USA West,Athena- Weston M,Oregon,W7NEO,,441.7000,DUP+,5,FM,TSQL,131.8Hz,Yes,Approximate,45.81,-118.37,+0:00
+23,USA West,Baker City- Beav,Oregon,NK7J,,145.2700,DUP-,0.6,FM,TSQL,110.9Hz,Yes,Approximate,44.59,-117.78,+0:00
+23,USA West,Boardman,Oregon,K7ELJ,,146.9800,DUP-,0.6,FM,TSQL,141.3Hz,Yes,Approximate,45.68,-119.84,+0:00
+23,USA West,Boardman- Coalfi,Oregon,AI7HO,,147.1600,DUP+,0.6,FM,TONE,88.5Hz,Yes,Approximate,45.7,-119.8,+0:00
+23,USA West,Condon- Old USAF,Oregon,KM7MM,,145.4300,DUP-,0.6,FM,TONE,162.2Hz,Yes,Approximate,45.24,-120.18,+0:00
+23,USA West,Elgin- Spout Spr,Oregon,WF7S,,146.8000,DUP-,0.6,FM,TSQL,123.0Hz,Yes,Approximate,45.75,-118.03,+0:00
+23,USA West,Heppner,Oregon,W7NEO,,147.3200,DUP+,0.6,FM,**DCOD,88.5Hz,Yes,Approximate,45.22,-119.29,+0:00
+23,USA West,Heppner- Black M,Oregon,KC7SOY,,145.2300,DUP-,0.6,FM,TSQL,67.0Hz,Yes,Approximate,45.22,-119.29,+0:00
+23,USA West,Heppner- Black M,Oregon,KC7SOY,,146.7800,DUP-,0.6,FM,TSQL,67.0Hz,Yes,Approximate,45.22,-119.29,+0:00
+23,USA West,Hermiston,Oregon,WB7ILL,,443.8000,DUP+,5,FM,TSQL,118.8Hz,Yes,Approximate,45.86,-119.28,+0:00
+23,USA West,Joseph,Oregon,KB7DZR,,147.0000,DUP+,0.6,FM,TSQL,103.5Hz,Yes,Approximate,45.39,-117.23,+0:00
+23,USA West,La Grande- Hospi,Oregon,W7GRA,,146.9800,DUP-,0.6,FM,TSQL,100.0Hz,Yes,Approximate,45.32,-118.1,+0:00
+23,USA West,La Grande- Mt Em,Oregon,K7UNI,,145.1500,DUP-,0.6,FM,TSQL,110.9Hz,Yes,Approximate,45.44,-118.09,+0:00
+23,USA West,La Grande- Mt Fa,Oregon,K7RPT,,147.2600,DUP+,0.6,FM,TONE,103.5Hz,Yes,Approximate,45.31,-117.73,+0:00
+23,USA West,La Grande- Mt Ha,Oregon,KF7GOR,,444.9250,DUP+,5,FM,TSQL,146.2Hz,Yes,Approximate,45.45,-117.89,+0:00
+23,USA West,Lime- Lime Hill,Oregon,NK7J,,145.1700,DUP-,0.6,FM,TSQL,110.9Hz,Yes,Approximate,44.44,-117.24,+0:00
+23,USA West,Milton-Freewater,Oregon,KD7DDQ,,147.2800,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,45.99,-118.16,+0:00
+23,USA West,Pendleton- Cabba,Oregon,W7NEO,,146.8800,DUP-,0.6,FM,**DCOD,88.5Hz,Yes,Approximate,45.56,-118.61,+0:00
+23,USA West,Pendleton- Deadm,Oregon,K7RPT,,145.3300,DUP-,0.6,FM,TONE,103.5Hz,Yes,Approximate,45.61,-118.5,+0:00
+23,USA West,Stanfield- Carne,Oregon,N7NKT,,444.9500,DUP+,5,FM,TSQL,118.8Hz,Yes,Approximate,45.29,-118.94,+0:00
+23,USA West,Union,Oregon,NK7J,,147.0600,DUP+,0.6,FM,TSQL,110.9Hz,Yes,Approximate,45.09,-117.54,+0:00
+23,USA West,Weston- Waldo Mt,Oregon,N7DWC,,444.6500,DUP+,5,FM,TONE,88.5Hz,Yes,Approximate,45.81,-118.33,+0:00
+23,USA West,Almira,Washington,W7OHI,,147.0000,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,47.72,-118.94,+0:00
+23,USA West,Anatone,Washington,WF7L,,446.0500,DUP-,0,FM,TSQL,103.5Hz,Yes,Approximate,46.12,-117,+0:00
+23,USA West,Brewster- Dyer H,Washington,W7GSN,,146.7400,DUP-,0.6,FM,TONE,110.9Hz,Yes,Approximate,48.06,-119.71,+0:00
+23,USA West,Chelan,Washington,K7SRG,,145.4500,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,47.85,-120.01,+0:00
+23,USA West,Chelan- McNeal C,Washington,K7SMX,,444.5250,DUP+,5,FM,TONE,94.8Hz,Yes,Approximate,47.86,-119.87,+0:00
+23,USA West,Chelan- McNeal C,Washington,K7SMX,,147.1000,DUP+,0.6,FM,TONE,88.5Hz,Yes,Approximate,47.86,-119.87,+0:00
+23,USA West,Chewelah,Washington,KB7UJI,,146.7000,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,48.28,-117.71,+0:00
+23,USA West,Chewelah,Washington,W7GHJ,,145.1300,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,48.28,-117.71,+0:00
+23,USA West,Chewelah- Stensg,Washington,N7WRR,,147.3600,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,48.19,-117.98,+0:00
+23,USA West,Clarkston,Washington,WA7HGR,,444.3750,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,46.42,-117.04,+0:00
+23,USA West,Cle Elum,Washington,W7HNH,,444.9250,DUP+,5,FM,TONE,131.8Hz,Yes,Approximate,47.2,-120.93,+0:00
+23,USA West,Cle Elum,Washington,W7UKC,,147.1600,DUP+,0.6,FM,TSQL,131.8Hz,Yes,Approximate,47.2,-120.93,+0:00
+23,USA West,Cle Elum- Sky Me,Washington,N7KGS,,147.3600,DUP+,0.6,FM,TSQL,131.8Hz,Yes,Approximate,47.2,-120.93,+0:00
+23,USA West,Colfax- Kamiak B,Washington,AC7DC,,146.7400,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,46.87,-117.16,+0:00
+23,USA West,Colville,Washington,K7SRG,,145.4500,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,48.55,-117.9,+0:00
+23,USA West,Colville Indian ,Washington,KF7VSX,,446.5000,DUP-,0,FM,TSQL,100.0Hz,Yes,Approximate,48.07,-118.79,+0:00
+23,USA West,Colville- Monume,Washington,K7JAR,,146.6200,DUP-,0.6,FM,TONE,77.0Hz,Yes,Approximate,48.5,-118.06,+0:00
+23,USA West,Cowiche- Cowiche,Washington,N7YRC,,442.7250,DUP+,5,FM,TSQL,127.3Hz,Yes,Approximate,46.63,-120.73,+0:00
+23,USA West,Curlew,Washington,N7XAY,,145.2300,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,48.89,-118.59,+0:00
+23,USA West,Davenport- Teel ,Washington,W7OHI,,147.0400,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,47.73,-118.15,+0:00
+23,USA West,Deer Park- Scoop,Washington,KA7ENA,,444.6500,DUP+,5,FM,TONE,123.0Hz,Yes,Approximate,47.95,-117.67,+0:00
+23,USA West,Deer Park- Scoop,Washington,WA7UOJ,,444.9500,DUP+,5,FM,TSQL,110.9Hz,Yes,Approximate,47.95,-117.67,+0:00
+23,USA West,East Wenatchee,Washington,AE7MK,,443.5000,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,47.42,-120.29,+0:00
+23,USA West,East Wenatchee,Washington,KB7MVF,,443.6500,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,47.41,-120.26,+0:00
+23,USA West,East Wenatchee- ,Washington,N7RHT,,444.7500,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,47.44,-120.07,+0:00
+23,USA West,Ellensburg,Washington,N7KGS,,146.7200,DUP-,0.6,FM,TONE,131.8Hz,Yes,Approximate,47,-120.54,+0:00
+23,USA West,Ellensburg- Sky ,Washington,N7KGS,,442.2000,DUP+,5,FM,TONE,131.8Hz,Yes,Approximate,47,-120.54,+0:00
+23,USA West,Ellensburg- Tabl,Washington,K7RHT,,444.4500,DUP+,5,FM,TSQL,131.8Hz,Yes,Approximate,47.16,-120.56,+0:00
+23,USA West,Ellensburg- Tabl,Washington,K7RHT,,147.0000,DUP+,0.6,FM,TSQL,131.8Hz,Yes,Approximate,47.16,-120.56,+0:00
+23,USA West,Elmer City- Kell,Washington,KF7VSX,,146.5000,DUP-,0,FM,TSQL,100.0Hz,Yes,Approximate,48.07,-118.79,+0:00
+23,USA West,Ephrata- Beezly ,Washington,W7DTT,,444.9000,DUP+,5,FM,TSQL,103.5Hz,Yes,Approximate,47.28,-119.57,+0:00
+23,USA West,Ephrata- Beezly ,Washington,W7TT,,145.3100,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,47.28,-119.57,+0:00
+23,USA West,Fairchild AFB ,Washington,KC5GI,,440.5000,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,47.62,-117.64,+0:00
+23,USA West,Goldendale- Juni,Washington,KF7LN,,443.3500,DUP+,5,FM,TSQL,136.5Hz,Yes,Approximate,45.74,-120.73,+0:00
+23,USA West,Goldendale- Juni,Washington,WC7EC,,146.8200,DUP-,0.6,FM,TSQL,103.5Hz,Yes,Approximate,45.74,-120.73,+0:00
+23,USA West,Goldendale- Simc,Washington,KC7UTD,,146.9200,DUP-,0.6,FM,TONE,88.5Hz,Yes,Approximate,46.01,-120.75,+0:00
+23,USA West,Grand Coulee- Gr,Washington,KE7NRA,,146.8600,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,47.96,-118.97,+0:00
+23,USA West,Greenacres,Washington,K7HRT,,442.4250,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,47.67,-117.16,+0:00
+23,USA West,Hartline,Washington,KB7WPU,,147.1400,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,47.7,-119.1,+0:00
+23,USA West,Hartline,Washington,KB7WPU,,444.4500,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,47.7,-119.1,+0:00
+23,USA West,Ione,Washington,NE7WA,,145.4700,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,48.75,-117.41,+0:00
+23,USA West,Kennewick,Washington,K7SRG,,145.4500,DUP-,0.6,FM,TONE,88.5Hz,Yes,Approximate,46.21,-119.12,+0:00
+23,USA West,Kennewick,Washington,KD7JC,,444.4000,DUP+,5,FM,TONE,250.3Hz,Yes,Approximate,46.22,-119.13,+0:00
+23,USA West,Kennewick,Washington,W7JWC,,443.7750,DUP+,5,FM,TONE,203.5Hz,Yes,Approximate,46.22,-119.13,+0:00
+23,USA West,Kennewick,Washington,W7UPS,,443.9500,DUP+,5,FM,TSQL,123.0Hz,Yes,Approximate,46.22,-119.13,+0:00
+23,USA West,Kennewick- Horse,Washington,W7UPS,,145.3900,DUP-,0.6,FM,TONE,103.5Hz,Yes,Approximate,46.14,-119.86,+0:00
+23,USA West,Kennewick- Johns,Washington,N7LZM,,147.2200,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.1,-119.19,+0:00
+23,USA West,Kennewick- Jump ,Washington,N7LZM,,145.4100,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,46.11,-119.13,+0:00
+23,USA West,Liberty Lake- Kr,Washington,KC7GKY,,145.1700,DUP-,0.6,FM,TSQL,114.8Hz,Yes,Approximate,47.66,-117.06,+0:00
+23,USA West,Mabton- Missouri,Washington,KB7CSP,,443.8250,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,46.22,-119.99,+0:00
+23,USA West,Manson- Slide Ri,Washington,K7YR,,146.8200,DUP-,0.6,FM,TSQL,103.5Hz,Yes,Approximate,47.89,-120.15,+0:00
+23,USA West,Mead,Washington,KF7VOC,,146.6800,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,47.77,-117.35,+0:00
+23,USA West,Medical Lake,Washington,WA7RVV,,443.6000,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,47.58,-117.68,+0:00
+23,USA West,Moses Lake,Washington,K1YNE,,442.0500,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,47.12,-119.29,+0:00
+23,USA West,Moxee City- Elep,Washington,W7AQ,,146.8400,DUP-,0.6,FM,TONE,123.0Hz,Yes,Approximate,46.53,-120.33,+0:00
+23,USA West,Moxee City- Elep,Washington,WA7SAR,,444.6000,DUP+,5,FM,TSQL,123.0Hz,Yes,Approximate,46.53,-120.33,+0:00
+23,USA West,Naches- Whites P,Washington,KD7LZN,,442.4750,DUP+,5,FM,TONE,210.7Hz,Yes,Approximate,46.18,-120.89,+0:00
+23,USA West,Newport- Cooks M,Washington,W6SPY,,444.5750,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,48.22,-117.08,+0:00
+23,USA West,Newport- Cooks M,Washington,W7POC,,145.4700,DUP-,0.6,FM,TSQL,100.0Hz,Yes,Approximate,48.22,-117.08,+0:00
+23,USA West,Newport- Diamond,Washington,W6SPY,,146.9000,DUP-,0.6,FM,TSQL,100.0Hz,Yes,Approximate,48.14,-117.17,+0:00
+23,USA West,Newport- Diamond,Washington,W6SPY,,442.2750,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,48.14,-117.17,+0:00
+23,USA West,Nine Mile Falls,Washington,W7UPS,,444.4000,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,47.78,-117.55,+0:00
+23,USA West,Nine Mile Falls-,Washington,W7UPS,,448.7000,DUP-,5,FM,TSQL,123.0Hz,Yes,Approximate,47.78,-117.54,+0:00
+23,USA West,Okanogan- Pitche,Washington,WA7MV,,443.5500,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,48.32,-119.54,+0:00
+23,USA West,Omak,Washington,K7SRG,,147.2000,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,48.4,-119.5,+0:00
+23,USA West,Omak- Tunk Mtn,Washington,W7ORC,,145.4700,DUP-,0.6,FM,TONE,173.8Hz,Yes,Approximate,48.55,-119.23,+0:00
+23,USA West,Omak- Tunk Mtn,Washington,WA7MV,,147.3200,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,48.55,-119.23,+0:00
+23,USA West,Oroville- Buckho,Washington,WA7DJ,,147.1400,DUP+,0.6,FM,TONE,103.5Hz,Yes,Approximate,48.95,-118.98,+0:00
+23,USA West,Othello- Radar H,Washington,KK7BIM,,145.2300,DUP-,0.6,FM,TSQL,123.0Hz,Yes,Approximate,46.75,-119.21,+0:00
+23,USA West,Otis Orchards,Washington,NV2Z,,442.9250,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,47.71,-117.1,+0:00
+23,USA West,Otis Orchards- F,Washington,AD7DD,,147.1400,DUP+,0.6,FM,TONE,127.3Hz,Yes,Approximate,47.73,-117.09,+0:00
+23,USA West,Pasco,Washington,WF7S,,146.6200,DUP-,0.6,FM,TSQL,123.0Hz,Yes,Approximate,46.23,-119.19,+0:00
+23,USA West,Plymouth- Sillus,Washington,AI7HO,,443.7500,DUP+,5,FM,TONE,103.5Hz,Yes,Approximate,45.94,-119.35,+0:00
+23,USA West,Plymouth- Sillus,Washington,AI7HO,,147.0200,DUP+,0.6,FM,TSQL,103.5Hz,Yes,Approximate,45.95,-119.31,+0:00
+23,USA West,Port Orchard,Washington,KF7AKK,,440.1000,DUP+,5,FM,TONE,100.0Hz,Yes,Approximate,47.76,-120.74,+0:00
+23,USA West,Prosser,Washington,W7LYV,,442.3000,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,46.21,-119.76,+0:00
+23,USA West,Pullman,Washington,KC7AUI,,444.3000,DUP+,5,FM,TONE,103.5Hz,Yes,Approximate,46.76,-117.16,+0:00
+23,USA West,Pullman- SEL Cam,Washington,K7SEL,,147.1000,DUP+,0.6,FM,TONE,103.5Hz,Yes,Approximate,46.76,-117.15,+0:00
+23,USA West,Quincy,Washington,AE7MK,,442.8250,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,47.24,-119.85,+0:00
+23,USA West,Republic,Washington,N7XAY,,145.1900,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,48.68,-118.73,+0:00
+23,USA West,Richland,Washington,K7SRG,,145.2500,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.29,-119.27,+0:00
+23,USA West,Richland- Rattle,Washington,W7AZ,,449.1000,DUP-,5,FM,TONE,100.0Hz,Yes,Approximate,46.5,-119.59,+0:00
+23,USA West,Richland- Rattle,Washington,W7VPA,,146.7600,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,46.29,-119.28,+0:00
+23,USA West,Ritzville ,Washington,W7UPS,,444.0500,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,47.13,-118.38,+0:00
+23,USA West,Ritzville,Washington,WD7C,,146.7200,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,47.13,-118.38,+0:00
+23,USA West,Roosevelt,Washington,K7ELJ,,443.8000,DUP+,5,FM,TSQL,141.3Hz,Yes,Approximate,45.75,-120.21,+0:00
+23,USA West,Selah- North Sel,Washington,KO7W,,443.2750,DUP+,5,FM,TONE,88.5Hz,Yes,Approximate,46.68,-120.57,+0:00
+23,USA West,Selah- Yakima Ca,Washington,KC7VQR,,147.2400,DUP+,0.6,FM,TSQL,192.8Hz,Yes,Approximate,46.66,-120.53,+0:00
+23,USA West,Soap Lake,Washington,KB7WPU,,443.5000,DUP+,5,FM,TSQL,173.8Hz,Yes,Approximate,47.38,-119.45,+0:00
+23,USA West,Spokane,Washington,K7SRG,,147.2000,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,47.6,-117.4,+0:00
+23,USA West,Spokane,Washington,K7SRG,,444.7000,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,47.6,-117.4,+0:00
+23,USA West,Spokane,Washington,K7SRG,,147.1200,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,47.66,-117.42,+0:00
+23,USA West,Spokane,Washington,N7FM,,146.6600,DUP-,0.6,FM,TSQL,107.2Hz,Yes,Approximate,47.66,-117.42,+0:00
+23,USA West,Spokane,Washington,N7FM,,442.6000,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,47.66,-117.42,+0:00
+23,USA West,Spokane,Washington,N7FM,,145.3300,DUP-,0.6,FM,TSQL,88.5Hz,Yes,Approximate,47.6,-117.23,+0:00
+23,USA West,Spokane,Washington,N7FM,,444.4250,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,47.6,-117.23,+0:00
+23,USA West,Spokane,Washington,N7ISP,,441.7750,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,47.66,-117.42,+0:00
+23,USA West,Spokane,Washington,W7GBU,,443.4000,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,47.66,-117.42,+0:00
+23,USA West,Spokane,Washington,W7TRF,,145.2100,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,47.63,-117.17,+0:00
+23,USA West,Spokane,Washington,WA7DRE,,443.5250,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,47.41,-117.23,+0:00
+23,USA West,Spokane Valley,Washington,W7IF,,441.1750,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,47.68,-117.23,+0:00
+23,USA West,Spokane Valley- ,Washington,WR7VHF,,444.9000,DUP+,5,FM,TONE,123.0Hz,Yes,Approximate,47.7,-117.25,+0:00
+23,USA West,Spokane- Airport,Washington,K7MMA,,444.4500,DUP+,5,FM,TSQL,77.0Hz,Yes,Approximate,47.63,-117.53,+0:00
+23,USA West,Spokane- Airport,Washington,K7MMA,,145.2900,DUP-,0.6,FM,TSQL,77.0Hz,Yes,Approximate,47.61,-117.5,+0:00
+23,USA West,Spokane- Booth H,Washington,KA7ENA,,443.8000,DUP+,5.025,FM,TONE,123.0Hz,Yes,Approximate,47.56,-117.72,+0:00
+23,USA West,Spokane- Brownes,Washington,W7GBU,,147.3000,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,47.66,-117.42,+0:00
+23,USA West,Spokane- Downtow,Washington,WR7VHF,,147.3400,DUP+,0.6,FM,TONE,123.0Hz,Yes,Approximate,47.66,-117.42,+0:00
+23,USA West,Spokane- Five Mi,Washington,N7BFS,,444.1750,DUP+,5,FM,TONE,88.5Hz,Yes,Approximate,47.74,-117.44,+0:00
+23,USA West,Spokane- Five Mi,Washington,N7BFS,,147.0600,DUP+,0.6,FM,TSQL,77.0Hz,Yes,Approximate,47.75,-117.4,+0:00
+23,USA West,Spokane- Krell H,Washington,AE7RJ,,444.5000,DUP+,5,FM,TSQL,136.5Hz,Yes,Approximate,47.35,-117.17,+0:00
+23,USA West,Spokane- Krell H,Washington,KC7AAD,,444.1250,DUP+,5,FM,OFF,100.0Hz,Yes,Approximate,47.6,-117.29,+0:00
+23,USA West,Spokane- Krell H,Washington,W7UPS,,145.3900,DUP-,0.6,FM,TSQL,100.0Hz,Yes,Approximate,47.59,-117.29,+0:00
+23,USA West,Spokane- Krell H,Washington,WR7VHF,,146.8800,DUP-,0.6,FM,TSQL,123.0Hz,Yes,Approximate,47.58,-117.29,+0:00
+23,USA West,Spokane- Mica Pe,Washington,N7WRQ,,147.3800,DUP+,0.6,FM,TONE,100.0Hz,Yes,Approximate,47.58,-117.08,+0:00
+23,USA West,Spokane- Mica Pe,Washington,WA7HWD,,147.2400,DUP+,0.6,FM,TONE,88.5Hz,Yes,Approximate,47.58,-117.08,+0:00
+23,USA West,Spokane- Mica Pe,Washington,WA7UOJ,,145.1100,DUP-,0.6,FM,TSQL,118.8Hz,Yes,Approximate,47.58,-117.08,+0:00
+23,USA West,Spokane- Mt Spok,Washington,WR7VHF,,444.6000,DUP+,5,FM,TONE,123.0Hz,Yes,Approximate,47.92,-117.11,+0:00
+23,USA West,Spokane- Paradis,Washington,KG7SD,,147.1000,DUP+,0.6,FM,TSQL,100.0Hz,Yes,Approximate,47.57,-117.42,+0:00
+23,USA West,Spokane- South H,Washington,KI7TRR,,146.4750,DUP+,1,FM,TSQL,100.0Hz,Yes,Approximate,47.63,-117.39,+0:00
+23,USA West,Spokane- South H,Washington,N1NG,,444.3500,DUP+,5,FM,TONE,192.8Hz,Yes,Approximate,47.58,-117.08,+0:00
+23,USA West,Spokane- Tower M,Washington,KA7ENA,,145.3700,DUP-,0.6,FM,TSQL,141.3Hz,Yes,Approximate,47.6,-117.29,+0:00
+23,USA West,Spokane- West Pl,Washington,K7MMA,,443.9250,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,47.61,-117.5,+0:00
+23,USA West,Tieton,Washington,AB7XQ,,444.2250,DUP+,5,FM,TSQL,100.0Hz,Yes,Approximate,46.71,-120.75,+0:00
+23,USA West,Tieton,Washington,WA7SAR,,145.1700,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.71,-120.75,+0:00
+23,USA West,Twisp,Washington,WA7MV,,146.7200,DUP-,0.6,FM,TSQL,100.0Hz,Yes,Approximate,48.37,-120.12,+0:00
+23,USA West,Twisp- McClure M,Washington,WA7MV,,147.2200,DUP+,0.6,FM,TSQL,100.0Hz,Yes,Approximate,48.32,-120.11,+0:00
+23,USA West,Twisp- McClure M,Washington,WA7MV,,444.8000,DUP+,5,FM,TSQL,110.9Hz,Yes,Approximate,48.32,-120.11,+0:00
+23,USA West,Vantage- Saddle ,Washington,N7MHE,,145.3500,DUP-,0.6,FM,TONE,100.0Hz,Yes,Approximate,46.81,-119.88,+0:00
+23,USA West,Veradale- Suliva,Washington,W7TRF,,443.4750,DUP+,5,FM,TONE,88.5Hz,Yes,Approximate,47.61,-117.2,+0:00
+23,USA West,Walla Walla,Washington,KH6IHB,,147.1400,DUP+,0.6,FM,TONE,94.8Hz,Yes,Approximate,46.07,-118.34,+0:00
+23,USA West,Walla Walla,Washington,KL7NA,,444.2500,DUP+,5,FM,OFF,88.5Hz,Yes,Approximate,46.07,-118.34,+0:00
+23,USA West,Walla Walla- Her,Washington,WA7WWC,,146.9600,DUP-,0.6,FM,TSQL,74.4Hz,Yes,Approximate,46.07,-118.34,+0:00
+23,USA West,Walla Walla- Her,Washington,WA7WWC,,443.4500,DUP+,5,FM,TSQL,123.0Hz,Yes,Approximate,46.07,-118.34,+0:00
+23,USA West,Walla Walla- Pik,Washington,KB7ARA,,147.2800,DUP+,0.6,FM,TONE,103.5Hz,Yes,Approximate,46,-118.18,+0:00
+23,USA West,Wenatchee,Washington,K7SRG,,147.2000,DUP+,0.6,FM,OFF,136.5Hz,Yes,Approximate,47.4,-120.3,+0:00
+23,USA West,Wenatchee,Washington,N7RHT,,146.7800,DUP-,0.6,FM,TONE,156.7Hz,Yes,Approximate,47.43,-120.31,+0:00
+23,USA West,Wenatchee- Burch,Washington,W7TD,,146.6800,DUP-,0.6,FM,TONE,156.7Hz,Yes,Approximate,47.59,-120.39,+0:00
+23,USA West,Wenatchee- Missi,Washington,WR7ADX,,146.9000,DUP-,0.6,FM,TSQL,173.8Hz,Yes,Approximate,47.37,-120.49,+0:00
+23,USA West,Wenatchee- Naneu,Washington,KB7TYR,,147.2600,DUP+,0.6,FM,TSQL,156.7Hz,Yes,Approximate,47.26,-120.38,+0:00
+23,USA West,White Swan- Fort,Washington,KA7IJU,,146.7200,DUP-,0.6,FM,TONE,123.0Hz,Yes,Approximate,46.37,-120.94,+0:00
+23,USA West,Wilson Creek,Washington,W7CH,,145.1300,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,47.43,-119.12,+0:00
+23,USA West,Winthrop,Washington,NO7RF,,146.5200,DUP-,0,FM,TSQL,100.0Hz,Yes,Approximate,48.48,-120.18,+0:00
+23,USA West,Yakima,Washington,K7SRG,,147.2000,DUP+,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.61,-120.5,+0:00
+23,USA West,Yakima,Washington,KF7VOC,,145.1500,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.61,-120.5,+0:00
+23,USA West,Yakima,Washington,WA7SAR,,145.2700,DUP-,0.6,FM,OFF,88.5Hz,Yes,Approximate,46.61,-120.5,+0:00
+23,USA West,Yakima- Ahtanum ,Washington,W7CCY,,146.9400,DUP-,0.6,FM,TSQL,173.8Hz,Yes,Approximate,46.51,-120.81,+0:00
+23,USA West,Yakima- Bethel R,Washington,W7AQ,,147.3000,DUP+,0.6,FM,TSQL,123.0Hz,Yes,Approximate,46.76,-120.97,+0:00
+23,USA West,Yakima- Eagle Pe,Washington,W7AQ,,146.6600,DUP-,0.6,FM,TSQL,123.0Hz,Yes,Approximate,46.65,-120.39,+0:00
+23,USA West,Yakima- Lookout ,Washington,N7YRC,,444.7500,DUP+,5,FM,TSQL,131.8Hz,Yes,Approximate,46.64,-120.53,+0:00
+23,USA West,Yakima- Yakima V,Washington,WA7SAR,,147.0600,DUP+,0.6,FM,TSQL,85.4Hz,Yes,Approximate,46.6,-120.53,+0:00
